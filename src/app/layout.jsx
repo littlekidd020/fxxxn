@@ -1,5 +1,7 @@
 import { Inter, Playfair_Display, Noto_Sans_SC, Noto_Serif_SC } from "next/font/google";
 import "./globals.css";
+
+export const runtime = "edge";
 import Navbar from "../components/layout/Navbar";
 import ConciergeBar from "../components/layout/ConciergeBar";
 import Footer from "../components/layout/Footer";
