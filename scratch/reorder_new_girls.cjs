@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const filePath = '/Users/kexinli/My Drive/AI Projects/bella/src/lib/data.js';
+const filePath = path.join(__dirname, '../src/lib/data.js');
 let content = fs.readFileSync(filePath, 'utf8');
 
 // Match the girls array
