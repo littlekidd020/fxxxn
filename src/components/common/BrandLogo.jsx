@@ -13,7 +13,7 @@ const BrandLogo = ({ className = "w-12 h-12" }) => {
     >
       <img 
         src="/images/logo.svg" 
-        alt="Angel Cuties Logo" 
+        alt="Fxxxn Logo" 
         className="w-full h-full object-contain"
       />
     </motion.div>

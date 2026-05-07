@@ -66,7 +66,7 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
         animate={{ x: 0 }}
         exit={{ x: "100%" }}
         transition={{ type: "spring", damping: 25, stiffness: 200 }}
-        className="relative w-full sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-2xl h-full bg-[#FFE4EC] border-l border-[#F84A88]/10 shadow-2xl flex flex-col pointer-events-auto"
+        className="relative w-full sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-2xl h-full bg-[#0A0A0A] border-l border-[#008000]/10 shadow-2xl flex flex-col pointer-events-auto"
       >
         {/* Close Button */}
         <button 
@@ -84,19 +84,19 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
             onClick={() => setSelectedImage(true)}
             className="w-full h-full object-cover object-top transition-transform duration-700 group-hover/profile:scale-110 cursor-zoom-in"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#FFE4EC] via-[#FFE4EC]/70 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#0A0A0A] via-[#0A0A0A]/70 to-transparent" />
           
           {/* Navigation Buttons */}
           <div className="absolute top-1/2 left-4 right-4 -translate-y-1/2 flex justify-between opacity-0 group-hover/profile:opacity-100 transition-opacity duration-300">
             <button 
               onClick={(e) => { e.stopPropagation(); onPrev(); }}
-              className="p-3 bg-white/60 backdrop-blur-xl border border-white/80 rounded-full text-[#15030A] hover:bg-[#F84A88] hover:text-white transition-colors shadow-sm"
+              className="p-3 bg-white/60 backdrop-blur-xl border border-white/80 rounded-full text-[#15030A] hover:bg-[#008000] hover:text-white transition-colors shadow-sm"
             >
                <ChevronLeft size={24} />
             </button>
             <button 
               onClick={(e) => { e.stopPropagation(); onNext(); }}
-              className="p-3 bg-white/60 backdrop-blur-xl border border-white/80 rounded-full text-[#15030A] hover:bg-[#F84A88] hover:text-white transition-colors shadow-sm"
+              className="p-3 bg-white/60 backdrop-blur-xl border border-white/80 rounded-full text-[#15030A] hover:bg-[#008000] hover:text-white transition-colors shadow-sm"
             >
                <ChevronRight size={24} />
             </button>
@@ -105,8 +105,8 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
           <div className="absolute bottom-8 left-8">
             <h2 className="text-5xl font-serif italic text-[#15030A] mb-2 font-playfair">{model.name}</h2>
             <div className="flex items-center gap-3">
-               <span className="h-2 w-2 rounded-full bg-[#F84A88]"></span>
-               <span className="text-[10px] uppercase tracking-[0.3em] font-sans text-[#F84A88] font-bold">
+               <span className="h-2 w-2 rounded-full bg-[#008000]"></span>
+               <span className="text-[10px] uppercase tracking-[0.3em] font-sans text-[#008000] font-bold">
                  {t.girl.available}
                </span>
             </div>
@@ -124,8 +124,8 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-[10px] uppercase tracking-widest text-[#F84A88] font-bold font-sans flex items-center gap-2">
-              <Play size={10} fill="#F84A88" /> {t.grid.verification}
+            <h4 className="text-[10px] uppercase tracking-widest text-[#008000] font-bold font-sans flex items-center gap-2">
+              <Play size={10} fill="#008000" /> {t.grid.verification}
             </h4>
             <TrustVideo 
               src={model.video || "https://joy1.videvo.net/videvo_files/video/premium/getty_14/1080p/201211_076_Woman_In_Silk_Robe_1_1080p.mp4"} 
@@ -134,8 +134,8 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-[10px] uppercase tracking-widest text-[#F84A88] font-bold font-sans flex items-center gap-2">
-              <Banknote size={10} className="text-[#F84A88]" /> {t.girl.price || "Price"}
+            <h4 className="text-[10px] uppercase tracking-widest text-[#008000] font-bold font-sans flex items-center gap-2">
+              <Banknote size={10} className="text-[#008000]" /> {t.girl.price || "Price"}
             </h4>
             <div className="flex flex-col gap-2">
               {model.price.split("·").map((rate, i) => {
@@ -157,8 +157,8 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-[10px] uppercase tracking-widest text-[#F84A88] font-bold font-sans flex items-center gap-2">
-              <Sparkles size={10} className="text-[#F84A88]" /> {t.girl.services || "Services"}
+            <h4 className="text-[10px] uppercase tracking-widest text-[#008000] font-bold font-sans flex items-center gap-2">
+              <Sparkles size={10} className="text-[#008000]" /> {t.girl.services || "Services"}
             </h4>
             <div className="flex flex-wrap gap-x-2 gap-y-1 text-[#15030A]/80 leading-relaxed font-sans text-base">
               {(() => {
@@ -209,7 +209,7 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-[10px] uppercase tracking-widest text-[#F84A88] font-bold font-sans">{t.girl.about}</h4>
+            <h4 className="text-[10px] uppercase tracking-widest text-[#008000] font-bold font-sans">{t.girl.about}</h4>
             <p className="text-[#15030A]/70 leading-relaxed font-sans text-sm">
               {model.description || "A dedicated professional offering a personalized and refined experience. Expertly trained in various techniques to ensure your absolute relaxation and satisfaction."}
             </p>
@@ -220,7 +220,7 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
             <a 
               href={`https://wa.me/64225391339?text=${t.girl.contactMsg.replace("[name]", model.name)}`}
               target="_blank"
-              className="flex items-center justify-center gap-3 w-full py-4 bg-[#F84A88] text-white rounded-xl hover:bg-[#D41E5D] transition-colors shadow-lg"
+              className="flex items-center justify-center gap-3 w-full py-4 bg-[#008000] text-white rounded-xl hover:bg-[#16A34A] transition-colors shadow-lg"
             >
               <MessageCircle size={20} />
               <span className="text-xs uppercase tracking-[0.2em] font-bold font-sans">{t.girl.whatsapp}</span>

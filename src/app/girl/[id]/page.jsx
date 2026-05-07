@@ -30,12 +30,12 @@ import ImageModal from "@/components/common/ImageModal";
 const StatItem = ({ icon: Icon, label, value, t }) => {
   const displayValue = typeof value === 'string' ? value.replace("(Natural)", t.girl.natural) : value;
   return (
-    <div className="flex flex-col gap-2 p-6 rounded-2xl bg-white/40 border border-white/60 shadow-sm backdrop-blur-sm hover:border-[#F84A88]/50 transition-colors">
-      <div className="flex items-center gap-2 text-[#C5A059]">
-        <Icon size={18} className="text-[#F84A88]" />
-        <span className="text-xs uppercase tracking-widest font-sans text-[#15030A]/50">{label}</span>
+    <div className="flex flex-col gap-2 p-6 rounded-2xl bg-noir-soft/40 border border-white/10 shadow-sm backdrop-blur-sm hover:border-emerald/50 transition-colors">
+      <div className="flex items-center gap-2 text-emerald">
+        <Icon size={18} className="text-emerald" />
+        <span className="text-xs uppercase tracking-widest font-sans text-white/50">{label}</span>
       </div>
-      <p className="text-2xl font-serif text-[#15030A] font-playfair">{displayValue}</p>
+      <p className="text-2xl font-serif text-white font-playfair">{displayValue}</p>
     </div>
   );
 };
@@ -60,7 +60,7 @@ export default function GirlDetailsPage() {
     }
   }, [id, router]);
 
-  if (!model) return <div className="min-h-screen bg-[#FFE4EC]" />;
+  if (!model) return <div className="min-h-screen bg-noir" />;
 
   const isAvailable = model.status === "available";
   const allImages = model ? [model.image, ...(model.gallery || [])] : [];
@@ -74,7 +74,7 @@ export default function GirlDetailsPage() {
   const prevImage = () => setImageIdx((prev) => (prev - 1 + allImages.length) % allImages.length);
 
   return (
-    <main className="min-h-screen bg-[#FFE4EC] pb-12 md:pb-32">
+    <main className="min-h-screen bg-noir pb-12 md:pb-32">
       {/* Main Content Grid */}
       <section className="px-8 max-w-7xl mx-auto pt-28 lg:pt-52 relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-5 lg:gap-16">
         
@@ -93,38 +93,38 @@ export default function GirlDetailsPage() {
               <div className="flex flex-col items-start gap-2 shrink-0">
                 <button 
                   onClick={() => router.back()}
-                  className="p-2.5 bg-white/60 backdrop-blur-xl border border-white/80 shadow-sm rounded-full text-[#15030A] hover:bg-white/80 hover:text-[#15030A] transition-colors"
+                  className="p-2.5 bg-noir-soft/60 backdrop-blur-xl border border-white/10 shadow-sm rounded-full text-white hover:bg-noir-soft hover:text-emerald transition-colors"
                 >
                   <ArrowLeft size={18} />
                 </button>
                 {model.location && (
-                  <div className="inline-flex items-center gap-2 bg-white/60 backdrop-blur-md border border-[#F84A88]/30 px-4 py-1.5 rounded-full shadow-sm">
-                    <MapPin size={14} className="text-[#F84A88]" />
-                    <span className="text-[10px] uppercase tracking-widest font-sans text-[#15030A]/90 font-bold">
+                  <div className="inline-flex items-center gap-2 bg-noir-soft/60 backdrop-blur-md border border-emerald/30 px-4 py-1.5 rounded-full shadow-sm">
+                    <MapPin size={14} className="text-emerald" />
+                    <span className="text-[10px] uppercase tracking-widest font-sans text-white/90 font-bold">
                       {t.girl.locations[model.location] || model.location}
                     </span>
                   </div>
                 )}
               </div>
               {/* Name */}
-              <h1 className={`${lang === 'en' ? 'text-2xl md:text-4xl' : 'text-4xl md:text-6xl'} font-serif text-[#15030A] font-bold font-playfair tracking-wide relative inline-block whitespace-nowrap`}>
+              <h1 className={`${lang === 'en' ? 'text-2xl md:text-4xl' : 'text-4xl md:text-6xl'} font-serif text-emerald font-bold font-playfair tracking-wide relative inline-block whitespace-nowrap`}>
                 {model.name[lang] || model.name.en}
-                <span className={`absolute -top-3 -right-2 translate-x-full inline-flex items-center px-2.5 py-1 rounded-full text-[11.5px] font-bold font-sans tracking-wider bg-white border border-[#F84A88]/20 shadow-sm ${isAvailable ? 'text-[#F84A88]' : 'text-[#15030A]/50'}`}>
+                <span className={`absolute -top-3 -right-2 translate-x-full inline-flex items-center px-2.5 py-1 rounded-full text-[11.5px] font-bold font-sans tracking-wider bg-noir-soft border border-emerald/20 shadow-sm ${isAvailable ? 'text-emerald' : 'text-white/30'}`}>
                   {isAvailable ? t.girl.available : t.girl.unavailable}
                 </span>
               </h1>
             </div>
-            <p className="text-sm uppercase tracking-[0.4em] text-[#F84A88] font-bold font-sans mt-2">
+            <p className="text-sm uppercase tracking-[0.4em] text-emerald font-bold font-sans mt-2">
               {t.girl.nationalities[model.stats.nationality] || model.stats.nationality}
               {model.stats.age && ` • ${model.stats.age}${t.girl.ageUnit}`}
             </p>
 
             {/* About Section */}
             <div className="mt-8 space-y-4">
-              <h4 className="text-[10px] uppercase tracking-widest text-[#F84A88] font-bold font-sans flex items-center gap-2">
-                <MessageCircle size={10} fill="#F84A88" className="text-[#F84A88]"/> {t.girl.about}
+              <h4 className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans flex items-center gap-2">
+                <MessageCircle size={10} fill="#C5A059" className="text-emerald"/> {t.girl.about}
               </h4>
-              <p className="text-[#15030A]/70 leading-relaxed font-sans text-base tracking-wide border-l-2 border-[#F84A88]/40 pl-4 py-1">
+              <p className="text-white/70 leading-relaxed font-sans text-base tracking-wide border-l-2 border-emerald/40 pl-4 py-1">
                 {model.description && typeof model.description === 'object' ? (model.description[lang] || model.description.en) : (model.description || "A dedicated professional offering a personalized and refined experience. Expertly trained in various techniques to ensure your absolute relaxation and satisfaction.")}
               </p>
             </div>
@@ -139,13 +139,13 @@ export default function GirlDetailsPage() {
           </div>
 
           {/* Price & Services Block */}
-          <div className="p-8 rounded-3xl bg-white/40 border border-white/60 shadow-sm backdrop-blur-xl relative overflow-hidden group">
-            <div className="absolute top-0 right-0 w-64 h-64 bg-[#F84A88]/10 blur-3xl rounded-full -translate-y-1/2 translate-x-1/2 transition-transform duration-700 group-hover:scale-150" />
+          <div className="p-8 rounded-3xl bg-noir-soft/40 border border-white/10 shadow-sm backdrop-blur-xl relative overflow-hidden group">
+            <div className="absolute top-0 right-0 w-64 h-64 bg-emerald/10 blur-3xl rounded-full -translate-y-1/2 translate-x-1/2 transition-transform duration-700 group-hover:scale-150" />
             
             <div className="relative space-y-8">
               <div>
-                <h4 className="text-[10px] uppercase tracking-widest text-[#F84A88] font-bold font-sans flex items-center gap-2 mb-2">
-                  <Banknote size={12} className="text-[#F84A88]" /> {t.girl.price || "Price"}
+                <h4 className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans flex items-center gap-2 mb-2">
+                  <Banknote size={12} className="text-emerald" /> {t.girl.price || "Price"}
                 </h4>
                 <div className="flex flex-col gap-3">
                   {model.price.split("·").map((rate, i) => {
@@ -155,9 +155,9 @@ export default function GirlDetailsPage() {
                     const trimmedUnit = unit?.trim();
                     const translatedUnit = t.girl.units[trimmedUnit] || trimmedUnit;
                     return (
-                      <p key={i} className="text-4xl font-serif text-[#15030A] font-playfair leading-tight flex items-baseline">
+                      <p key={i} className="text-4xl font-serif text-white font-playfair leading-tight flex items-baseline">
                         {amount.trim()}
-                        <span className="text-base uppercase tracking-widest font-sans text-[#15030A]/50 italic ml-4">
+                        <span className="text-base uppercase tracking-widest font-sans text-white/50 italic ml-4">
                           / {unit ? translatedUnit : t.girl.perHour.replace("/", "").trim()}
                         </span>
                       </p>
@@ -166,13 +166,13 @@ export default function GirlDetailsPage() {
                 </div>
               </div>
 
-              <div className="w-full h-px bg-[#F84A88]/20" />
+              <div className="w-full h-px bg-emerald/20" />
 
               <div>
-                <h4 className="text-[10px] uppercase tracking-widest text-[#F84A88] font-bold font-sans flex items-center gap-2 mb-4">
-                  <Sparkles size={12} className="text-[#F84A88]" /> {t.girl.services || "Featured Services"}
+                <h4 className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans flex items-center gap-2 mb-4">
+                  <Sparkles size={12} className="text-emerald" /> {t.girl.services || "Featured Services"}
                 </h4>
-                <div className="flex flex-wrap gap-x-2 gap-y-1 text-[#15030A]/80 leading-relaxed font-sans text-base">
+                <div className="flex flex-wrap gap-x-2 gap-y-1 text-white/80 leading-relaxed font-sans text-base">
                   {(() => {
                     if (!model.services) return null;
                     const main = [];
@@ -225,8 +225,8 @@ export default function GirlDetailsPage() {
           {/* Trust Video */}
           {model.video && (
             <div className="space-y-4">
-              <h4 className="text-[10px] uppercase tracking-widest text-[#F84A88] font-bold font-sans flex items-center gap-2">
-                <Play size={10} fill="#F84A88" className="text-[#F84A88]"/> {t.grid.verification}
+              <h4 className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans flex items-center gap-2">
+                <Play size={10} fill="#C5A059" className="text-emerald"/> {t.grid.verification}
               </h4>
               <div className="rounded-2xl overflow-hidden shadow-2xl">
                 <TrustVideo 
@@ -241,7 +241,7 @@ export default function GirlDetailsPage() {
 
         {/* Right Column: Photo Gallery */}
         <div className="lg:col-span-8 space-y-8 mt-4 lg:mt-0">
-          <h3 className="text-2xl font-serif text-[#15030A] italic font-playfair tracking-wide border-b border-[#F84A88]/20 pb-4">
+          <h3 className="text-2xl font-serif text-white italic font-playfair tracking-wide border-b border-emerald/20 pb-4">
             {t.girl.portfolio}
           </h3>
           
@@ -255,7 +255,7 @@ export default function GirlDetailsPage() {
                 alt={`${model.name.en} Portfolio Main`} 
                 className="w-full h-full object-cover object-top transition-transform duration-1000 group-hover:scale-105"
               />
-              <div className="absolute inset-0 border border-[#F84A88]/0 group-hover:border-[#F84A88]/30 transition-all duration-700 m-4 rounded-2xl pointer-events-none" />
+              <div className="absolute inset-0 border border-emerald/0 group-hover:border-emerald/30 transition-all duration-700 m-4 rounded-2xl pointer-events-none" />
             </div>
 
             {model.gallery?.map((img, idx) => (
@@ -282,19 +282,19 @@ export default function GirlDetailsPage() {
         initial={{ y: 100 }}
         animate={{ y: 0 }}
         transition={{ delay: 0.5 }}
-        className="fixed bottom-0 left-0 w-full z-50 bg-[#FFE4EC]/90 backdrop-blur-2xl border-t border-[#F84A88]/20 p-4 md:p-6"
+        className="fixed bottom-0 left-0 w-full z-50 bg-noir/90 backdrop-blur-2xl border-t border-emerald/20 p-4 md:p-6"
       >
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-6">
           <div className="hidden md:block">
-            <p className="font-serif italic text-[#15030A] text-xl">{model.name[lang] || model.name.en}</p>
-            <p className="text-[10px] text-[#F84A88] uppercase tracking-widest font-bold">{t.girl.availableToBook}</p>
+            <p className="font-serif italic text-white text-xl">{model.name[lang] || model.name.en}</p>
+            <p className="text-[10px] text-emerald uppercase tracking-widest font-bold">{t.girl.availableToBook}</p>
           </div>
           
           <div className="flex flex-wrap sm:flex-nowrap w-full sm:w-auto items-center gap-3 md:gap-4">
             <a 
               href={`https://wa.me/64225391339?text=${t.girl.contactMsg.replace("[name]", model.name.en)}`}
               target="_blank"
-              className="flex-1 sm:flex-none flex items-center justify-center gap-2 px-6 py-4 bg-[#F84A88] text-white rounded-xl hover:bg-[#D41E5D] transition-all transform hover:scale-[1.02] shadow-[0_0_40px_rgba(225,29,72,0.3)] min-w-[120px]"
+              className="flex-1 sm:flex-none flex items-center justify-center gap-2 px-6 py-4 bg-emerald text-noir rounded-xl hover:bg-emerald-light transition-all transform hover:scale-[1.02] shadow-[0_0_40px_rgba(184,134,11,0.3)] min-w-[120px]"
             >
               <MessageCircle size={18} />
               <span className="text-[10px] md:text-xs uppercase tracking-[0.2em] font-bold font-sans">{t.girl.whatsapp}</span>
@@ -302,7 +302,7 @@ export default function GirlDetailsPage() {
 
             <button 
               onClick={() => setShowQR(true)}
-              className="flex-1 sm:flex-none flex items-center justify-center gap-2 px-6 py-4 bg-[#F84A88] text-white rounded-xl hover:bg-[#D41E5D] transition-all transform hover:scale-[1.02] shadow-[0_0_40px_rgba(225,29,72,0.3)] min-w-[120px]"
+              className="flex-1 sm:flex-none flex items-center justify-center gap-2 px-6 py-4 bg-emerald text-noir rounded-xl hover:bg-emerald-light transition-all transform hover:scale-[1.02] shadow-[0_0_40px_rgba(184,134,11,0.3)] min-w-[120px]"
             >
               <MessageSquare size={18} />
               <span className="text-[10px] md:text-xs uppercase tracking-[0.2em] font-bold font-sans">{t.girl.wechat}</span>
@@ -311,7 +311,7 @@ export default function GirlDetailsPage() {
             <a 
               href={`https://t.me/boutiquecollection?text=Inquiry for ${model.name.en}`}
               target="_blank"
-              className="flex items-center justify-center p-4 bg-white/60 border border-white/80 text-[#15030A] shadow-sm rounded-xl hover:bg-white/80 transition-colors"
+              className="flex items-center justify-center p-4 bg-noir-soft/60 border border-white/10 text-white shadow-sm rounded-xl hover:bg-noir-soft hover:text-emerald transition-colors"
             >
               <Send size={18} />
             </a>

@@ -8,11 +8,13 @@
   --font-noto-sans: var(--font-noto-sans-cn);
   --font-noto-serif: var(--font-noto-serif-cn);
   
-  /* High-Contrast Sultry Palette */
-  --color-gold: #C5A059;
-  --color-rose: #F84A88;
-  --color-blush: #FFD1DC;
-  --color-noir: #260613;
+  /* Zen Celestial: Buddha-like Fairy & Forest Noir Palette */
+  --color-emerald: #568249;      /* Radiant Zen Green (Improved Contrast) */
+  --color-emerald-light: #82A775; /* Lighter Jade Sage */
+  --color-gold: #B8860B;         /* Premium Accents */
+  --color-noir: #050705;         /* Deepest Obsidian Noir */
+  --color-noir-soft: #0D120D;    /* Deep Forest Noir */
+  --color-zen: #141C14;          /* Midnight Forest Accents */
 }
 
 /* Language Specific Font Overrides */
@@ -23,18 +25,27 @@
 
 @layer base {
   body {
-    background-color: #FFE4EC;
-    color: #15030A;
+    background-color: var(--color-noir);
+    background-image: 
+      radial-gradient(circle at 50% -20%, rgba(56, 90, 41, 0.15), transparent 70%),
+      radial-gradient(circle at 0% 100%, rgba(26, 44, 20, 0.1), transparent 50%);
+    background-attachment: fixed;
+    color: #E5E5E5;
+  }
+
+  h1, h2, h3, .font-serif {
+    text-shadow: 0 0 20px rgba(56, 90, 41, 0.2);
   }
 }
 
-/* More readable, vibrant Rose Glow Pulse */
-@keyframes rose-pulse {
-  0% { transform: scale(0.98); opacity: 0.7; box-shadow: 0 0 0 0 rgba(248, 74, 136, 0.4); }
-  50% { transform: scale(1.02); opacity: 1; box-shadow: 0 0 12px 4px rgba(248, 74, 136, 0.5); }
-  100% { transform: scale(0.98); opacity: 0.7; box-shadow: 0 0 0 0 rgba(248, 74, 136, 0.4); }
+/* Premium Zen Glow Pulse */
+@keyframes emerald-pulse {
+  0% { transform: scale(0.98); opacity: 0.8; box-shadow: 0 0 0 0 rgba(86, 130, 73, 0.4); }
+  50% { transform: scale(1.02); opacity: 1; box-shadow: 0 0 15px 5px rgba(86, 130, 73, 0.5); }
+  100% { transform: scale(0.98); opacity: 0.8; box-shadow: 0 0 0 0 rgba(86, 130, 73, 0.4); }
 }
 
-.animate-rose-pulse {
-  animation: rose-pulse 3s infinite ease-in-out;
+.animate-emerald-pulse {
+  animation: emerald-pulse 4s infinite ease-in-out;
 }
+

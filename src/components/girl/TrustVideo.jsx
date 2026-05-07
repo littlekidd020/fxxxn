@@ -49,7 +49,7 @@ const TrustVideo = ({ src, poster }) => {
     <>
       <div 
         onClick={openModal}
-        className="relative aspect-[9/16] w-full bg-black rounded-sm overflow-hidden border border-[#F84A88]/10 shadow-2xl group/video cursor-pointer"
+        className="relative aspect-[9/16] w-full bg-black rounded-sm overflow-hidden border border-[#008000]/10 shadow-2xl group/video cursor-pointer"
       >
         <video
           ref={videoRef}
@@ -64,7 +64,7 @@ const TrustVideo = ({ src, poster }) => {
         {/* Overlay Controls */}
         <div className="absolute inset-0 flex flex-col justify-between p-4 opacity-0 group-hover/video:opacity-100 transition-opacity duration-300 bg-gradient-to-t from-black/60 via-transparent to-black/20">
           <div className="flex justify-between items-start">
-            <div className="px-3 py-1 bg-[#F84A88]/80 backdrop-blur-md rounded-full">
+            <div className="px-3 py-1 bg-[#008000]/80 backdrop-blur-md rounded-full">
               <span className="text-[10px] uppercase tracking-widest text-white font-bold">
                 {t.girl.uneditedPreview}
               </span>
@@ -74,14 +74,14 @@ const TrustVideo = ({ src, poster }) => {
                 e.stopPropagation();
                 setIsMuted(!isMuted);
               }}
-              className="p-2 bg-black/60 backdrop-blur-md rounded-full text-white/80 hover:text-[#F84A88] transition-colors"
+              className="p-2 bg-black/60 backdrop-blur-md rounded-full text-white/80 hover:text-[#008000] transition-colors"
             >
               {isMuted ? <VolumeX size={16} /> : <Volume2 size={16} />}
             </button>
           </div>
           
           <div className="flex items-center justify-center">
-            <div className="p-4 bg-[#F84A88] rounded-full text-white shadow-[0_0_20px_rgba(248,74,136,0.4)] group-hover/video:scale-110 transition-transform duration-300">
+            <div className="p-4 bg-[#008000] rounded-full text-white shadow-[0_0_20px_rgba(248,74,136,0.4)] group-hover/video:scale-110 transition-transform duration-300">
               <Maximize2 size={24} />
             </div>
           </div>
@@ -137,7 +137,7 @@ const TrustVideo = ({ src, poster }) => {
               />
               
               {/* Modal Badge */}
-              <div className="absolute top-4 left-4 z-10 px-4 py-2 bg-[#F84A88] text-white text-[10px] uppercase tracking-widest font-bold rounded-full shadow-lg">
+              <div className="absolute top-4 left-4 z-10 px-4 py-2 bg-[#008000] text-white text-[10px] uppercase tracking-widest font-bold rounded-full shadow-lg">
                 {t.girl.uneditedPreview}
               </div>
             </motion.div>

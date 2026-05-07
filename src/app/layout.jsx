@@ -24,7 +24,7 @@ const notoSerifCN = Noto_Serif_SC({
 });
 
 export const metadata = {
-  title: "Angel Cuties Collection | High-End Service",
+  title: "Fxxxn | High-End Service",
   description: "A premium, editorial collection of sophisticated relaxation services.",
 };
 
@@ -33,7 +33,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body suppressHydrationWarning className={`${inter.variable} ${playfair.variable} ${notoSansCN.variable} ${notoSerifCN.variable} font-sans antialiased bg-[#FFE4EC] text-[#F5F5F5]`}>
+      <body suppressHydrationWarning className={`${inter.variable} ${playfair.variable} ${notoSansCN.variable} ${notoSerifCN.variable} font-sans antialiased bg-noir text-white/90`}>
         <LanguageProvider>
           <AgeGate>
             <Navbar />

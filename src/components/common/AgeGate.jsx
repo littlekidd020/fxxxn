@@ -32,20 +32,20 @@ const AgeGate = ({ children }) => {
           <motion.div
             initial={{ opacity: 1 }}
             exit={{ opacity: 0, transition: { duration: 1, ease: [0.43, 0.13, 0.23, 0.96] } }}
-            className="fixed inset-0 z-[200] bg-[#FFE4EC] flex flex-col font-sans overflow-hidden"
+            className="fixed inset-0 z-[200] bg-noir flex flex-col font-sans overflow-hidden"
           >
             {/* Background Image Container */}
-            <div className="absolute inset-0 bg-[#FFE4EC]">
+            <div className="absolute inset-0 bg-noir">
                <motion.img 
                  initial={{ scale: 1.15 }}
                  animate={{ scale: 1.05 }}
                  transition={{ duration: 20, repeat: Infinity, repeatType: "reverse", ease: "linear" }}
                  src="/images/landing-bg-erotic-new.webp" 
-                 className="w-full h-full object-cover object-center opacity-85 mix-blend-luminosity"
+                 className="w-full h-full object-cover object-center opacity-40 mix-blend-luminosity"
                  alt="Luxury Entry"
                />
-               <div className="absolute inset-0 bg-[#F84A88]/5 mix-blend-color" />
-               <div className="absolute inset-0 bg-gradient-to-b from-[#FFE4EC]/80 via-[#FFE4EC]/20 to-[#FFE4EC]" />
+               <div className="absolute inset-0 bg-emerald/5 mix-blend-overlay" />
+               <div className="absolute inset-0 bg-gradient-to-b from-noir/80 via-noir/20 to-noir" />
             </div>
 
             {/* Content Overlay */}
@@ -66,47 +66,47 @@ const AgeGate = ({ children }) => {
                      >
                         <BrandLogo className="w-full h-full" />
                      </motion.div>
-                    <div className="h-px w-32 bg-gradient-to-r from-transparent via-[#F84A88]/30 to-transparent" />
+                    <div className="h-px w-32 bg-gradient-to-r from-transparent via-emerald/30 to-transparent" />
                  </div>
 
                  {/* Welcome Message Box */}
-                 <div className="bg-white/40 backdrop-blur-2xl border border-white/60 p-8 md:p-16 rounded-[4rem] shadow-[0_40px_100px_rgba(248,74,136,0.15)] relative overflow-hidden">
+                 <div className="bg-noir-soft/60 backdrop-blur-2xl border border-white/10 p-8 md:p-16 rounded-[4rem] shadow-[0_40px_100px_rgba(0,0,0,0.4)] relative overflow-hidden">
                     {/* Luxury Gradient Accent */}
-                    <div className="absolute top-0 left-1/2 -translate-x-1/2 w-1/2 h-1 bg-gradient-to-r from-transparent via-[#F84A88]/50 to-transparent" />
+                    <div className="absolute top-0 left-1/2 -translate-x-1/2 w-1/2 h-1 bg-gradient-to-r from-transparent via-emerald/50 to-transparent" />
                     
-                    <h1 className="text-5xl md:text-7xl font-serif text-[#15030A] italic font-playfair tracking-normal mb-8 leading-tight drop-shadow-sm">
+                    <h1 className="text-5xl md:text-7xl font-serif text-emerald italic font-playfair tracking-normal mb-8 leading-tight drop-shadow-sm">
                       {t.ageGate.welcome}
                     </h1>
                     
-                    <p className="text-[#15030A]/60 text-xs md:text-sm leading-relaxed max-w-md mx-auto font-sans tracking-[0.1em] uppercase">
+                    <p className="text-white/60 text-xs md:text-sm leading-relaxed max-w-md mx-auto font-sans tracking-[0.1em] uppercase">
                       {t.ageGate.message}
                     </p>
 
                     <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-6">
                        <button
                          onClick={handleVerify}
-                         className="group relative px-10 py-5 bg-transparent border border-[#F84A88]/30 hover:border-[#F84A88]/50 rounded-2xl overflow-hidden transition-all duration-500 w-full sm:w-auto min-w-[200px] shadow-sm"
+                         className="group relative px-10 py-5 bg-transparent border border-emerald/30 hover:border-emerald/50 rounded-2xl overflow-hidden transition-all duration-500 w-full sm:w-auto min-w-[200px] shadow-sm"
                        >
-                          <span className="relative z-10 text-[#15030A] font-serif italic text-xl tracking-widest group-hover:text-white transition-colors">
+                          <span className="relative z-10 text-white font-serif italic text-xl tracking-widest group-hover:text-noir transition-colors">
                             {t.ageGate.buttonEn}
                           </span>
-                          <span className="absolute inset-0 bg-gradient-to-r from-[#F84A88] to-[#D41E5D] translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-out opacity-90" />
+                          <span className="absolute inset-0 bg-gradient-to-r from-emerald to-emerald-light translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-out opacity-90" />
                        </button>
 
                        <button
                          onClick={handleVerify}
-                         className="group relative px-10 py-5 bg-white/60 border border-white/60 hover:border-[#F84A88]/30 rounded-2xl overflow-hidden transition-all duration-500 w-full sm:w-auto min-w-[200px]"
+                         className="group relative px-10 py-5 bg-noir-soft/60 border border-white/10 hover:border-emerald/30 rounded-2xl overflow-hidden transition-all duration-500 w-full sm:w-auto min-w-[200px]"
                        >
-                          <span className="relative z-10 text-[#15030A]/70 font-sans font-bold text-xs md:text-sm tracking-[0.2em] group-hover:text-[#15030A] transition-colors">
+                          <span className="relative z-10 text-white/70 font-sans font-bold text-xs md:text-sm tracking-[0.2em] group-hover:text-white transition-colors">
                             {t.ageGate.buttonCn}
                           </span>
-                          <span className="absolute inset-0 bg-white/40 opacity-0 group-hover:opacity-100 transition-opacity" />
+                          <span className="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transition-opacity" />
                        </button>
                     </div>
                  </div>
 
                  {/* Disclaimer / Additional verification text if needed */}
-                 <p className="text-[9px] uppercase tracking-[0.5em] text-[#15030A]/40 font-bold max-w-lg mx-auto leading-loose px-4">
+                 <p className="text-[9px] uppercase tracking-[0.5em] text-white/40 font-bold max-w-lg mx-auto leading-loose px-4">
                    Step into a world of bespoke luxury. By entering, you confirm you are of legal age to view such content.
                  </p>
               </motion.div>
@@ -114,7 +114,7 @@ const AgeGate = ({ children }) => {
 
             {/* Global Footer */}
             <div className="relative z-10 p-10 text-center">
-               <p className="text-[10px] md:text-xs uppercase tracking-[0.3em] text-[#15030A]/30 font-bold font-sans">
+               <p className="text-[10px] md:text-xs uppercase tracking-[0.3em] text-white/30 font-bold font-sans">
                  {t.ageGate.footer}
                </p>
             </div>

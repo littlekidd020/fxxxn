@@ -17,7 +17,7 @@ const GirlGrid = ({ limit, showCTA = false, girls = defaultGirls, showIntro = fa
       {/* Intro Text */}
       {showIntro && (
         <div className="mb-6 md:mb-16 text-center max-w-2xl mx-auto flex flex-col items-center">
-          <p className="hidden md:block text-2xl font-serif italic text-[#15030A]/80 leading-relaxed font-playfair transition-all duration-700">
+          <p className="hidden md:block text-2xl font-serif italic text-white/80 leading-relaxed font-playfair transition-all duration-700">
             {lang === "cn" ? (
               "推门而入，喧嚣在外，这里是身份与品味的无声共鸣，不为喧宾夺主，只为让身处其中的每一个人，都能找到属于自己的——。"
             ) : (
@@ -27,12 +27,12 @@ const GirlGrid = ({ limit, showCTA = false, girls = defaultGirls, showIntro = fa
           <div className="mt-0 md:mt-10 mb-2 w-full flex justify-center px-4">
             <Link 
               href="/collection" 
-              className="inline-block text-center border border-[#F84A88]/80 text-[#F84A88] w-full max-w-[300px] md:max-w-[340px] py-3.5 md:py-4 text-base tracking-[0.4em] md:tracking-[0.5em] font-sans font-bold hover:bg-[#F84A88]/5 transition-colors duration-300"
+              className="inline-block text-center border border-emerald/80 text-emerald w-full max-w-[300px] md:max-w-[340px] py-3.5 md:py-4 text-base tracking-[0.4em] md:tracking-[0.5em] font-sans font-bold hover:bg-emerald/5 transition-colors duration-300"
             >
               {lang === "cn" ? "查看所有女生" : "VIEW COLLECTION"}
             </Link>
           </div>
-          <h2 className="text-lg md:text-xl uppercase tracking-[0.3em] text-[#F84A88] mt-8 md:mt-16 font-sans font-bold drop-shadow-sm">
+          <h2 className="text-lg md:text-xl uppercase tracking-[0.3em] text-emerald mt-8 md:mt-16 font-sans font-bold drop-shadow-sm">
             {t.grid.newCollection}
           </h2>
         </div>
@@ -59,12 +59,12 @@ const GirlGrid = ({ limit, showCTA = false, girls = defaultGirls, showIntro = fa
         <div className="mt-32 flex justify-center">
           <Link 
             href="/collection"
-            className="group relative px-12 py-4 bg-transparent border border-[#F84A88]/30 hover:border-[#F84A88] transition-all duration-500 overflow-hidden"
+            className="group relative px-12 py-4 bg-transparent border border-emerald/30 hover:border-emerald transition-all duration-500 overflow-hidden"
           >
-            <span className="relative z-10 text-xs uppercase tracking-[0.4em] text-[#F84A88] group-hover:text-white transition-colors duration-500 font-bold">
+            <span className="relative z-10 text-xs uppercase tracking-[0.4em] text-emerald group-hover:text-noir transition-colors duration-500 font-bold">
               {t.grid.viewAll}
             </span>
-            <div className="absolute inset-0 bg-[#F84A88] translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-out" />
+            <div className="absolute inset-0 bg-emerald translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-out" />
           </Link>
         </div>
       )}

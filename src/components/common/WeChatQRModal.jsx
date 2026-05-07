@@ -22,7 +22,7 @@ const WeChatQRModal = ({ isOpen, onClose }) => {
             initial={{ scale: 0.9, opacity: 0, y: 20 }}
             animate={{ scale: 1, opacity: 1, y: 0 }}
             exit={{ scale: 0.9, opacity: 0, y: 20 }}
-            className="relative max-w-sm w-full bg-white border border-[#F84A88]/20 rounded-[2rem] overflow-hidden shadow-[0_0_50px_rgba(248,74,136,0.15)]"
+            className="relative max-w-sm w-full bg-white border border-[#008000]/20 rounded-[2rem] overflow-hidden shadow-[0_0_50px_rgba(248,74,136,0.15)]"
             onClick={(e) => e.stopPropagation()}
           >
             {/* Header */}
@@ -31,13 +31,13 @@ const WeChatQRModal = ({ isOpen, onClose }) => {
                 <h3 className="font-serif italic text-2xl text-[#15030A] mb-1">
                   {t.nav.brand}: WeChat
                 </h3>
-                <p className="text-[10px] uppercase tracking-[0.2em] text-[#F84A88] font-bold">
+                <p className="text-[10px] uppercase tracking-[0.2em] text-[#008000] font-bold">
                   {t.concierge.ctaEncrypted}
                 </p>
               </div>
               <button 
                 onClick={onClose}
-                className="p-2 hover:bg-[#F84A88]/10 rounded-full transition-colors text-[#15030A]/40 hover:text-[#15030A]"
+                className="p-2 hover:bg-[#008000]/10 rounded-full transition-colors text-[#15030A]/40 hover:text-[#15030A]"
               >
                 <X size={20} />
               </button>
@@ -45,7 +45,7 @@ const WeChatQRModal = ({ isOpen, onClose }) => {
 
             {/* QR Card */}
             <div className="p-6">
-              <div className="aspect-[3/4] rounded-2xl overflow-hidden shadow-sm relative bg-white/50 border border-[#F84A88]/10">
+              <div className="aspect-[3/4] rounded-2xl overflow-hidden shadow-sm relative bg-white/50 border border-[#008000]/10">
                 <img 
                   src="/images/wechat-qr.webp" 
                   alt="WeChat QR Code" 

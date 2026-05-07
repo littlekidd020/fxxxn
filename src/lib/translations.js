@@ -4,11 +4,11 @@ export const translations = {
       collection: "心动女生",
       concierge: "联系我们",
       account: "会员中心",
-      brand: "天使小可爱",
+      brand: "佛系小仙女",
       hours: "营业时间：早上10点 - 晚上11点"
     },
     hero: {
-      title: "天使小可爱",
+      title: "佛系小仙女",
       subtitle: "高端中国实体服务",
       est: "始于 2026",
       location: "奥克兰高端休闲体验",
@@ -114,10 +114,10 @@ export const translations = {
     },
     ageGate: {
       welcome: "欢迎光临",
-      message: "欢迎来到 天使小可爱。真正的圈层领地，无需喧哗。我们以低调的质感、克制的细节，为懂生活的人留一处私属天地。",
+      message: "欢迎来到 佛系小仙女。真正的圈层领地，无需喧哗。我们以低调的质感、克制的细节，为懂生活的人留一处私属天地。",
       buttonEn: "I'M OVER 18",
       buttonCn: "我年满18周岁",
-      footer: "© 2026 ANGEL CUTIES COLLECTION. 版权所有。"
+      footer: "© 2026 佛系小仙女 COLLECTION. 版权所有。"
     }
   },
   en: {
@@ -125,11 +125,11 @@ export const translations = {
       collection: "Collection",
       concierge: "Contact us",
       account: "Account",
-      brand: "Angel Cuties",
+      brand: "Fxxxn",
       hours: "Hours: 10:00 AM - 11:00 PM"
     },
     hero: {
-      title: "Angel Cuties",
+      title: "Fxxxn",
       subtitle: "High-End Collection",
       est: "Established 2026",
       location: "Sophisticated Relaxation in Auckland",
@@ -148,7 +148,7 @@ export const translations = {
     grid: {
       newCollection: "The New Collection",
       intro: "A curated selection of the most sophisticated and refined talent, dedicated to the art of relaxation.",
-      standard: "Angel Cuties Standard",
+      standard: "Fxxxn Standard",
       desc: "Our collection is exclusively handpicked for quality, personality, and professionalism. Every profile features physically verified imagery and a high-end service guarantee.",
       verification: "Physical Verification",
       discreet: "Secure & Discreet",
@@ -172,7 +172,7 @@ export const translations = {
       whatsapp: "Contact via WhatsApp",
       telegram: "Telegram Chat",
       wechat: "WeChat Inquiry",
-      contactMsg: "Hello, I saw [name] on the Angel Cuties website and would like to inquire about an appointment.",
+      contactMsg: "Hello, I saw [name] on the Fxxxn website and would like to inquire about an appointment.",
       nationalities: {
         "Chinese": "Chinese",
         "Korean-Chinese": "Korean-Chinese",
@@ -222,7 +222,7 @@ export const translations = {
     },
     account: {
       login: "Member Login",
-      private: "Angel Cuties Private Access",
+      private: "Fxxxn Private Access",
       placeholderEmail: "Email Address",
       placeholderPass: "Password",
       enter: "Enter Collection",
@@ -230,10 +230,10 @@ export const translations = {
     },
     ageGate: {
       welcome: "WELCOME",
-      message: "Welcome to Angel Cuties, where sophistication meets excitement! Step into a moment of exclusive luxury and unforgettable vibes. Relax, unwind, and let us make your day extraordinary!",
+      message: "Welcome to Fxxxn, where sophistication meets excitement! Step into a moment of exclusive luxury and unforgettable vibes. Relax, unwind, and let us make your day extraordinary!",
       buttonEn: "I'M OVER 18",
       buttonCn: "I AM 18+",
-      footer: "© 2026 ANGEL CUTIES COLLECTION. All rights reserved."
+      footer: "© 2026 FXXXN COLLECTION. All rights reserved."
     }
   }
 };

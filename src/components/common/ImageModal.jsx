@@ -61,7 +61,7 @@ const ImageModal = ({ isOpen, onClose, images, currentIndex, onNext, onPrev }) =
                 e.stopPropagation();
                 onPrev();
               }}
-              className="absolute left-0 z-[110] p-4 bg-white/5 hover:bg-[#F84A88] rounded-full text-white transition-all border border-white/10 hidden md:block"
+              className="absolute left-0 z-[110] p-4 bg-white/5 hover:bg-[#008000] rounded-full text-white transition-all border border-white/10 hidden md:block"
             >
               <ChevronLeft size={32} />
             </button>
@@ -74,7 +74,7 @@ const ImageModal = ({ isOpen, onClose, images, currentIndex, onNext, onPrev }) =
                 e.stopPropagation();
                 onNext();
               }}
-              className="absolute right-0 z-[110] p-4 bg-white/5 hover:bg-[#F84A88] rounded-full text-white transition-all border border-white/10 hidden md:block"
+              className="absolute right-0 z-[110] p-4 bg-white/5 hover:bg-[#008000] rounded-full text-white transition-all border border-white/10 hidden md:block"
             >
               <ChevronRight size={32} />
             </button>
