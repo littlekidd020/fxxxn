@@ -103,29 +103,10 @@ const ConciergePage = () => {
                 <Send size={18} />
                 <span className="text-[10px] uppercase tracking-[0.2em] font-bold font-sans">Telegram</span>
               </a>
-              <div className="flex items-center justify-center gap-3 py-4 bg-noir-soft/60 border border-white/10 text-white rounded-xl hover:bg-noir-soft hover:text-emerald transition-all transform hover:scale-105 cursor-pointer">
-                <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">微信在线客服</span>
-                <span className="text-[11px] uppercase tracking-[0.2em] font-black font-sans">Angelya3312</span>
+              <div className="flex items-center justify-center gap-3 py-4 bg-noir-soft/60 border border-white/10 text-white rounded-xl hover:bg-noir-soft hover:text-emerald transition-all transform hover:scale-105 cursor-pointer col-span-1 sm:col-span-2">
+                <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">{t.banner.wechat}</span>
+                <span className="text-[13px] md:text-lg uppercase tracking-[0.2em] font-black font-sans">Soulful95</span>
               </div>
-              <div className="flex items-center justify-center gap-3 py-4 bg-noir-soft/60 border border-white/10 text-white rounded-xl hover:bg-noir-soft hover:text-emerald transition-all transform hover:scale-105 cursor-pointer">
-                <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">微信防走失</span>
-                <span className="text-[11px] uppercase tracking-[0.2em] font-black font-sans">nice325888</span>
-              </div>
-              <div className="flex items-center justify-center gap-3 py-4 bg-noir-soft/60 border border-white/10 text-white rounded-xl hover:bg-noir-soft hover:text-emerald transition-all transform hover:scale-105 cursor-pointer">
-                <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">微信备用号</span>
-                <span className="text-[11px] uppercase tracking-[0.2em] font-black font-sans">hjmgrdss</span>
-              </div>
-              <div className="flex items-center justify-center gap-3 py-4 bg-noir-soft/60 border border-white/10 text-white rounded-xl hover:bg-noir-soft hover:text-emerald transition-all transform hover:scale-105 cursor-pointer">
-                <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">微信客服2</span>
-                <span className="text-[11px] uppercase tracking-[0.2em] font-black font-sans">Angel51339</span>
-              </div>
-              <a 
-                href="https://line.me/ti/p/angle666akl"
-                className="flex items-center justify-center gap-3 py-4 bg-noir-soft/60 border border-white/10 text-white rounded-xl hover:bg-noir-soft hover:text-emerald transition-all transform hover:scale-105"
-              >
-                <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">LINE 咨询</span>
-                <span className="text-[11px] uppercase tracking-[0.2em] font-black font-sans">angle666akl</span>
-              </a>
               <a 
                 href="tel:0225391339"
                 className="flex items-center justify-center gap-3 py-4 bg-noir-soft/60 border border-white/10 text-white rounded-xl hover:bg-noir-soft hover:text-emerald transition-all transform hover:scale-105"

@@ -38,13 +38,6 @@ const ConciergeBar = () => {
         <span className="text-[9px] uppercase tracking-wider text-emerald/80 group-hover:text-emerald transition-colors font-sans whitespace-nowrap">{t.concierge.sticky.telegram}</span>
       </a>
 
-      <a href="https://line.me/ti/p/angle666akl" className="flex flex-col items-center gap-1 group">
-        <div className="p-2 rounded-full group-hover:bg-emerald/10 transition-colors">
-          <MessagesSquare size={20} className="text-emerald" />
-        </div>
-        <span className="text-[9px] uppercase tracking-wider text-emerald/80 group-hover:text-emerald transition-colors font-sans whitespace-nowrap">{t.concierge.sticky.line}</span>
-      </a>
-
       <a 
         onClick={(e) => {
           e.preventDefault();

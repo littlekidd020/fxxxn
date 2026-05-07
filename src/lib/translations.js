@@ -100,8 +100,7 @@ export const translations = {
         call: "电话咨询",
         whatsapp: "WhatsApp",
         telegram: "Telegram",
-        wechat: "微信咨询",
-        line: "LINE 咨询"
+        wechat: "微信咨询"
       }
     },
     account: {
@@ -216,8 +215,7 @@ export const translations = {
         call: "Call",
         whatsapp: "WhatsApp",
         telegram: "Telegram",
-        wechat: "WeChat",
-        line: "LINE"
+        wechat: "WeChat"
       }
     },
     account: {
