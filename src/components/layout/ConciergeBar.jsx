@@ -31,7 +31,7 @@ const ConciergeBar = () => {
         <span className="text-[9px] uppercase tracking-wider text-emerald/80 group-hover:text-emerald transition-colors font-sans whitespace-nowrap">{t.concierge.sticky.whatsapp}</span>
       </a>
       
-      <a href="https://t.me/LOVE0221620017" className="flex flex-col items-center gap-1 group">
+      <a href="https://t.me/NZHB00" className="flex flex-col items-center gap-1 group">
         <div className="p-2 rounded-full group-hover:bg-emerald/10 transition-colors">
           <Send size={20} className="text-emerald" />
         </div>

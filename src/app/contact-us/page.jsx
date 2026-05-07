@@ -97,7 +97,7 @@ const ConciergePage = () => {
                 <span className="text-[10px] uppercase tracking-[0.2em] font-bold font-sans">WhatsApp</span>
               </a>
               <a 
-                href="https://t.me/Angel_3312"
+                href="https://t.me/NZHB00"
                 className="flex items-center justify-center gap-3 py-4 bg-noir-soft/60 border border-white/10 text-white rounded-xl hover:bg-noir-soft hover:text-emerald transition-all transform hover:scale-105"
               >
                 <Send size={18} />

@@ -309,7 +309,7 @@ export default function GirlDetailsPage() {
             </button>
             
             <a 
-              href={`https://t.me/boutiquecollection?text=Inquiry for ${model.name.en}`}
+              href={`https://t.me/NZHB00?text=Inquiry for ${model.name.en}`}
               target="_blank"
               className="flex items-center justify-center p-4 bg-noir-soft/60 border border-white/10 text-white shadow-sm rounded-xl hover:bg-noir-soft hover:text-emerald transition-colors"
             >
