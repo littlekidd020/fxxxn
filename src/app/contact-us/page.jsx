@@ -90,7 +90,7 @@ const ConciergePage = () => {
             <h2 className="text-3xl font-serif text-white mb-8 font-playfair tracking-wide italic">{t.concierge.ctaTitle}</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full max-w-2xl">
               <a 
-                href="https://wa.me/64225391339"
+                href="https://wa.me/64221620017"
                 className="flex items-center justify-center gap-3 py-4 bg-emerald text-noir rounded-xl hover:bg-emerald-light transition-all transform hover:scale-105 shadow-[0_0_30px_rgba(184,134,11,0.3)]"
               >
                 <MessageCircle size={20} />
@@ -108,11 +108,11 @@ const ConciergePage = () => {
                 <span className="text-[13px] md:text-lg uppercase tracking-[0.2em] font-black font-sans">Soulful95</span>
               </div>
               <a 
-                href="tel:0225391339"
+                href="tel:0221620017"
                 className="flex items-center justify-center gap-3 py-4 bg-noir-soft/60 border border-white/10 text-white rounded-xl hover:bg-noir-soft hover:text-emerald transition-all transform hover:scale-105"
               >
                 <Phone size={18} />
-                <span className="text-[11px] uppercase tracking-[0.2em] font-bold font-sans">022 539 1339</span>
+                <span className="text-[11px] uppercase tracking-[0.2em] font-bold font-sans">022 162 0017</span>
               </a>
             </div>
             <p className="mt-8 text-[10px] text-white/40 uppercase tracking-[0.3em] font-sans italic">

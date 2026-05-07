@@ -292,7 +292,7 @@ export default function GirlDetailsPage() {
           
           <div className="flex flex-wrap sm:flex-nowrap w-full sm:w-auto items-center gap-3 md:gap-4">
             <a 
-              href={`https://wa.me/64225391339?text=${t.girl.contactMsg.replace("[name]", model.name.en)}`}
+              href={`https://wa.me/64221620017?text=${t.girl.contactMsg.replace("[name]", model.name.en)}`}
               target="_blank"
               className="flex-1 sm:flex-none flex items-center justify-center gap-2 px-6 py-4 bg-emerald text-noir rounded-xl hover:bg-emerald-light transition-all transform hover:scale-[1.02] shadow-[0_0_40px_rgba(184,134,11,0.3)] min-w-[120px]"
             >

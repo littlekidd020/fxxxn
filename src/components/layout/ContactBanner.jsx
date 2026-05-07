@@ -43,9 +43,9 @@ export default function ContactBanner() {
           <div className="absolute inset-0 bg-emerald-light/30 md:hidden rounded-2xl mx-2 my-1 border border-black/20" />
           
           <div className="relative z-10 flex flex-col items-center gap-2 w-full">
-             <a href="tel:+64225391339" className="flex items-center gap-3 hover:text-noir/80 transition-colors text-base md:text-lg font-black tracking-widest drop-shadow-md">
+             <a href="tel:+64221620017" className="flex items-center gap-3 hover:text-noir/80 transition-colors text-base md:text-lg font-black tracking-widest drop-shadow-md">
                <span className="opacity-70 text-[10px] md:text-xs font-bold font-sans min-w-[3em] text-right">{t.banner?.phone}</span> 
-               <span>022-5391339</span>
+               <span>0221620017</span>
              </a>
               <div className="flex flex-col md:flex-row items-center gap-1 md:gap-4 text-[13px] md:text-base font-black tracking-widest drop-shadow-md">
                 <div className="flex items-center gap-3">
