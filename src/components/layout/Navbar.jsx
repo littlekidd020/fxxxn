@@ -44,7 +44,7 @@ const Navbar = () => {
         
         <button 
           onClick={toggleLang}
-          className="flex items-center gap-2 px-5 py-2 bg-emerald/5 border border-emerald/30 rounded-full hover:bg-emerald/10 hover:border-gold/50 transition-all text-white group shadow-[0_0_15px_rgba(184,134,11,0.1)]"
+          className="flex items-center gap-2 px-5 py-2 bg-emerald/5 border border-emerald/40 rounded-full hover:bg-emerald/10 hover:border-emerald transition-all text-white group shadow-[0_0_15px_rgba(86,130,73,0.15)]"
         >
           <Globe size={16} className="text-emerald" />
           <span className="font-bold tracking-widest">{lang === "cn" ? "EN" : "中文"}</span>
