@@ -53,12 +53,18 @@ async function optimize() {
       const buffer = await fs.readFile(file);
       let sharpInstance = sharp(buffer);
 
+      // Auto-resize large images to a max width of 1200px
+      const metadata = await sharpInstance.metadata();
+      if (metadata.width > 1200) {
+        sharpInstance = sharpInstance.resize(1200, null, { withoutEnlargement: true });
+      }
+
       if (ext === '.webp') {
-        sharpInstance = sharpInstance.webp({ quality: 80, effort: 6 });
+        sharpInstance = sharpInstance.webp({ quality: 75, effort: 6 });
       } else if (ext === '.png') {
-        sharpInstance = sharpInstance.png({ compressionLevel: 9, palette: true });
+        sharpInstance = sharpInstance.png({ compressionLevel: 9, palette: true, quality: 80 });
       } else {
-        sharpInstance = sharpInstance.jpeg({ quality: 80, progressive: true });
+        sharpInstance = sharpInstance.jpeg({ quality: 75, progressive: true, mozjpeg: true });
       }
 
       await sharpInstance.toFile(file + '.tmp');

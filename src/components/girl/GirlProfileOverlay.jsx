@@ -190,7 +190,8 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
                         const isLastInGroup = sIdx === servicesInGroup.length - 1;
                         const isNextGroupOnSameLine = groupIdx < groups.length - 1 && !groups[groupIdx+1].startsWith("VIP:") && !groups[groupIdx+1].includes("额外") && !groups[groupIdx+1].startsWith("免费赠送:") && !groups[groupIdx+1].startsWith("Note:") && !groups[groupIdx+1].startsWith("Note：");
                         
-                        const showDot = (!isLastInGroup && !s.endsWith(":") && !s.endsWith("：")) || (isLastInGroup && isNextGroupOnSameLine);
+                        const isSpecial = isExtraGroup || isVipGroup;
+                        const showDot = !isSpecial && ((!isLastInGroup && !s.endsWith(":") && !s.endsWith("：")) || (isLastInGroup && isNextGroupOnSameLine));
                         
                         return (
                           <span key={`${groupIdx}-${sIdx}`} className="inline max-w-full">

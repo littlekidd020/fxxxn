@@ -177,7 +177,8 @@ export const translations = {
         "Korean-Chinese": "Korean-Chinese",
         "Japanese-Chinese": "Japanese-Chinese",
         "Vietnamese": "Vietnamese",
-        "Thailand": "Thailand"
+        "Thailand": "Thailand",
+        "Taiwanese": "Taiwanese"
       },
       locations: {
         "CBD": "CBD",
