@@ -114,7 +114,7 @@ const AgeGate = ({ children }) => {
 
             {/* Global Footer */}
             <div className="relative z-10 p-10 text-center">
-               <p className="text-[10px] md:text-xs uppercase tracking-[0.3em] text-white/30 font-bold font-sans">
+               <p className="text-[10px] md:text-xs uppercase tracking-[0.3em] text-emerald/50 font-bold font-sans">
                  {t.ageGate.footer}
                </p>
             </div>

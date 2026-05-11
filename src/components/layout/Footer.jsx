@@ -19,7 +19,7 @@ const Footer = () => {
       </div>
       
       <div className="space-y-4">
-        <p className="text-[10px] md:text-xs font-medium tracking-[0.4em]">
+        <p className="text-[10px] md:text-xs font-medium tracking-[0.4em] text-emerald/80">
           &copy; 2026 {t.hero.title}. All Rights Reserved.
         </p>
         <p className="text-[9px] text-white/40 tracking-[0.2em] font-bold">
