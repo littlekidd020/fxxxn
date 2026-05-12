@@ -15,7 +15,7 @@ const ConciergeBar = () => {
       <motion.div 
         initial={{ y: 100 }}
         animate={{ y: 0 }}
-      className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 px-8 py-3 bg-noir-soft/90 backdrop-blur-xl border border-gold/20 shadow-[0_15px_40px_rgba(184,134,11,0.15)] rounded-full flex items-center gap-5 md:gap-10"
+      className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 px-8 py-3 bg-white/90 backdrop-blur-xl border border-zen shadow-[0_15px_40px_rgba(0,0,0,0.08)] rounded-full flex items-center gap-5 md:gap-10"
     >
       <a href="tel:+64221620017" className="flex flex-col items-center gap-1 group">
         <div className="p-2 rounded-full group-hover:bg-emerald/10 transition-colors">

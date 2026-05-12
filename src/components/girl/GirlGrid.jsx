@@ -17,7 +17,7 @@ const GirlGrid = ({ limit, showCTA = false, girls = defaultGirls, showIntro = fa
       {/* Intro Text */}
       {showIntro && (
         <div className="mb-6 md:mb-16 text-center max-w-2xl mx-auto flex flex-col items-center">
-          <p className="hidden md:block text-2xl font-serif italic text-white/80 leading-relaxed font-playfair transition-all duration-700">
+          <p className="hidden md:block text-2xl font-serif italic text-[#2A2A2A]/80 leading-relaxed font-playfair transition-all duration-700">
             {lang === "cn" ? (
               "推门而入，喧嚣在外，这里是身份与品味的无声共鸣，不为喧宾夺主，只为让身处其中的每一个人，都能找到属于自己的——。"
             ) : (
@@ -32,7 +32,7 @@ const GirlGrid = ({ limit, showCTA = false, girls = defaultGirls, showIntro = fa
               {lang === "cn" ? "查看所有女生" : "VIEW COLLECTION"}
             </Link>
           </div>
-          <h2 className="text-lg md:text-xl uppercase tracking-[0.3em] text-emerald mt-8 md:mt-16 font-sans font-bold drop-shadow-sm">
+          <h2 className="text-lg md:text-xl uppercase tracking-[0.3em] text-emerald mt-8 md:mt-16 font-sans font-bold">
             {t.grid.newCollection}
           </h2>
         </div>
@@ -61,7 +61,7 @@ const GirlGrid = ({ limit, showCTA = false, girls = defaultGirls, showIntro = fa
             href="/collection"
             className="group relative px-12 py-4 bg-transparent border border-emerald/30 hover:border-emerald transition-all duration-500 overflow-hidden"
           >
-            <span className="relative z-10 text-xs uppercase tracking-[0.4em] text-emerald group-hover:text-noir transition-colors duration-500 font-bold">
+            <span className="relative z-10 text-xs uppercase tracking-[0.4em] text-emerald group-hover:text-white transition-colors duration-500 font-bold">
               {t.grid.viewAll}
             </span>
             <div className="absolute inset-0 bg-emerald translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-out" />
