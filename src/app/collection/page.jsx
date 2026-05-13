@@ -19,7 +19,7 @@ export default function CollectionPage() {
   return (
     <main className="min-h-screen bg-noir pt-44 transition-colors duration-700">
       {/* Header Banner */}
-      <header className="relative w-full h-[280px] md:h-[450px] flex flex-col justify-end -mt-44 mb-16 overflow-hidden border-b border-zen bg-noir-soft">
+      <header className="relative w-full h-[220px] md:h-[450px] flex flex-col justify-end -mt-44 mb-16 overflow-hidden border-b border-zen bg-noir-soft">
         {/* Background Image */}
         <div className="absolute inset-0 z-0 bg-noir-soft">
           <img 
