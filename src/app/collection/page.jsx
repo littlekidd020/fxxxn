@@ -19,7 +19,7 @@ export default function CollectionPage() {
   return (
     <main className="min-h-screen bg-noir pt-44 transition-colors duration-700">
       {/* Header Banner */}
-      <header className="relative w-full h-[180px] md:h-[450px] flex flex-col justify-end -mt-44 mb-16 overflow-hidden border-b border-zen bg-noir-soft">
+      <header className="relative w-full h-[280px] md:h-[450px] flex flex-col justify-end -mt-44 mb-16 overflow-hidden border-b border-zen bg-noir-soft">
         {/* Background Image */}
         <div className="absolute inset-0 z-0 bg-noir-soft">
           <img 
@@ -32,7 +32,7 @@ export default function CollectionPage() {
         </div>
 
         {/* Text Content */}
-        <div className="relative z-10 flex flex-col items-center justify-center flex-1 px-4 mt-12 mb-6 max-w-4xl mx-auto w-full text-center">
+        <div className="relative z-10 flex flex-col items-center justify-center flex-1 px-4 mt-28 md:mt-12 mb-6 max-w-4xl mx-auto w-full text-center">
           <h1 className="text-4xl md:text-6xl font-serif text-emerald font-bold font-playfair tracking-wider">
             {t.nav.collection}
           </h1>
