@@ -256,6 +256,7 @@ export default function GirlDetailsPage() {
                 alt={`${model.name.en} Portfolio Main`} 
                 className="w-full h-full object-cover object-top transition-transform duration-1000 group-hover:scale-105"
               />
+              <div className="absolute inset-0 bg-emerald/10 mix-blend-overlay" />
               <div className="absolute inset-0 border border-emerald/0 group-hover:border-emerald/30 transition-all duration-700 m-4 rounded-2xl pointer-events-none" />
             </div>
 
@@ -270,6 +271,7 @@ export default function GirlDetailsPage() {
                   alt={`${model.name.en} Gallery ${idx + 1}`} 
                   className="w-full h-full object-cover object-center transition-transform duration-1000 group-hover:scale-105"
                 />
+                <div className="absolute inset-0 bg-emerald/10 mix-blend-overlay" />
                 <div className="absolute inset-0 bg-black/10 group-hover:bg-transparent transition-colors duration-500" />
               </div>
             ))}

@@ -51,6 +51,7 @@ const WeChatQRModal = ({ isOpen, onClose }) => {
                   alt="WeChat QR Code" 
                   className="w-full h-full object-cover"
                 />
+                <div className="absolute inset-0 bg-emerald/10 mix-blend-overlay" />
               </div>
             </div>
 

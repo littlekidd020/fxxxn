@@ -44,7 +44,7 @@ const AgeGate = ({ children }) => {
                  className="w-full h-full object-cover object-center opacity-60"
                  alt="Luxury Entry"
                />
-               <div className="absolute inset-0 bg-emerald/3 mix-blend-overlay" />
+               <div className="absolute inset-0 bg-emerald/10 mix-blend-overlay" />
                <div className="absolute inset-0 bg-gradient-to-b from-noir/90 via-transparent to-noir" />
             </div>
 

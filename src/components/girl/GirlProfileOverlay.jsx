@@ -84,6 +84,7 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
             onClick={() => setSelectedImage(true)}
             className="w-full h-full object-cover object-top transition-transform duration-700 group-hover/profile:scale-110 cursor-zoom-in"
           />
+          <div className="absolute inset-0 bg-emerald/10 mix-blend-overlay" />
           <div className="absolute inset-0 bg-gradient-to-t from-noir via-noir/70 to-transparent" />
           
           {/* Navigation Buttons */}
