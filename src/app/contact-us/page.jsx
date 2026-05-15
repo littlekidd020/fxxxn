@@ -105,7 +105,7 @@ const ConciergePage = () => {
               </a>
               <div className="flex items-center justify-center gap-3 py-4 bg-noir-soft border border-zen text-[#2A2A2A] rounded-xl hover:bg-zen hover:text-emerald transition-all transform hover:scale-105 cursor-pointer col-span-1 sm:col-span-2">
                 <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">{t.banner.wechat}</span>
-                <span className="text-[13px] md:text-lg uppercase tracking-[0.2em] font-black font-sans">Soulful95</span>
+                <span className="text-[13px] md:text-lg uppercase tracking-[0.2em] font-black font-sans text-center">BX20220927 / Soulful990</span>
               </div>
               <a 
                 href="tel:0221620017"

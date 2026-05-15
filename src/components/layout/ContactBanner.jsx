@@ -50,7 +50,7 @@ export default function ContactBanner() {
               <div className="flex flex-col md:flex-row items-center gap-1 md:gap-4 text-[13px] md:text-base font-black tracking-widest drop-shadow-md">
                 <div className="flex items-center gap-3">
                   <span className="opacity-70 text-[9px] md:text-xs font-bold font-sans uppercase tracking-[0.2em]">{t.banner?.wechat}</span> 
-                  <span>Soulful95</span>
+                  <span>BX20220927 / Soulful990</span>
                 </div>
               </div>
           </div>
