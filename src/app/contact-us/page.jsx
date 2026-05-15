@@ -38,7 +38,7 @@ const ConciergePage = () => {
             alt="Sensual Concierge Background" 
             className="w-full h-full object-cover object-center opacity-60"
           />
-          <div className="absolute inset-0 bg-emerald/10 mix-blend-overlay" />
+          <div className="absolute inset-0 bg-emerald/25 mix-blend-overlay" />
           <div className="absolute inset-0 bg-gradient-to-b from-noir/90 via-transparent to-noir" />
         </div>
 

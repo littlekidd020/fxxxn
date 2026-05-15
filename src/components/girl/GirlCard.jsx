@@ -25,7 +25,7 @@ const GirlCard = ({ model }) => {
           alt={model.name.en}
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-emerald/5 mix-blend-overlay" />
+        <div className="absolute inset-0 bg-emerald/15 mix-blend-overlay" />
       </div>
 
       {/* Overlays */}
