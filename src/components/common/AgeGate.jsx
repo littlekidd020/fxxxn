@@ -106,7 +106,7 @@ const AgeGate = ({ children }) => {
                  </div>
 
                  {/* Disclaimer */}
-                 <p className="text-[9px] uppercase tracking-[0.5em] text-[#2A2A2A]/40 font-bold max-w-lg mx-auto leading-loose px-4">
+                 <p className="text-[9px] uppercase tracking-[0.5em] text-emerald/70 font-bold max-w-lg mx-auto leading-loose px-4">
                     Step into a world of bespoke luxury. By entering, you confirm you are of legal age to view such content.
                  </p>
               </motion.div>
