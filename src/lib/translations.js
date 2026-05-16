@@ -15,7 +15,7 @@ export const translations = {
       support: "一周7天 专属客服支持"
     },
     banner: {
-      title: "专业接线 纽澳独家精品资源",
+      title: "AKL独家私人定制 高端资源",
       subtitle: "尊贵 • 隐秘 • 奢界",
       tag1: "全城顶流 独家甄选",
       tag2: "为您定制极致夜晚",
