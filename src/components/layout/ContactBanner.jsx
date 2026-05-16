@@ -32,7 +32,7 @@ export default function ContactBanner() {
                {t.banner?.title || "AKL独家私人定制 高端资源"}
              </h2>
              <p className="text-[9px] md:text-xs uppercase tracking-[0.2em] md:tracking-[0.4em] font-bold opacity-90 drop-shadow-sm font-sans">
-               {t.banner?.subtitle || "尊贵 • 隐秘 • 奢界"}
+               {t.banner?.subtitle || "你的首选 • 轻奢之家"}
              </p>
            </div>
         </div>

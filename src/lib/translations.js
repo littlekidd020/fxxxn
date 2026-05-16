@@ -16,7 +16,7 @@ export const translations = {
     },
     banner: {
       title: "AKL独家私人定制 高端资源",
-      subtitle: "尊贵 • 隐秘 • 奢界",
+      subtitle: "你的首选 • 轻奢之家",
       tag1: "全城顶流 独家甄选",
       tag2: "为您定制极致夜晚",
       slogan1: "品 味 顶 奢 之 夜",
