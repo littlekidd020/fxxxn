@@ -107,6 +107,39 @@ export const girls = [
       "/images/girls/aozora/IMG_8162.JPG",
       "/images/girls/aozora/IMG_8155.PNG"
     ]
+  },
+  {
+    id: 4,
+    name: { en: "Susu", cn: "苏苏" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "170cm",
+      weight: "47kg",
+      cup: "C",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/susu/IMG_8324.JPG",
+    description: {
+      en: "A breathtaking new arrival in Auckland CBD, Susu is a 24-year-old beauty with a slender, model-like figure (170cm, 47kg) and a natural C-cup. Known for her sweet demeanor and highly cooperative personality, she brings an elite level of passion to her services. Located right at 64 Federal St, she is perfect for those seeking an unforgettable, deeply satisfying companionship. Limited stay—book your premium experience today.",
+      cn: "超高颜值空降AKL市中心，苏苏是一位24岁、拥有模特般高挑身材（170cm/47kg）及C杯性感曲线的心动女生。性格温柔乖巧，服务极其主动且配合度极高，代入感爆棚。现位于市中心 Federal St 豪华公寓，提供高端无套口、激情69、缠绵蛇吻及共浴等全套贴心服务，为您带来极具温柔与激情的完美体验。短期停留，机不可失，赶紧预约吧！"
+    },
+    price: "$450 / 1h · $350 / 30min",
+    services: {
+      en: ["Natural BJ", "69", "Deep Kiss", "Stockings", "Shower Together", "Massage", "Water Play", "Finger Slide", "Ball Play", "Uniform", "2 Shots", "Extra: BJ Finish (+$100)"],
+      cn: ["无套口", "69", "蛇吻", "丝袜", "陪浴", "按摩", "水中", "指划", "舔蛋", "制服", "可2次", "额外：口爆 (+$100)"]
+    },
+    gallery: [
+      "/images/girls/susu/IMG_8324.JPG",
+      "/images/girls/susu/IMG_8325.JPG",
+      "/images/girls/susu/IMG_8326.JPG",
+      "/images/girls/susu/IMG_8327.JPG",
+      "/images/girls/susu/IMG_8328.JPG",
+      "/images/girls/susu/IMG_8329.JPG",
+      "/images/girls/susu/IMG_8464.PNG"
+    ]
   }
 ];
 
