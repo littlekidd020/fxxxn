@@ -19,8 +19,8 @@ export const girls = [
     },
     price: "$450 / 1h · $400 / 45min · $350 / 30min · $3000 / Overnight",
     services: {
-      en: ["Natural BJ", "69", "Deep Kiss", "Breast Slide", "Stockings", "Lingerie", "Shower Together", "Massage", "Extra: 2nd Round (+$50)", "Extra: BJ Finish (+$50)", "Extra: Rimming (+$50)", "Extra: Facial (+$100) (Last of the day)"],
-      cn: ["无套口", "陪浴", "69", "蛇吻", "胸推", "丝袜", "情趣内衣", "按摩", "额外：第二次 (+$50)", "额外：口爆 (+$50)", "额外：毒龙 (+$50)", "额外：颜射 (+$100) (当天最后一个)"]
+      en: ["Natural BJ", "69", "Deep Kiss", "Breast Slide", "Stockings", "Lingerie", "Shower Together", "Massage", "Extra: 2nd\u00A0Round(+$50) BJ\u00A0Finish(+$50) Rimming(+$50) Facial(+$100)\u00A0(Last\u00A0of\u00A0the\u00A0day)"],
+      cn: ["无套口", "陪浴", "69", "蛇吻", "胸推", "丝袜", "情趣内衣", "按摩", "额外：第二次(+$50) 口爆(+$50) 毒龙(+$50) 颜射(+$100)\u00A0(当天最后一个)"]
     },
     gallery: [
       "/images/girls/nana/IMG_8415.JPG",
