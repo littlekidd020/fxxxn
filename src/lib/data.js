@@ -140,6 +140,40 @@ const rawGirls = [
       "/images/girls/susu/IMG_8329.JPG",
       "/images/girls/susu/IMG_8464.PNG"
     ]
+  },
+  {
+    id: 5,
+    name: { en: "Nana", cn: "小奈奈" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 23,
+      height: "164cm",
+      weight: "45kg",
+      cup: "C",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/nana/IMG_8415.JPG",
+    description: {
+      en: "A sensational new arrival from Australia! Born in 2003, Little Nana is making her Auckland debut in the CBD. She features a gorgeous, photogenic face that looks stunning even without makeup. A fitness enthusiast with fair, incredibly soft skin, she possesses a natural C-cup bust that is beautifully shaped. She offers a rare blend of sweet, innocent looks and highly sensual, playful energy. An exceptionally proactive and attentive service-oriented companion based at 64 Federal St. Day bookings and overnight packages are available.",
+      cn: "最强澳洲空降！03年青春留学生小奈奈初次登场奥克兰市中心。超高颜值，素颜抗打，平时喜爱健美，皮肤雪白娇嫩。纯天然C杯饱满挺拔，触感极为柔软。甜美可爱的面容下，拥有极具反差的主动与风情，是不可多得的极品宝藏女孩。服务极其温柔细致、主动迎合，带入感拉满。支持单次、包夜及包天服务，市区 Federal St 公寓不见不散！"
+    },
+    price: "$450 / 1h · $400 / 45min · $350 / 30min · $3000 / Overnight",
+    services: {
+      en: ["Natural BJ", "69", "Deep Kiss", "Breast Slide", "Stockings", "Lingerie", "Shower Together", "Massage", "Extra: 2nd Round (+$50)", "Extra: BJ Finish (+$50)", "Extra: Rimming (+$50)", "Extra: Facial (+$100) (Last of the day)"],
+      cn: ["无套口", "陪浴", "69", "蛇吻", "胸推", "丝袜", "情趣内衣", "按摩", "额外：第二次 (+$50)", "额外：口爆 (+$50)", "额外：毒龙 (+$50)", "额外：颜射 (+$100) (当天最后一个)"]
+    },
+    gallery: [
+      "/images/girls/nana/IMG_8415.JPG",
+      "/images/girls/nana/IMG_8423.JPG",
+      "/images/girls/nana/014688062c0de8c693f332287e7db97a.jpg",
+      "/images/girls/nana/0a5c2bf64d31ebe9497ec02f5e93b7bf.jpg",
+      "/images/girls/nana/7a2e8c9bd94c1e25d6f499f54d286acb.jpg",
+      "/images/girls/nana/b40f38159723c169119961224b171530.jpg",
+      "/images/girls/nana/b9b552a7949253ab62bfd1eb5a35b408.jpg",
+      "/images/girls/nana/IMG_8460.PNG"
+    ]
   }
 ];
 
