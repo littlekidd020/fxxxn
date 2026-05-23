@@ -1,4 +1,4 @@
-export const girls = [
+const rawGirls = [
   {
     id: 1,
     name: { en: "Qingyubao", cn: "晴屿宝" },
@@ -142,5 +142,7 @@ export const girls = [
     ]
   }
 ];
+
+export const girls = [...rawGirls].sort((a, b) => b.id - a.id);
 
 export default girls;
