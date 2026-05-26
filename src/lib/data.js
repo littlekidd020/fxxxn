@@ -1,5 +1,40 @@
 export const girls = [
   {
+    id: 6,
+    name: { en: "Baicha", cn: "小白茶" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 23,
+      height: "172cm",
+      weight: "49kg",
+      cup: "36D+ (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/baicha/48727ac2f4cbb2054b719cca8b056a28.jpg",
+    video: "/images/girls/baicha/video.mp4",
+    description: {
+      en: "A stunning new arrival in Auckland CBD! Born in 2003, Xiaobaicha is a breathtaking 23-year-old beauty with a slender, model-like figure (172cm, 49kg) and a natural 36D+ bust. Featuring a gorgeous face, snow-white delicate skin, and an incredibly sweet demeanor, she brings an elite level of passion and care to her services. Located right at 64 Federal St, she is perfect for those seeking an unforgettable, deeply satisfying companionship. Overnight packages and single bookings are available.",
+      cn: "全新登场！03年超极品心动女神小白茶，初次登场奥克兰市中心。172cm/49kg高挑模特身材，前凸后翘，纯天然36D+傲人曲线。不仅颜值极高，皮肤更是雪白娇嫩。服务极其温柔主动、贴心细腻，带入感极强。现位于市中心 Federal St 豪华公寓，提供高端共浴、激情69、深情蛇吻及胸推等全方位贴心体验。支持单次、包夜服务，小哥哥们不见不散！"
+    },
+    price: "$500 / 1h · $850 / 90min · $450 / 45min · $400 / 30min · $3200 / Overnight",
+    services: {
+      en: ["Natural BJ", "69", "Deep Kiss", "Breast Slide", "Stockings", "Lingerie", "Shower Together", "Massage", "Extra: BJ\u00A0Finish(+$50) 2nd\u00A0Round(+$50)"],
+      cn: ["无套口", "陪浴", "69", "蛇吻", "胸推", "丝袜", "情趣内衣", "按摩", "额外：口爆(+$50) 第二次(+$50)"]
+    },
+    gallery: [
+      "/images/girls/baicha/48727ac2f4cbb2054b719cca8b056a28.jpg",
+      "/images/girls/baicha/de5fd68f91bbc4fa88fb8d1c594419f1.jpg",
+      "/images/girls/baicha/c3e922223a4326e96840ca4917528afe.jpg",
+      "/images/girls/baicha/9966901da4879dcfaef93e99603b8bef.jpg",
+      "/images/girls/baicha/d0abc27b7f865f2aafe5253d5a4f4d89.jpg",
+      "/images/girls/baicha/069e0b1e464e642c287b22afab9ae0cf.jpg",
+      "/images/girls/baicha/IMG_8539.JPG",
+      "/images/girls/baicha/IMG_8544.PNG"
+    ]
+  },
+  {
     id: 5,
     name: { en: "Nana", cn: "小奈奈" },
     status: "available",
