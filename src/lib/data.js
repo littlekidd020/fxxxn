@@ -18,10 +18,10 @@ export const girls = [
       en: "A premier new arrival from Australia! Born in 2003, Xiaobaicha is a genuine 23-year-old student beauty here for a limited 9-day part-time Auckland CBD debut. She features a stunning, model-like figure (172cm, 49kg) and a natural, incredibly soft 36D+ bust. Fitness-loving with flawless skin, she is highly photogenic even without makeup. Known for her talkative, sweet, and genuine student temperament, she provides a refreshing, non-professional companionship that is highly acclaimed by guests. Located right at 64 Federal St, offering overnight packages and day bookings. Don't miss this exclusive 9-day stay!",
       cn: "全新澳洲空降！03年青春在读学生小白茶，首次登陆奥克兰市中心兼职，仅限短期停留9天！她拥有172cm/49kg高挑模特身材，前凸后翘，纯天然36D+傲人双峰极其饱满柔软。素颜非常抗打，平时爱健身。性格活泼健谈、温柔主动，保留着纯真不风尘的学生气质。真实体验极佳，口碑爆棚。现位于市中心 Federal St 豪华公寓，提供无套口、共浴、激情69、胸推等贴心服务，千万不要错过！"
     },
-    price: "$500 / 1h · $850 / 90min · $450 / 45min · $400 / 30min · $3200-$3500 / Overnight (8-10h) · $5000 / Day",
+    price: "$500 / 1h · $850 / 90min · $3200-$3500 / Overnight (8-10h) · $5000 / Day",
     services: {
-      en: ["Natural BJ", "69", "Deep Kiss", "Breast Slide", "Stockings", "Lingerie", "Shower Together", "Massage", "Extra: BJ\u00A0Finish(+$50)"],
-      cn: ["无套口", "陪浴", "69", "蛇吻", "胸推", "丝袜", "情趣内衣", "按摩", "额外：口爆(+$50)"]
+      en: ["Natural BJ", "69", "Deep Kiss", "Breast Slide", "Black Stockings", "Lingerie", "Shower Together", "Massage", "1 Shot", "Extra: BJ\u00A0Finish(+$50) 2nd\u00A0Round\u00A0Negotiable"],
+      cn: ["无套口", "陪浴", "69", "蛇吻", "胸推", "黑丝", "情趣内衣", "按摩", "可做1次", "额外：口爆(+$50) 第二次自议"]
     },
     gallery: [
       "/images/girls/baicha/48727ac2f4cbb2054b719cca8b056a28.jpg",
@@ -31,7 +31,7 @@ export const girls = [
       "/images/girls/baicha/d0abc27b7f865f2aafe5253d5a4f4d89.jpg",
       "/images/girls/baicha/069e0b1e464e642c287b22afab9ae0cf.jpg",
       "/images/girls/baicha/IMG_8539.JPG",
-      "/images/girls/baicha/IMG_8555.PNG",
+      "/images/girls/baicha/IMG_8601.PNG",
       "/images/girls/baicha/IMG_8567.JPG",
       "/images/girls/baicha/IMG_8569.PNG"
     ]
