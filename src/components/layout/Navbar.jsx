@@ -32,7 +32,7 @@ const Navbar = () => {
         scrolled ? "bg-noir/90 backdrop-blur-xl border-zen shadow-lg md:py-4" : "bg-transparent md:py-10"
       }`}>
       <Link href="/" className="flex items-center group">
-        <div className="relative w-28 h-12 md:w-48 md:h-20">
+        <div className="relative w-36 h-16 md:w-48 md:h-20">
           <BrandLogo className="w-full h-full" />
         </div>
       </Link>
