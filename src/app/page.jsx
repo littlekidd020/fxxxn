@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-noir overflow-x-hidden pt-44 transition-all duration-700">
       {/* Cinematic Hero Banner */}
-      <header className="relative w-full h-[270px] md:h-[400px] flex flex-col justify-end -mt-44 mb-12 overflow-hidden">
+      <header className="relative w-full h-[480px] md:h-[400px] flex flex-col justify-end -mt-44 mb-12 overflow-hidden">
         {/* Background Image */}
         <div className="absolute inset-0 z-0 bg-noir-soft">
           <img 
