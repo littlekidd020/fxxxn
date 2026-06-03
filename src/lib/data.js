@@ -29,7 +29,6 @@ export const girls = [
       "/images/girls/yuwei/8549401d9e5263e76f05aa5235db6f00.jpg",
       "/images/girls/yuwei/b2e116cc0419ce353026ccdcce8b5946.jpg",
       "/images/girls/yuwei/db9af696b2fc737539361b5ee084b209.jpg",
-      "/images/girls/yuwei/e009fc852778ecfb6ce046649a830e47.jpg",
       "/images/girls/yuwei/f6c3ff09ecab5242952c820ef8fa0357.jpg",
       "/images/girls/yuwei/IMG_8618.PNG",
       "/images/girls/yuwei/IMG_8643.PNG",
