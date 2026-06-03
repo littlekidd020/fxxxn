@@ -51,7 +51,7 @@ export const girls = [
       cup: "36D+ (Natural)",
       nationality: "Chinese"
     },
-    image: "/images/girls/baicha/IMG_8539.JPG",
+    image: "/images/girls/baicha/069e0b1e464e642c287b22afab9ae0cf.jpg",
     video: "/images/girls/baicha/video.mp4",
     description: {
       en: "A premier new arrival from Australia! Born in 2003, Xiaobaicha is a genuine 23-year-old student beauty here for a limited 9-day part-time Auckland CBD debut. She features a stunning, model-like figure (172cm, 49kg) and a natural, incredibly soft 36D+ bust. Fitness-loving with flawless skin, she is highly photogenic even without makeup. Known for her talkative, sweet, and genuine student temperament, she provides a refreshing, non-professional companionship that is highly acclaimed by guests. Located right at 64 Federal St, offering overnight packages and day bookings. Don't miss this exclusive 9-day stay!",
