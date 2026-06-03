@@ -1,5 +1,44 @@
 export const girls = [
   {
+    id: 7,
+    name: { en: "Yuwei", cn: "雨薇" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "164cm",
+      weight: "44kg",
+      cup: "C (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/yuwei/f30cc354c259e60074fedcaee18446fe.jpg",
+    video: "/images/girls/yuwei/video.mp4",
+    description: {
+      en: "A premier new domestic arrival! Born in 2002, Yuwei is a gorgeous 24-year-old beauty here for a limited part-time stay in Auckland CBD. She features an adorable, next-door-girl temperament, a slender, model-like figure (164cm, 44kg), and a natural C-cup bust. Fitness-loving and fair-skinned, she possesses a sweet, soft voice and a lovely, warm personality. Highly praised for her gentle, accommodating, and non-professional service, she is the perfect companion for a deeply comfortable, premium experience. Located at 64 Federal St.",
+      cn: "最新国内空降！02年甜美系美少女雨薇，初次登场奥克兰市中心。她拥有164cm/44kg的极其苗条、纤细的衣服架子身材，以及纯天然保真C罩杯，触感柔糯。皮肤雪白娇嫩，平时爱健身，声音柔和糯甜。性格活泼开朗、健谈好相处，保留着清纯良家不风尘的温婉气质。服务温柔细致、主动贴心，回头率极高。现位于市中心 Federal St 豪华公寓，欢迎预约体验！"
+    },
+    price: "$360 / 1h · $300 / 30min",
+    services: {
+      en: ["Natural BJ", "69", "Deep Kiss", "Stockings", "Shower Together", "Squirting", "Finger Slide", "Extra: BJ\u00A0Finish(+$50) 2nd\u00A0Round(+$50) Professional\u00A0S(+$50)"],
+      cn: ["无套口", "陪浴", "69", "蛇吻", "丝袜", "吹潮", "指划", "额外：口爆(+$50) 第二次(+$50) 专业S(+$50)"]
+    },
+    gallery: [
+      "/images/girls/yuwei/f30cc354c259e60074fedcaee18446fe.jpg",
+      "/images/girls/yuwei/5d303aa391a31b5507960f42692bfa30.jpg",
+      "/images/girls/yuwei/656a61884e540cdabd7065567fdc9bd8.jpg",
+      "/images/girls/yuwei/8549401d9e5263e76f05aa5235db6f00.jpg",
+      "/images/girls/yuwei/b2e116cc0419ce353026ccdcce8b5946.jpg",
+      "/images/girls/yuwei/db9af696b2fc737539361b5ee084b209.jpg",
+      "/images/girls/yuwei/e009fc852778ecfb6ce046649a830e47.jpg",
+      "/images/girls/yuwei/f6c3ff09ecab5242952c820ef8fa0357.jpg",
+      "/images/girls/yuwei/IMG_8618.PNG",
+      "/images/girls/yuwei/IMG_8643.PNG",
+      "/images/girls/yuwei/IMG_8646.PNG",
+      "/images/girls/yuwei/IMG_8648.PNG"
+    ]
+  },
+  {
     id: 6,
     name: { en: "Baicha", cn: "小白茶" },
     status: "available",
