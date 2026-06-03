@@ -12,7 +12,7 @@ export const girls = [
       cup: "C (Natural)",
       nationality: "Chinese"
     },
-    image: "/images/girls/yuwei/f30cc354c259e60074fedcaee18446fe.jpg",
+    image: "/images/girls/yuwei/db9af696b2fc737539361b5ee084b209.jpg",
     video: "/images/girls/yuwei/video.mp4",
     description: {
       en: "A premier new domestic arrival! Born in 2002, Yuwei is a gorgeous 24-year-old beauty here for a limited part-time stay in Auckland CBD. She features an adorable, next-door-girl temperament, a slender, model-like figure (164cm, 44kg), and a natural C-cup bust. Fitness-loving and fair-skinned, she possesses a sweet, soft voice and a lovely, warm personality. Highly praised for her gentle, accommodating, and non-professional service, she is the perfect companion for a deeply comfortable, premium experience. Located at 64 Federal St.",
@@ -25,7 +25,6 @@ export const girls = [
     },
     gallery: [
       "/images/girls/yuwei/f30cc354c259e60074fedcaee18446fe.jpg",
-      "/images/girls/yuwei/5d303aa391a31b5507960f42692bfa30.jpg",
       "/images/girls/yuwei/656a61884e540cdabd7065567fdc9bd8.jpg",
       "/images/girls/yuwei/8549401d9e5263e76f05aa5235db6f00.jpg",
       "/images/girls/yuwei/b2e116cc0419ce353026ccdcce8b5946.jpg",
