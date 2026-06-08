@@ -1,5 +1,53 @@
 export const girls = [
   {
+    id: 8,
+    name: { en: "Atomi", cn: "Atomi" },
+    status: "available",
+    verified: true,
+    location: "Central",
+    stats: {
+      age: 23,
+      height: "155cm",
+      weight: "43kg",
+      cup: "C (Natural)",
+      nationality: "Japanese"
+    },
+    image: "/images/girls/atomi/55.jpg",
+    video: "/images/girls/atomi/video.mp4",
+    description: {
+      en: "Cute, petite, and exceptionally charming, Atomi is a 23-year-old Japanese beauty now serving Central Auckland. Standing at 155cm and weighing 43kg with natural C-cup curves, she features an ultra-delicate and lovely build. Extremely gentle and compliant, her standard session includes deep French kissing, bareback BJ, 69, nipple licking, pussy sliding, and 2 shots of pure pleasure. She also offers flexible premium extras including cum on face, natural creampie, and discrete recording to customize your perfect experience.",
+      cn: "日系超小只女神！23岁的日籍美眉 Atomi 拥有 155cm、43kg 的极度娇小玲珑身材，天然 C 罩杯丰满胸围。性格极为乖巧顺从，声音甜美温柔。提供包含深吻、无套口吹、69互动、爱抚舔乳、指划漫游和 2 次云雨的标准满分体验。额外更支持颜射、无套不内射、无套内射以及不露脸/露脸拍摄录影等个性化定制服务，在中区为您打造极致解压的日式奢宠享受。"
+    },
+    price: "$360 / 1h (2 rounds) · $320 / 45min · $280 / 30min",
+    services: {
+      en: [
+        "Shower together",
+        "Deep French Kissing",
+        "Bareback BJ",
+        "Mutual oral (69)",
+        "Nipple licking",
+        "Pussy slider",
+        "2 shots",
+        "Extra: Cum on Face (+$100) · Natural sex (no creampie) (+$150) · Natural & Creampie (+$200) · Photo/Video no face (+$200) · Photo/Video with face (+$300)"
+      ],
+      cn: [
+        "双人洗浴",
+        "深吻",
+        "无套口",
+        "69互动",
+        "爱抚舔乳",
+        "指划漫游",
+        "做2次",
+        "额外：颜射 (+$100) · 无套不内射 (+$150) · 无套内射 (+$200) · 拍照录影不露脸 (+$200) · 拍照录影露脸 (+$300)"
+      ]
+    },
+    gallery: [
+      "/images/girls/atomi/57.jpg",
+      "/images/girls/atomi/58.jpg",
+      "/images/girls/atomi/63.jpg"
+    ]
+  },
+  {
     id: 7,
     name: { en: "Yuwei", cn: "雨薇" },
     status: "available",
