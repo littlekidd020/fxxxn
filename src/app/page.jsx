@@ -28,7 +28,7 @@ export default function Home() {
       
       {/* Model Grid Section */}
       <GirlGrid 
-        limit={3} 
+        limit={6} 
         showCTA={true} 
         showIntro={true} 
       />
