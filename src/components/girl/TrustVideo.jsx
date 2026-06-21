@@ -35,6 +35,7 @@ const TrustVideo = ({ src, poster }) => {
 
   const openModal = () => {
     setIsModalOpen(true);
+    setIsMuted(false);
     if (videoRef.current) {
       videoRef.current.pause();
       setIsPlaying(false);

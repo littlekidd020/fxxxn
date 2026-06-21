@@ -81,7 +81,7 @@ async function optimize() {
       const output = file + '.tmp.mp4';
       
       try {
-        execSync(`ffmpeg -i "${file}" -vcodec libx264 -crf 28 -preset fast -acodec mp3 "${output}" -y -loglevel error`);
+        execSync(`ffmpeg -i "${file}" -vcodec libx264 -crf 28 -preset fast -acodec aac -b:a 128k "${output}" -y -loglevel error`);
         await fs.rename(output, file);
         
         const newStats = await fs.stat(file);
