@@ -16,7 +16,7 @@ export const girls = [
     video: "/images/girls/nao/video.mp4",
     description: {
       en: "Brand new Japanese student working part-time! Nao is a petite, doll-like beauty with big sparkling eyes — super tiny and adorable. She's currently studying and only available for a short period. Services include shower together, deep French kissing, bareback BJ, 69, breast slide, massage, water BJ, and 2nd round included. Extras: CIM +$50, cum on face +$100, photo/video recording (no face) +$200. Strictly no bareback sex/creampie.",
-      cn: "🆕🇯🇵🌸在读学生妹兼职上课！奈绪小巧玲珑，大眼睛超漂亮，未开苞小萝莉，超小只！短期兼职开放中。提供洗澡、舌吻、无套口、69、胸推、按摩、水中箫，包括第2次。额外费用：口报+50、颜射+100、拍照拍摄（不露脸）+200。严禁无套内射。"
+      cn: "🆕🇯🇵🌸在读学生妹兼职上课！奈绪小巧玲珑，大眼睛超漂亮，未开苞小萝莉，超小只！短期兼职开放中。"
     },
     price: "$400 / 1h · $350 / 45min · $300 / 30min",
     services: {

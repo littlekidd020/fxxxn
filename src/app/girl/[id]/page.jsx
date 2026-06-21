@@ -219,6 +219,25 @@ export default function GirlDetailsPage() {
                     });
                   })()}
                 </div>
+                {model.extras && (() => {
+                  const extras = Array.isArray(model.extras) ? model.extras : (model.extras[lang] || model.extras.en || []);
+                  if (!extras.length) return null;
+                  return (
+                    <div className="mt-3 pt-3 border-t border-[#2A2A2A]/10">
+                      <span className="text-[10px] uppercase tracking-widest text-amber-600 font-bold font-sans">
+                        {lang === 'cn' ? '额外费用' : 'Extras'}
+                      </span>
+                      <div className="flex flex-wrap gap-x-2 gap-y-1 text-[#2A2A2A]/70 leading-relaxed font-sans text-sm mt-2">
+                        {extras.map((item, idx) => (
+                          <span key={idx} className="inline">
+                            {item}
+                            {idx < extras.length - 1 && <span className="mx-2 text-[#2A2A2A]/30 inline-block">·</span>}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  );
+                })()}
               </div>
             </div>
           </div>
