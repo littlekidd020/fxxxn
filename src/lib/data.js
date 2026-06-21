@@ -1,5 +1,54 @@
 export const girls = [
   {
+    id: 9,
+    name: { en: "Mina", cn: "Mina" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "173cm",
+      weight: "49kg",
+      cup: "B",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/mina/79.jpg",
+    video: "/images/girls/mina/video.mp4",
+    description: {
+      en: "Newly arrived domestic air-drop! Mina has fair, flawless skin, long model-like legs, and large, expressive eyes. With a gentle voice and a genuine student temperament (having graduated from Australia), she is available for a limited 2-week stay. Her service includes shower, deep kissing, bareback BJ, 69, breast slide, massage, water BJ, and is inclusive of a 2nd round. Strictly no bareback sex/creampie.",
+      cn: "🆕国内空降🪂 Mina 皮肤白嫩，长相甜美大眼睛，拥有一双惹眼的大长腿，声音温柔糯甜。她是澳洲毕业留学生，短期仅开 2 周！提供贴心细致的洗澡、舌吻、无套口、69、胸推、按摩、水中箫标准体验，价格已包第 2 次。严禁无套内射。"
+    },
+    price: "$550 / 1h (VIP) · $450 / 30min",
+    services: {
+      en: [
+        "Shower together",
+        "Deep Kissing",
+        "Bareback BJ",
+        "Mutual oral (69)",
+        "Breast Slide",
+        "Massage",
+        "Water BJ",
+        "2nd round included"
+      ],
+      cn: [
+        "洗澡",
+        "舌吻",
+        "无套口",
+        "69",
+        "胸推",
+        "按摩",
+        "水中箫",
+        "包第二次"
+      ]
+    },
+    gallery: [
+      "/images/girls/mina/80.jpg",
+      "/images/girls/mina/IMG_1258.JPG",
+      "/images/girls/mina/IMG_1260.JPG",
+      "/images/girls/mina/IMG_1265.JPG"
+    ]
+  },
+  {
     id: 8,
     name: { en: "Atomi", cn: "Atomi" },
     status: "available",
