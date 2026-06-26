@@ -114,8 +114,12 @@ const TrustVideo = ({ src, poster }) => {
             <motion.button
               initial={{ scale: 0 }}
               animate={{ scale: 1 }}
-              className="absolute top-6 right-6 z-[110] p-3 bg-white/10 hover:bg-white/20 rounded-full text-white transition-colors"
-              onClick={closeModal}
+              className="absolute top-4 right-4 md:top-6 md:right-6 z-[110] p-3 bg-white/10 hover:bg-white/20 rounded-full text-white transition-colors"
+              onClick={(e) => {
+                e.stopPropagation();
+                closeModal();
+              }}
+              title="Close modal"
             >
               <X size={24} />
             </motion.button>
@@ -138,9 +142,21 @@ const TrustVideo = ({ src, poster }) => {
               />
               
               {/* Modal Badge */}
-              <div className="absolute top-4 left-4 z-10 px-4 py-2 bg-emerald text-white text-[10px] uppercase tracking-widest font-bold rounded-full shadow-lg">
+              <div className="absolute top-4 left-4 z-10 px-4 py-2 bg-emerald text-white text-[10px] uppercase tracking-widest font-bold rounded-full shadow-lg pointer-events-none">
                 {t.girl.uneditedPreview}
               </div>
+
+              {/* Modal Close Button */}
+              <button
+                onClick={(e) => {
+                  e.stopPropagation();
+                  closeModal();
+                }}
+                className="absolute top-4 right-4 z-20 p-2.5 bg-black/70 hover:bg-black/90 backdrop-blur-md rounded-full text-white/90 hover:text-white border border-white/20 shadow-xl transition-all"
+                title="Close video"
+              >
+                <X size={20} />
+              </button>
             </motion.div>
           </motion.div>
         )}
