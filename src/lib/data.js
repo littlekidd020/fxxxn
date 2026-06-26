@@ -77,7 +77,7 @@ export const girls = [
       cup: "B",
       nationality: "Chinese"
     },
-    image: "/images/girls/mina/IMG_1258.JPG",
+    image: "/images/girls/mina/IMG_1432.JPG",
     video: "/images/girls/mina/video.mp4",
     description: {
       en: "Newly arrived domestic air-drop! Mina has fair, flawless skin, long model-like legs, and large, expressive eyes. With a gentle voice and a genuine student temperament (having graduated from Australia), she is available for a limited 2-week stay. Her service includes shower, deep kissing, bareback BJ, 69, breast slide, massage, water BJ, and is inclusive of a 2nd round. Strictly no bareback sex/creampie.",
@@ -107,10 +107,15 @@ export const girls = [
       ]
     },
     gallery: [
-      "/images/girls/mina/79.jpg",
-      "/images/girls/mina/80.jpg",
       "/images/girls/mina/IMG_1260.JPG",
-      "/images/girls/mina/IMG_1265.JPG"
+      "/images/girls/mina/IMG_1265.JPG",
+      "/images/girls/mina/IMG_1433.JPG",
+      "/images/girls/mina/IMG_1434.JPG",
+      "/images/girls/mina/IMG_1435.JPG",
+      "/images/girls/mina/IMG_1436.JPG",
+      "/images/girls/mina/IMG_1437.JPG",
+      "/images/girls/mina/IMG_1438.JPG",
+      "/images/girls/mina/IMG_1439.JPG"
     ]
   },
   {
