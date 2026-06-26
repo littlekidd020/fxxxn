@@ -108,27 +108,30 @@ const TrustVideo = ({ src, poster }) => {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 z-[100] flex items-center justify-center bg-black/95 backdrop-blur-2xl p-4 md:p-8"
+            className="fixed inset-0 z-[100] flex flex-col items-center justify-center bg-black/95 backdrop-blur-2xl"
             onClick={closeModal}
           >
+            {/* Close Button - fixed to viewport top, always visible */}
             <motion.button
-              initial={{ scale: 0 }}
-              animate={{ scale: 1 }}
-              className="absolute top-4 right-4 md:top-6 md:right-6 z-[110] p-3 bg-white/10 hover:bg-white/20 rounded-full text-white transition-colors"
+              initial={{ opacity: 0, y: -20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.2 }}
+              className="fixed top-3 right-3 z-[200] flex items-center gap-2 px-4 py-2.5 bg-white/20 hover:bg-white/30 active:bg-white/40 backdrop-blur-xl rounded-full text-white border border-white/30 shadow-2xl transition-all"
               onClick={(e) => {
                 e.stopPropagation();
                 closeModal();
               }}
-              title="Close modal"
+              style={{ WebkitTapHighlightColor: 'transparent' }}
             >
-              <X size={24} />
+              <X size={20} strokeWidth={2.5} />
+              <span className="text-xs font-bold uppercase tracking-wider">Close</span>
             </motion.button>
 
             <motion.div
               initial={{ scale: 0.9, y: 20 }}
               animate={{ scale: 1, y: 0 }}
               exit={{ scale: 0.9, y: 20 }}
-              className="relative w-full max-w-[500px] aspect-[9/16] bg-black shadow-[0_0_50px_rgba(61,122,74,0.2)] rounded-lg overflow-hidden"
+              className="relative w-full max-w-[500px] max-h-[80vh] bg-black shadow-[0_0_50px_rgba(61,122,74,0.2)] rounded-lg overflow-hidden mx-4"
               onClick={(e) => e.stopPropagation()}
             >
               <video
@@ -140,23 +143,6 @@ const TrustVideo = ({ src, poster }) => {
                 playsInline
                 className="w-full h-full object-contain"
               />
-              
-              {/* Modal Badge */}
-              <div className="absolute top-4 left-4 z-10 px-4 py-2 bg-emerald text-white text-[10px] uppercase tracking-widest font-bold rounded-full shadow-lg pointer-events-none">
-                {t.girl.uneditedPreview}
-              </div>
-
-              {/* Modal Close Button */}
-              <button
-                onClick={(e) => {
-                  e.stopPropagation();
-                  closeModal();
-                }}
-                className="absolute top-4 right-4 z-20 p-2.5 bg-black/70 hover:bg-black/90 backdrop-blur-md rounded-full text-white/90 hover:text-white border border-white/20 shadow-xl transition-all"
-                title="Close video"
-              >
-                <X size={20} />
-              </button>
             </motion.div>
           </motion.div>
         )}
