@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
+import { createPortal } from "react-dom";
 import { Play, Pause, Volume2, VolumeX, X, Maximize2 } from "lucide-react";
 import { useLanguage } from "@/context/LanguageContext";
 import { motion, AnimatePresence } from "framer-motion";
@@ -8,8 +9,14 @@ const TrustVideo = ({ src, poster }) => {
   const [isPlaying, setIsPlaying] = useState(false);
   const [isMuted, setIsMuted] = useState(true);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [mounted, setMounted] = useState(false);
   const videoRef = useRef(null);
   const modalVideoRef = useRef(null);
+
+  // Ensure portal target exists (client-side only)
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
   // Sync mute state between preview and modal
   useEffect(() => {
@@ -20,6 +27,18 @@ const TrustVideo = ({ src, poster }) => {
       videoRef.current.muted = isMuted;
     }
   }, [isMuted, isModalOpen]);
+
+  // Lock body scroll when modal is open
+  useEffect(() => {
+    if (isModalOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [isModalOpen]);
 
   const togglePlay = (e) => {
     e?.stopPropagation();
@@ -45,6 +64,56 @@ const TrustVideo = ({ src, poster }) => {
   const closeModal = () => {
     setIsModalOpen(false);
   };
+
+  // Modal content rendered via portal
+  const modalContent = (
+    <AnimatePresence>
+      {isModalOpen && (
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          exit={{ opacity: 0 }}
+          className="fixed inset-0 flex flex-col items-center justify-center bg-black/95 backdrop-blur-2xl"
+          style={{ zIndex: 99999 }}
+          onClick={closeModal}
+        >
+          {/* Close Button - always visible */}
+          <motion.button
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.2 }}
+            className="fixed top-3 right-3 flex items-center gap-2 px-4 py-2.5 bg-white/20 hover:bg-white/30 active:bg-white/40 backdrop-blur-xl rounded-full text-white border border-white/30 shadow-2xl transition-all"
+            style={{ zIndex: 100000, WebkitTapHighlightColor: 'transparent' }}
+            onClick={(e) => {
+              e.stopPropagation();
+              closeModal();
+            }}
+          >
+            <X size={20} strokeWidth={2.5} />
+            <span className="text-xs font-bold uppercase tracking-wider">Close</span>
+          </motion.button>
+
+          <motion.div
+            initial={{ scale: 0.9, y: 20 }}
+            animate={{ scale: 1, y: 0 }}
+            exit={{ scale: 0.9, y: 20 }}
+            className="relative w-full max-w-[500px] max-h-[80vh] bg-black shadow-[0_0_50px_rgba(61,122,74,0.2)] rounded-lg overflow-hidden mx-4"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <video
+              ref={modalVideoRef}
+              src={src}
+              autoPlay
+              loop
+              controls
+              playsInline
+              className="w-full h-full object-contain"
+            />
+          </motion.div>
+        </motion.div>
+      )}
+    </AnimatePresence>
+  );
 
   return (
     <>
@@ -101,54 +170,11 @@ const TrustVideo = ({ src, poster }) => {
         )}
       </div>
 
-      {/* Full Screen Video Modal */}
-      <AnimatePresence>
-        {isModalOpen && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            className="fixed inset-0 z-[100] flex flex-col items-center justify-center bg-black/95 backdrop-blur-2xl"
-            onClick={closeModal}
-          >
-            {/* Close Button - fixed to viewport top, always visible */}
-            <motion.button
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.2 }}
-              className="fixed top-3 right-3 z-[200] flex items-center gap-2 px-4 py-2.5 bg-white/20 hover:bg-white/30 active:bg-white/40 backdrop-blur-xl rounded-full text-white border border-white/30 shadow-2xl transition-all"
-              onClick={(e) => {
-                e.stopPropagation();
-                closeModal();
-              }}
-              style={{ WebkitTapHighlightColor: 'transparent' }}
-            >
-              <X size={20} strokeWidth={2.5} />
-              <span className="text-xs font-bold uppercase tracking-wider">Close</span>
-            </motion.button>
-
-            <motion.div
-              initial={{ scale: 0.9, y: 20 }}
-              animate={{ scale: 1, y: 0 }}
-              exit={{ scale: 0.9, y: 20 }}
-              className="relative w-full max-w-[500px] max-h-[80vh] bg-black shadow-[0_0_50px_rgba(61,122,74,0.2)] rounded-lg overflow-hidden mx-4"
-              onClick={(e) => e.stopPropagation()}
-            >
-              <video
-                ref={modalVideoRef}
-                src={src}
-                autoPlay
-                loop
-                controls
-                playsInline
-                className="w-full h-full object-contain"
-              />
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
+      {/* Portal: render modal at document.body to escape all stacking contexts */}
+      {mounted && createPortal(modalContent, document.body)}
     </>
   );
 };
 
 export default TrustVideo;
+
