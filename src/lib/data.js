@@ -1,5 +1,66 @@
 export const girls = [
   {
+    id: 11,
+    name: { en: "Guoguo", cn: "果果" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 23,
+      height: "168cm",
+      weight: "45kg",
+      cup: "D+",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/guoguo/IMG_1538.JPG",
+    video: "/images/girls/guoguo/video.mp4",
+    description: {
+      en: "Brand new arrival from China! Born post-2000s, Guoguo features a perfect hourglass figure with a youthful face and natural, guaranteed D-cup bust. Flawless white skin with excellent service attitude and high cooperation. Available for a short stay only — don't miss out!",
+      cn: "🆕刚落地果果，00后国内新到！身材超完美，前凸后翘童颜巨乳，拥有纯天然D杯，皮肤白嫩。服务意识强，配合度高！去年来过短短一周，本次也是短期哦，不容错过💋"
+    },
+    price: "$400 / 1h · $300 / 30min",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Deep Kissing",
+        "Stockings",
+        "Breast Slide",
+        "69",
+        "Shower together",
+        "Ball Licking",
+        "Toys"
+      ],
+      cn: [
+        "无套口",
+        "舌吻",
+        "丝袜",
+        "胸推",
+        "69",
+        "陪浴",
+        "舔蛋",
+        "玩具"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$50"
+      ],
+      cn: [
+        "第二次 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/guoguo/IMG_1538.JPG",
+      "/images/girls/guoguo/IMG_1539.JPG",
+      "/images/girls/guoguo/IMG_1542.JPG",
+      "/images/girls/guoguo/IMG_1543.JPG",
+      "/images/girls/guoguo/IMG_1544.JPG",
+      "/images/girls/guoguo/IMG_1545.JPG",
+      "/images/girls/guoguo/IMG_1546.JPG",
+      "/images/girls/guoguo/IMG_1549.PNG"
+    ]
+  },
+  {
     id: 10,
     name: { en: "Nao", cn: "奈绪" },
     status: "available",
