@@ -50,6 +50,9 @@ export const girls = [
       ]
     },
     gallery: [
+      "/images/girls/guoguo/IMG_1706.JPG",
+      "/images/girls/guoguo/IMG_1707.JPG",
+      "/images/girls/guoguo/IMG_1709.JPG",
       "/images/girls/guoguo/IMG_1545.JPG",
       "/images/girls/guoguo/IMG_1546.JPG",
       "/images/girls/guoguo/IMG_1550.JPG",
@@ -57,10 +60,7 @@ export const girls = [
       "/images/girls/guoguo/IMG_1639.JPG",
       "/images/girls/guoguo/IMG_1641.JPG",
       "/images/girls/guoguo/IMG_1643.JPG",
-      "/images/girls/guoguo/IMG_1644.JPG",
-      "/images/girls/guoguo/IMG_1706.JPG",
-      "/images/girls/guoguo/IMG_1707.JPG",
-      "/images/girls/guoguo/IMG_1709.JPG"
+      "/images/girls/guoguo/IMG_1644.JPG"
     ]
   },
   {
