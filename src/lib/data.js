@@ -64,6 +64,54 @@ export const girls = [
     ]
   },
   {
+    id: 12,
+    name: { en: "Leyao", cn: "乐瑶" },
+    status: "available",
+    verified: false,
+    location: "CBD",
+    stats: {
+      age: 20,
+      height: "172cm",
+      weight: "48kg",
+      cup: "34C+",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/leyao/IMG_1751.JPG",
+    description: {
+      en: "🎀 Exclusive girl Leyao! Standing tall at 172cm with 40-inch long legs, fair white skin, and natural 34C+ bust (no plastic surgery). Extremely tight and sweet, delivering top-tier emotional value and tenderness with a soft, gentle voice.\n\nNote: Unverified photos (may be similar likeness), waiting for VIP gentlemen to verify in person! 😱😍😍",
+      cn: "🎀乐瑶独家妹妹，净高172，34C+（真胸），40寸大长腿，超绝冷白皮，妈生脸，天然无整！紧致如初，情绪价值夯爆表；限量版精品，大哥心头爱，娇滴滴的小女孩纸，说话奶声奶气，柔情似水！\n\n⚠️未验证 maybe相似图，需大哥亲自验证😱😍😍"
+    },
+    price: "$700 / 1h",
+    services: {
+      en: [
+        "Shower together",
+        "Water BJ",
+        "Breast Slide",
+        "Deep French Kissing",
+        "69",
+        "Bareback BJ",
+        "Stockings",
+        "Uniform/Cosplay",
+        "1 round included"
+      ],
+      cn: [
+        "陪浴",
+        "浴中箫",
+        "胸推",
+        "舌吻",
+        "69",
+        "无套口",
+        "丝袜",
+        "制服诱惑",
+        "包1次"
+      ]
+    },
+    gallery: [
+      "/images/girls/leyao/IMG_1752.JPG",
+      "/images/girls/leyao/IMG_1753.JPG"
+    ]
+  },
+  {
     id: 10,
     name: { en: "Nao", cn: "奈绪" },
     status: "available",
