@@ -50,7 +50,6 @@ export const girls = [
       ]
     },
     gallery: [
-      "/images/girls/guoguo/IMG_1538.JPG",
       "/images/girls/guoguo/IMG_1545.JPG",
       "/images/girls/guoguo/IMG_1546.JPG",
       "/images/girls/guoguo/IMG_1550.JPG",
