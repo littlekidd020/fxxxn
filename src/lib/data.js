@@ -51,13 +51,17 @@ export const girls = [
     },
     gallery: [
       "/images/girls/guoguo/IMG_1538.JPG",
-      "/images/girls/guoguo/IMG_1539.JPG",
-      "/images/girls/guoguo/IMG_1542.JPG",
-      "/images/girls/guoguo/IMG_1543.JPG",
-      "/images/girls/guoguo/IMG_1544.JPG",
       "/images/girls/guoguo/IMG_1545.JPG",
       "/images/girls/guoguo/IMG_1546.JPG",
-      "/images/girls/guoguo/IMG_1549.PNG"
+      "/images/girls/guoguo/IMG_1550.JPG",
+      "/images/girls/guoguo/IMG_1636.JPG",
+      "/images/girls/guoguo/IMG_1639.JPG",
+      "/images/girls/guoguo/IMG_1641.JPG",
+      "/images/girls/guoguo/IMG_1643.JPG",
+      "/images/girls/guoguo/IMG_1644.JPG",
+      "/images/girls/guoguo/IMG_1706.JPG",
+      "/images/girls/guoguo/IMG_1707.JPG",
+      "/images/girls/guoguo/IMG_1709.JPG"
     ]
   },
   {
