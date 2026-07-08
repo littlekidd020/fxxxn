@@ -27,8 +27,7 @@ export const girls = [
         "Shower together",
         "Stockings",
         "Uniform/Cosplay",
-        "Breast Slide",
-        "2nd round included in 1h"
+        "Breast Slide"
       ],
       cn: [
         "无套口",
@@ -37,8 +36,7 @@ export const girls = [
         "陪浴",
         "丝袜",
         "制服诱惑",
-        "胸推",
-        "1小时可包第二次"
+        "胸推"
       ]
     },
     extras: {
