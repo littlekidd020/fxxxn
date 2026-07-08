@@ -1,5 +1,62 @@
 export const girls = [
   {
+    id: 13,
+    name: { en: "Youzicha", cn: "柚子茶" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 19,
+      height: "166cm",
+      weight: "45kg",
+      cup: "D",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/youzicha/IMG_2099.JPG",
+    video: "/images/girls/youzicha/video.mp4",
+    description: {
+      en: "Brand new arrival! Born in 2007, Youzicha is a local elite university student working part-time. She features an adorable youthful face with a guaranteed D-cup bust and an anime-like hourglass figure. With big sparkling watery eyes and tender white skin, she offers an incredible contrast and visual stunner! Don't wait—book your session now!\n\nSchedule: Mon-Fri 5:30PM - 11:00PM · Weekends Full Day",
+      cn: "🆕人07年本地名校在读新学生👩‍🎓柚子茶！童颜巨乳，魔鬼漫画身材，一双水汪汪大眼睛，皮肤白嫩嫩，即视反差感，必眼冲！话不多说你还在等什么？😍😱🌿🎉🛬\n\n⚠️兼职时间：周一至周五 5:30pm - 11pm · 周末全天"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min",
+    services: {
+      en: [
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Shower together",
+        "Stockings",
+        "Uniform/Cosplay",
+        "Breast Slide",
+        "2nd round included in 1h"
+      ],
+      cn: [
+        "无套口",
+        "69",
+        "舌吻",
+        "陪浴",
+        "丝袜",
+        "制服诱惑",
+        "胸推",
+        "1小时可包第二次"
+      ]
+    },
+    extras: {
+      en: [
+        "Overnight $3200-$3500",
+        "Full Day Rental $5000"
+      ],
+      cn: [
+        "包夜 $3200-$3500",
+        "租一天 $5000"
+      ]
+    },
+    gallery: [
+      "/images/girls/youzicha/IMG_2100.JPG",
+      "/images/girls/youzicha/IMG_2101.JPG"
+    ]
+  },
+  {
     id: 11,
     name: { en: "Guoguo", cn: "果果" },
     status: "available",
