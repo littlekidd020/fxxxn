@@ -224,10 +224,10 @@ export default function GirlDetailsPage() {
                   if (!extras.length) return null;
                   return (
                     <div className="mt-3 pt-3 border-t border-[#2A2A2A]/10">
-                      <span className="text-[10px] uppercase tracking-widest text-amber-600 font-bold font-sans">
+                      <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">
                         {lang === 'cn' ? '额外费用' : 'Extras'}
                       </span>
-                      <div className="flex flex-wrap gap-x-2 gap-y-1 text-[#2A2A2A]/70 leading-relaxed font-sans text-sm mt-2">
+                      <div className="flex flex-wrap gap-x-2 gap-y-1 text-[#2A2A2A]/80 leading-relaxed font-sans text-base mt-2">
                         {extras.map((item, idx) => (
                           <span key={idx} className="inline">
                             {item}
