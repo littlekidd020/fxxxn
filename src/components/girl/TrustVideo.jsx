@@ -77,12 +77,25 @@ const TrustVideo = ({ src, poster }) => {
           style={{ zIndex: 99999 }}
           onClick={closeModal}
         >
+          {/* Label - unedited preview */}
+          <motion.div
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.2 }}
+            className="fixed top-28 md:top-36 left-4 md:left-8 px-4 py-2 bg-emerald/90 backdrop-blur-xl rounded-full text-white shadow-2xl pointer-events-none"
+            style={{ zIndex: 100000 }}
+          >
+            <span className="text-xs md:text-sm font-bold uppercase tracking-widest">
+              {t.girl.uneditedPreview}
+            </span>
+          </motion.div>
+
           {/* Close Button - always visible */}
           <motion.button
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2 }}
-            className="fixed top-3 right-3 flex items-center gap-2 px-4 py-2.5 bg-white/20 hover:bg-white/30 active:bg-white/40 backdrop-blur-xl rounded-full text-white border border-white/30 shadow-2xl transition-all"
+            className="fixed top-28 md:top-36 right-4 md:right-8 flex items-center gap-2 px-4 py-2.5 bg-white/20 hover:bg-white/30 active:bg-white/40 backdrop-blur-xl rounded-full text-white border border-white/30 shadow-2xl transition-all"
             style={{ zIndex: 100000, WebkitTapHighlightColor: 'transparent' }}
             onClick={(e) => {
               e.stopPropagation();

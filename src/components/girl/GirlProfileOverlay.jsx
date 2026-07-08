@@ -71,7 +71,7 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
         {/* Close Button */}
         <button 
           onClick={onClose}
-          className="absolute top-8 right-8 z-10 p-2 bg-white/60 hover:bg-white/80 rounded-full text-[#2A2A2A] transition-all border border-zen shadow-sm"
+          className="absolute top-28 md:top-36 right-6 md:right-8 z-50 p-2 bg-white/60 hover:bg-white/80 rounded-full text-[#2A2A2A] transition-all border border-zen shadow-sm"
         >
           <X size={24} />
         </button>

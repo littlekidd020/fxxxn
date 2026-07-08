@@ -47,7 +47,7 @@ const ImageModal = ({ isOpen, onClose, images, currentIndex, onNext, onPrev }) =
         {/* Close Button */}
         <button
           onClick={onClose}
-          className="absolute top-6 right-6 z-[110] p-3 bg-white/5 hover:bg-white/10 rounded-full text-white/70 hover:text-white transition-all border border-white/10"
+          className="absolute top-28 md:top-36 right-6 md:right-8 z-[110] p-3 bg-white/5 hover:bg-white/10 rounded-full text-white/70 hover:text-white transition-all border border-white/10"
         >
           <X size={24} />
         </button>
