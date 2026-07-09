@@ -188,6 +188,17 @@ export default function GirlDetailsPage() {
                       else main.push(group);
                     });
                     
+                    if (model.extras && extra.length === 0) {
+                      const extrasList = Array.isArray(model.extras) ? model.extras : (model.extras[lang] || model.extras.en || []);
+                      if (extrasList.length > 0) {
+                        const prefix = lang === 'cn' ? '额外: ' : 'Extra: ';
+                        const firstItem = extrasList[0];
+                        const startsWithPrefix = firstItem.startsWith('额外') || firstItem.startsWith('Extra');
+                        const combinedExtras = (startsWithPrefix ? '' : prefix) + extrasList.join(' ');
+                        extra.push(combinedExtras);
+                      }
+                    }
+                    
                     const sortedGroups = [...main, ...extra, ...vip];
                     
                     return sortedGroups.map((group, groupIdx, groups) => {
@@ -196,48 +207,29 @@ export default function GirlDetailsPage() {
                       const isExtraGroup = group.includes("额外") || group.startsWith("免费赠送:") || group.startsWith("Extra:") || group.startsWith("Extra：") || group.startsWith("Extra ") || group.startsWith("Note:") || group.startsWith("Note：");
                       
                       return (
-                        <React.Fragment key={groupIdx}>
-                          {(isVipGroup || isExtraGroup) && <div className="w-full h-0" />}
-                          {servicesInGroup.map((s, sIdx) => {
-                            const isLastInGroup = sIdx === servicesInGroup.length - 1;
-                            const isNextGroupOnSameLine = groupIdx < groups.length - 1 && !groups[groupIdx+1].startsWith("VIP:") && !groups[groupIdx+1].includes("额外") && !groups[groupIdx+1].startsWith("免费赠送:") && !groups[groupIdx+1].startsWith("Note:") && !groups[groupIdx+1].startsWith("Note：");
-                            
-                            const isSpecial = isExtraGroup || isVipGroup;
-                            const showDot = !isSpecial && ((!isLastInGroup && !s.endsWith(":") && !s.endsWith("：")) || (isLastInGroup && isNextGroupOnSameLine));
-                            
-                            return (
-                              <span key={`${groupIdx}-${sIdx}`} className="inline max-w-full">
-                                <span className="whitespace-normal break-words">
-                                  {s.includes('(') ? s.split(',').join(', ') : s}
-                                </span>
-                                {showDot && <span className="mx-2 text-[#2A2A2A]/30 inline-block">·</span>}
-                              </span>
-                            );
-                          })}
-                        </React.Fragment>
+                         <React.Fragment key={groupIdx}>
+                           {(isVipGroup || isExtraGroup) && <div className="w-full h-0" />}
+                           {servicesInGroup.map((s, sIdx) => {
+                             const isLastInGroup = sIdx === servicesInGroup.length - 1;
+                             const isNextGroupOnSameLine = groupIdx < groups.length - 1 && !groups[groupIdx+1].startsWith("VIP:") && !groups[groupIdx+1].includes("额外") && !groups[groupIdx+1].startsWith("免费赠送:") && !groups[groupIdx+1].startsWith("Note:") && !groups[groupIdx+1].startsWith("Note：");
+                             
+                             const isSpecial = isExtraGroup || isVipGroup;
+                             const showDot = !isSpecial && ((!isLastInGroup && !s.endsWith(":") && !s.endsWith("：")) || (isLastInGroup && isNextGroupOnSameLine));
+                             
+                             return (
+                               <span key={`${groupIdx}-${sIdx}`} className="inline max-w-full">
+                                 <span className="whitespace-normal break-words">
+                                   {s.includes('(') ? s.split(',').join(', ') : s}
+                                 </span>
+                                 {showDot && <span className="mx-2 text-[#2A2A2A]/30 inline-block">·</span>}
+                               </span>
+                             );
+                           })}
+                         </React.Fragment>
                       );
                     });
                   })()}
                 </div>
-                {model.extras && (() => {
-                  const extras = Array.isArray(model.extras) ? model.extras : (model.extras[lang] || model.extras.en || []);
-                  if (!extras.length) return null;
-                  return (
-                    <div className="mt-3 pt-3 border-t border-[#2A2A2A]/10">
-                      <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">
-                        {lang === 'cn' ? '额外费用' : 'Extras'}
-                      </span>
-                      <div className="flex flex-wrap gap-x-2 gap-y-1 text-[#2A2A2A]/80 leading-relaxed font-sans text-base mt-2">
-                        {extras.map((item, idx) => (
-                          <span key={idx} className="inline">
-                            {item}
-                            {idx < extras.length - 1 && <span className="mx-2 text-[#2A2A2A]/30 inline-block">·</span>}
-                          </span>
-                        ))}
-                      </div>
-                    </div>
-                  );
-                })()}
               </div>
             </div>
           </div>
