@@ -80,7 +80,11 @@ export const translations = {
         "90min": "90分钟",
         "1h (VIP)": "小时 (VIP)",
         "30min (VIP)": "30分钟 (VIP)",
-        "1h (Half)": "小时 (半套)"
+        "1h (Half)": "小时 (半套)",
+        "包夜": "包夜",
+        "一天": "一天",
+        "Overnight": "包夜",
+        "Full Day": "一天"
       },
       natural: "(真胸)",
       services: "服务内容"
@@ -196,7 +200,11 @@ export const translations = {
         "90min": "90 mins",
         "1h (VIP)": "1 hour (VIP)",
         "30min (VIP)": "30 mins (VIP)",
-        "1h (Half)": "1 hour (Half)"
+        "1h (Half)": "1 hour (Half)",
+        "包夜": "Overnight",
+        "一天": "Full Day",
+        "Overnight": "Overnight",
+        "Full Day": "Full Day"
       },
       natural: "(Natural)",
       services: "Services"

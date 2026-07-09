@@ -18,7 +18,7 @@ export const girls = [
       en: "Brand new arrival! Born in 2007, Youzicha is a local elite university student working part-time. She features an adorable youthful face with a guaranteed D-cup bust and an anime-like hourglass figure. With big sparkling watery eyes and tender white skin, she offers an incredible contrast and visual stunner! Don't wait—book your session now!\n\nSchedule: Mon-Fri 5:30PM - 11:00PM · Weekends Full Day",
       cn: "🆕人07年本地名校在读新学生👩‍🎓柚子茶！童颜巨乳，魔鬼漫画身材，一双水汪汪大眼睛，皮肤白嫩嫩，即视反差感，必眼冲！话不多说你还在等什么？😍😱🌿🎉🛬\n\n⚠️兼职时间：周一至周五 5:30pm - 11pm · 周末全天"
     },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min",
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3200-$3500 / 包夜 · $5000 / 一天",
     services: {
       en: [
         "Bareback BJ",
@@ -37,16 +37,6 @@ export const girls = [
         "丝袜",
         "制服诱惑",
         "胸推"
-      ]
-    },
-    extras: {
-      en: [
-        "Overnight $3200-$3500",
-        "Full Day Rental $5000"
-      ],
-      cn: [
-        "包夜 $3200-$3500",
-        "租一天 $5000"
       ]
     },
     gallery: [
