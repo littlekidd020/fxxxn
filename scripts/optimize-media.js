@@ -33,6 +33,7 @@ async function getFiles(dir) {
 }
 
 async function optimize() {
+  const force = process.argv.includes('--force');
   const files = await getFiles(PUBLIC_DIR);
   const manifest = await getManifest();
   const newManifest = { ...manifest };
@@ -42,7 +43,7 @@ async function optimize() {
     const stats = await fs.stat(file);
     const mtime = stats.mtimeMs;
 
-    if (manifest[relativePath] === mtime) {
+    if (!force && manifest[relativePath] === mtime) {
       continue;
     }
 
@@ -51,7 +52,7 @@ async function optimize() {
     if (['.webp', '.jpg', '.jpeg', '.png'].includes(ext)) {
       console.log(`Optimizing image: ${relativePath}`);
       const buffer = await fs.readFile(file);
-      let sharpInstance = sharp(buffer);
+      let sharpInstance = sharp(buffer).rotate();
 
       // Auto-resize large images to a max width of 1200px
       const metadata = await sharpInstance.metadata();
@@ -60,11 +61,11 @@ async function optimize() {
       }
 
       if (ext === '.webp') {
-        sharpInstance = sharpInstance.webp({ quality: 75, effort: 6 });
+        sharpInstance = sharpInstance.webp({ quality: 80, effort: 6 });
       } else if (ext === '.png') {
         sharpInstance = sharpInstance.png({ compressionLevel: 9, palette: true, quality: 80 });
       } else {
-        sharpInstance = sharpInstance.jpeg({ quality: 75, progressive: true, mozjpeg: true });
+        sharpInstance = sharpInstance.jpeg({ quality: 80, progressive: false, mozjpeg: false });
       }
 
       await sharpInstance.toFile(file + '.tmp');
