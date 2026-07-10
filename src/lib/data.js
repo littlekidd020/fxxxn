@@ -12,7 +12,7 @@ export const girls = [
       cup: "C",
       nationality: "Japanese"
     },
-    image: "/images/girls/fini/IMG_2336.JPG",
+    image: "/images/girls/fini/IMG_2350.JPG",
     video: "/images/girls/fini/video.mp4",
     description: {
       en: "Brand new arrival! Introducing Fini 🇯🇵, a 23-year-old Japanese sweetie located in Central Auckland. Standing 160cm with a petite 40kg frame and a natural C-cup bust, she brings authentic Japanese gentleness and charm. Extremely attentive and girlfriend-like, offering Shower together, Deep French Kissing, Bareback BJ, 69, and up to 2 rounds per session! Book now for an unforgettable experience 💕\n\nSchedule: Available Daily",
@@ -40,12 +40,13 @@ export const girls = [
       ]
     },
     gallery: [
+      "/images/girls/fini/IMG_2350.JPG",
+      "/images/girls/fini/IMG_2336.JPG",
       "/images/girls/fini/IMG_2337.JPG",
       "/images/girls/fini/IMG_2339.JPG",
       "/images/girls/fini/IMG_2340.JPG",
       "/images/girls/fini/fini_04.jpg",
-      "/images/girls/fini/IMG_2349.JPG",
-      "/images/girls/fini/IMG_2350.JPG"
+      "/images/girls/fini/IMG_2349.JPG"
     ]
   },
   {
