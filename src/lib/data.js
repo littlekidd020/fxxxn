@@ -40,7 +40,6 @@ export const girls = [
       ]
     },
     gallery: [
-      "/images/girls/fini/IMG_2350.JPG",
       "/images/girls/fini/IMG_2336.JPG",
       "/images/girls/fini/IMG_2337.JPG",
       "/images/girls/fini/IMG_2339.JPG",
