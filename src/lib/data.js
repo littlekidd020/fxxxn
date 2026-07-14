@@ -104,163 +104,6 @@ export const girls = [
     ]
   },
   {
-    id: 13,
-    name: { en: "Youzicha", cn: "柚子茶" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 19,
-      height: "166cm",
-      weight: "45kg",
-      cup: "D",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/youzicha/IMG_2099.JPG",
-    video: "/images/girls/youzicha/video.mp4",
-    description: {
-      en: "Brand new arrival! Born in 2007, Youzicha is a local elite university student working part-time. She features an adorable youthful face with a guaranteed D-cup bust and an anime-like hourglass figure. With big sparkling watery eyes and tender white skin, she offers an incredible contrast and visual stunner! Don't wait—book your session now!\n\nSchedule: Mon-Fri 5:30PM - 11:00PM · Weekends Full Day",
-      cn: "🆕人07年本地名校在读新学生👩‍🎓柚子茶！童颜巨乳，魔鬼漫画身材，一双水汪汪大眼睛，皮肤白嫩嫩，即视反差感，必眼冲！话不多说你还在等什么？😍😱🌿🎉🛬\n\n⚠️兼职时间：周一至周五 5:30pm - 11pm · 周末全天"
-    },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3200-$3500 / 包夜 · $5000 / 一天",
-    services: {
-      en: [
-        "Bareback BJ",
-        "69",
-        "Deep French Kissing",
-        "Shower together",
-        "Stockings",
-        "Uniform/Cosplay",
-        "Breast Slide"
-      ],
-      cn: [
-        "无套口",
-        "69",
-        "舌吻",
-        "陪浴",
-        "丝袜",
-        "制服诱惑",
-        "胸推"
-      ]
-    },
-    gallery: [
-      "/images/girls/youzicha/IMG_2100.JPG",
-      "/images/girls/youzicha/IMG_2101.JPG"
-    ]
-  },
-  {
-    id: 11,
-    name: { en: "Guoguo", cn: "果果" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 23,
-      height: "168cm",
-      weight: "45kg",
-      cup: "D+",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/guoguo/IMG_1538.JPG",
-    video: "/images/girls/guoguo/video.mp4",
-    description: {
-      en: "Brand new arrival from China! Born post-2000s, Guoguo features a perfect hourglass figure with a youthful face and natural, guaranteed D-cup bust. Flawless white skin with excellent service attitude and high cooperation. Available for a short stay only — don't miss out!",
-      cn: "🆕刚落地果果，00后国内新到！身材超完美，前凸后翘童颜巨乳，拥有纯天然D杯，皮肤白嫩。服务意识强，配合度高！去年来过短短一周，本次也是短期哦，不容错过💋"
-    },
-    price: "$400 / 1h · $300 / 30min",
-    services: {
-      en: [
-        "Bareback BJ",
-        "Deep Kissing",
-        "Stockings",
-        "Breast Slide",
-        "69",
-        "Shower together",
-        "Ball Licking",
-        "Toys"
-      ],
-      cn: [
-        "无套口",
-        "舌吻",
-        "丝袜",
-        "胸推",
-        "69",
-        "陪浴",
-        "舔蛋",
-        "玩具"
-      ]
-    },
-    extras: {
-      en: [
-        "2nd round +$50"
-      ],
-      cn: [
-        "第二次 +$50"
-      ]
-    },
-    gallery: [
-      "/images/girls/guoguo/IMG_1706.JPG",
-      "/images/girls/guoguo/IMG_1707.JPG",
-      "/images/girls/guoguo/IMG_1709.JPG",
-      "/images/girls/guoguo/IMG_1545.JPG",
-      "/images/girls/guoguo/IMG_1546.JPG",
-      "/images/girls/guoguo/IMG_1550.JPG",
-      "/images/girls/guoguo/IMG_1636.JPG",
-      "/images/girls/guoguo/IMG_1639.JPG",
-      "/images/girls/guoguo/IMG_1641.JPG",
-      "/images/girls/guoguo/IMG_1643.JPG",
-      "/images/girls/guoguo/IMG_1644.JPG"
-    ]
-  },
-  {
-    id: 12,
-    name: { en: "Leyao", cn: "乐瑶" },
-    status: "available",
-    verified: false,
-    location: "CBD",
-    stats: {
-      age: 20,
-      height: "172cm",
-      weight: "48kg",
-      cup: "34C+",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/leyao/IMG_1751.JPG",
-    description: {
-      en: "🎀 Exclusive girl Leyao! Standing tall at 172cm with 40-inch long legs, fair white skin, and natural 34C+ bust (no plastic surgery). Extremely tight and sweet, delivering top-tier emotional value and tenderness with a soft, gentle voice.\n\nNote: Unverified photos (may be similar likeness), waiting for VIP gentlemen to verify in person! 😱😍😍",
-      cn: "🎀乐瑶独家妹妹，净高172，34C+（真胸），40寸大长腿，超绝冷白皮，妈生脸，天然无整！紧致如初，情绪价值夯爆表；限量版精品，大哥心头爱，娇滴滴的小女孩纸，说话奶声奶气，柔情似水！\n\n⚠️未验证 maybe相似图，需大哥亲自验证😱😍😍"
-    },
-    price: "$700 / 1h",
-    services: {
-      en: [
-        "Shower together",
-        "Water BJ",
-        "Breast Slide",
-        "Deep French Kissing",
-        "69",
-        "Bareback BJ",
-        "Stockings",
-        "Uniform/Cosplay",
-        "1 round included"
-      ],
-      cn: [
-        "陪浴",
-        "浴中箫",
-        "胸推",
-        "舌吻",
-        "69",
-        "无套口",
-        "丝袜",
-        "制服诱惑",
-        "包1次"
-      ]
-    },
-    gallery: [
-      "/images/girls/leyao/IMG_1752.JPG",
-      "/images/girls/leyao/IMG_1753.JPG"
-    ]
-  },
-  {
     id: 10,
     name: { en: "Nao", cn: "奈绪" },
     status: "available",
@@ -326,6 +169,99 @@ export const girls = [
     ]
   },
   {
+    id: 13,
+    name: { en: "Youzicha", cn: "柚子茶" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 19,
+      height: "166cm",
+      weight: "45kg",
+      cup: "D",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/youzicha/IMG_2099.JPG",
+    video: "/images/girls/youzicha/video.mp4",
+    description: {
+      en: "Brand new arrival! Born in 2007, Youzicha is a local elite university student working part-time. She features an adorable youthful face with a guaranteed D-cup bust and an anime-like hourglass figure. With big sparkling watery eyes and tender white skin, she offers an incredible contrast and visual stunner! Don't wait—book your session now!\n\nSchedule: Mon-Fri 5:30PM - 11:00PM · Weekends Full Day",
+      cn: "🆕人07年本地名校在读新学生👩‍🎓柚子茶！童颜巨乳，魔鬼漫画身材，一双水汪汪大眼睛，皮肤白嫩嫩，即视反差感，必眼冲！话不多说你还在等什么？😍😱🌿🎉🛬\n\n⚠️兼职时间：周一至周五 5:30pm - 11pm · 周末全天"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3200-$3500 / 包夜 · $5000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Shower together",
+        "Stockings",
+        "Uniform/Cosplay",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "69",
+        "舌吻",
+        "陪浴",
+        "丝袜",
+        "制服诱惑",
+        "胸推"
+      ]
+    },
+    gallery: [
+      "/images/girls/youzicha/IMG_2100.JPG",
+      "/images/girls/youzicha/IMG_2101.JPG"
+    ]
+  },
+  {
+    id: 12,
+    name: { en: "Leyao", cn: "乐瑶" },
+    status: "available",
+    verified: false,
+    location: "CBD",
+    stats: {
+      age: 20,
+      height: "172cm",
+      weight: "48kg",
+      cup: "34C+",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/leyao/IMG_1751.JPG",
+    description: {
+      en: "🎀 Exclusive girl Leyao! Standing tall at 172cm with 40-inch long legs, fair white skin, and natural 34C+ bust (no plastic surgery). Extremely tight and sweet, delivering top-tier emotional value and tenderness with a soft, gentle voice.\n\nNote: Unverified photos (may be similar likeness), waiting for VIP gentlemen to verify in person! 😱😍😍",
+      cn: "🎀乐瑶独家妹妹，净高172，34C+（真胸），40寸大长腿，超绝冷白皮，妈生脸，天然无整！紧致如初，情绪价值夯爆表；限量版精品，大哥心头爱，娇滴滴的小女孩纸，说话奶声奶气，柔情似水！\n\n⚠️未验证 maybe相似图，需大哥亲自验证😱😍😍"
+    },
+    price: "$700 / 1h",
+    services: {
+      en: [
+        "Shower together",
+        "Water BJ",
+        "Breast Slide",
+        "Deep French Kissing",
+        "69",
+        "Bareback BJ",
+        "Stockings",
+        "Uniform/Cosplay",
+        "1 round included"
+      ],
+      cn: [
+        "陪浴",
+        "浴中箫",
+        "胸推",
+        "舌吻",
+        "69",
+        "无套口",
+        "丝袜",
+        "制服诱惑",
+        "包1次"
+      ]
+    },
+    gallery: [
+      "/images/girls/leyao/IMG_1752.JPG",
+      "/images/girls/leyao/IMG_1753.JPG"
+    ]
+  },
+  {
     id: 9,
     name: { en: "Mina", cn: "Mina" },
     status: "available",
@@ -377,6 +313,70 @@ export const girls = [
       "/images/girls/mina/IMG_1437.JPG",
       "/images/girls/mina/IMG_1438.JPG",
       "/images/girls/mina/IMG_1439.JPG"
+    ]
+  },
+  {
+    id: 11,
+    name: { en: "Guoguo", cn: "果果" },
+    status: "unavailable",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 23,
+      height: "168cm",
+      weight: "45kg",
+      cup: "D+",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/guoguo/IMG_1538.JPG",
+    video: "/images/girls/guoguo/video.mp4",
+    description: {
+      en: "Brand new arrival from China! Born post-2000s, Guoguo features a perfect hourglass figure with a youthful face and natural, guaranteed D-cup bust. Flawless white skin with excellent service attitude and high cooperation. Available for a short stay only — don't miss out!",
+      cn: "🆕刚落地果果，00后国内新到！身材超完美，前凸后翘童颜巨乳，拥有纯天然D杯，皮肤白嫩。服务意识强，配合度高！去年来过短短一周，本次也是短期哦，不容错过💋"
+    },
+    price: "$400 / 1h · $300 / 30min",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Deep Kissing",
+        "Stockings",
+        "Breast Slide",
+        "69",
+        "Shower together",
+        "Ball Licking",
+        "Toys"
+      ],
+      cn: [
+        "无套口",
+        "舌吻",
+        "丝袜",
+        "胸推",
+        "69",
+        "陪浴",
+        "舔蛋",
+        "玩具"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$50"
+      ],
+      cn: [
+        "第二次 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/guoguo/IMG_1706.JPG",
+      "/images/girls/guoguo/IMG_1707.JPG",
+      "/images/girls/guoguo/IMG_1709.JPG",
+      "/images/girls/guoguo/IMG_1545.JPG",
+      "/images/girls/guoguo/IMG_1546.JPG",
+      "/images/girls/guoguo/IMG_1550.JPG",
+      "/images/girls/guoguo/IMG_1636.JPG",
+      "/images/girls/guoguo/IMG_1639.JPG",
+      "/images/girls/guoguo/IMG_1641.JPG",
+      "/images/girls/guoguo/IMG_1643.JPG",
+      "/images/girls/guoguo/IMG_1644.JPG"
     ]
   },
   {
