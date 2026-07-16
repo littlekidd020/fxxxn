@@ -99,7 +99,6 @@ export const girls = [
       "/images/girls/fini/fini_01.jpg",
       "/images/girls/fini/IMG_2337.JPG",
       "/images/girls/fini/IMG_2339.JPG",
-      "/images/girls/fini/IMG_2340.JPG",
       "/images/girls/fini/IMG_2349.JPG"
     ]
   },
