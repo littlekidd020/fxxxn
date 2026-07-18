@@ -1,5 +1,64 @@
 export const girls = [
   {
+    id: 16,
+    name: { en: "Blind Box", cn: "盲盒" },
+    status: "available",
+    verified: false,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "166cm",
+      weight: "45kg",
+      cup: "B+",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/manghe/IMG_2800.JPG",
+    video: "/images/girls/manghe/video.mp4",
+    description: {
+      en: "China🇨🇳 Top-tier Mystery Box! Sweet, gentle, and highly educated (university grad). A true girl-next-door vibe who is naturally beautiful with no plastic surgery. Multi-talented in music, chess, calligraphy, painting, and dancing. Brand new to the industry with incredibly high cooperation. Note: Face photos are not shown for privacy reasons. Available for a short term only, don't miss out!",
+      cn: "China🇨🇳🍃🎉🎉🎉🌿🤩😍😱王炸级盲盒温柔乖巧 颜值在线 甜甜妹 高情商 高材生 琴棋书画 舞蹈样样精通 全身天然无科技 初下💦不久 绝对配合度极高系邻家妹妹 不方便漏照片请谅解🤤👍短期兼职短期兼职你还在等什么🫶🤩🤩😍😱🎉🎉🌿"
+    },
+    price: "$360 / 1h (Now!) · $280 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
+    services: {
+      en: [
+        "Shower together",
+        "Bareback BJ",
+        "Body Slide",
+        "69",
+        "Deep Kissing",
+        "Fingering",
+        "Stockings",
+        "Water BJ",
+        "Massage",
+        "2nd round included"
+      ],
+      cn: [
+        "洗澡",
+        "无套口",
+        "全身漫游",
+        "69",
+        "舌吻",
+        "指划",
+        "丝袜",
+        "水中箫",
+        "按摩",
+        "包第二次"
+      ]
+    },
+    extras: {
+      en: [
+        "CIM (in mouth) +$50"
+      ],
+      cn: [
+        "口爆 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/manghe/IMG_2811.JPG",
+      "/images/girls/manghe/IMG_2813.JPG"
+    ]
+  },
+  {
     id: 15,
     name: { en: "Hoshino Coco", cn: "星野子子" },
     status: "available",
