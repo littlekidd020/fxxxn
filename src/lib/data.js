@@ -1,5 +1,53 @@
 export const girls = [
   {
+    id: 17,
+    name: { en: "Wenye", cn: "温野" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 23,
+      height: "165cm",
+      weight: "42kg",
+      cup: "B+",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/wenye/IMG_3247.JPG",
+    video: "/images/girls/wenye/video.mp4",
+    description: {
+      en: "Brand new arrival! Australian university student 👩‍🎓 Wenye features an extremely slender waist, delicate aesthetic frame, and a 100% natural flawless face. Her skin is porcelain-smooth without a single scar. With clear, charming deer-like eyes, she embodies pure youthful sweetness. Don't miss out on this top-tier student experience!",
+      cn: "🆕人澳洲留子👩‍🎓 腰极度纤细、带着几分少女清冷感的骨架，拥有纯天然妈生脸 毫无人工雕琢痕迹 皮肤白皙细腻得像上好的白瓷，全身上下找不到一丝疤痕印记。一双小鹿般的眼睛清澈却又勾人，眼波流转间，既有18岁刚出头的娇憨，你还在等什么？omg澳洲🦘在读学生🎉🎉😍😍😱😱🌿🌿怎能错过？怎能错过？"
+    },
+    price: "$600 / 1h · $500 / 30min · $3200-$3500 / 包夜 · $5000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Shower together",
+        "Stockings",
+        "Uniform/Cosplay",
+        "Breast Slide",
+        "2nd round included"
+      ],
+      cn: [
+        "无套口",
+        "69",
+        "舌吻",
+        "陪浴",
+        "丝袜",
+        "制服诱惑",
+        "胸推",
+        "包第二次"
+      ]
+    },
+    gallery: [
+      "/images/girls/wenye/IMG_3248.JPG",
+      "/images/girls/wenye/IMG_3249.JPG",
+      "/images/girls/wenye/IMG_3250.JPG"
+    ]
+  },
+  {
     id: 16,
     name: { en: "Blind Box", cn: "盲盒" },
     status: "available",
