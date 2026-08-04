@@ -1,5 +1,51 @@
 export const girls = [
   {
+    id: 18,
+    name: { en: "High-End Blind Box", cn: "新高端盲盒" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 19,
+      height: "167cm",
+      weight: "45kg",
+      cup: "D",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/gaoduanmanghe/IMG_3578.JPG",
+    video: "/images/girls/gaoduanmanghe/video.mp4",
+    description: {
+      en: "Brand new arrival! Born in 2007, local top-tier university student 👩‍🎓. Premium High-End Mystery Box! Cute anime face with real D-cup breasts and a manga-proportions figure. Big sparkling eyes, porcelain smooth white skin, and slender legs — incredible contrast vibe. Instant recommendation! What are you waiting for?",
+      cn: "🎉🎉上🆕07年本地名校在读新学生👩‍🎓童颜巨乳 魔鬼漫画身材 一双水汪汪🥺大眼睛👁️皮肤白嫩嫩 🥢🦵 即视反差感 闭眼冲 话不多说你还在等什么？😍😱😱😱🌿🎉🛬"
+    },
+    price: "$800 / 1h · $3500 / 包夜 · $5000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Shower together",
+        "Stockings",
+        "Uniform/Cosplay",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "69",
+        "舌吻",
+        "洗澡",
+        "丝袜",
+        "制服",
+        "胸推"
+      ]
+    },
+    gallery: [
+      "/images/girls/gaoduanmanghe/IMG_3586.JPG",
+      "/images/girls/gaoduanmanghe/IMG_3588.JPG",
+      "/images/girls/gaoduanmanghe/IMG_3593.JPG"
+    ]
+  },
+  {
     id: 10,
     name: { en: "Nao", cn: "奈绪" },
     status: "available",
