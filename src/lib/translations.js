@@ -82,6 +82,7 @@ export const translations = {
         "30min (VIP)": "30分钟 (VIP)",
         "1h (Half)": "小时 (半套)",
         "包夜": "包夜",
+        "8-10小时": "8-10小时",
         "一天": "一天",
         "Overnight": "包夜",
         "Full Day": "一天"
@@ -202,6 +203,7 @@ export const translations = {
         "30min (VIP)": "30 mins (VIP)",
         "1h (Half)": "1 hour (Half)",
         "包夜": "Overnight",
+        "8-10小时": "Overnight (8-10h)",
         "一天": "Full Day",
         "Overnight": "Overnight",
         "Full Day": "Full Day"

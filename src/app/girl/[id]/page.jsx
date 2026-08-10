@@ -155,12 +155,14 @@ export default function GirlDetailsPage() {
                     const trimmedUnit = unit?.trim();
                     const translatedUnit = t.girl.units[trimmedUnit] || trimmedUnit;
                     return (
-                      <p key={i} className="text-4xl font-serif text-[#2A2A2A] font-playfair leading-tight flex items-baseline">
-                        {amount.trim()}
-                        <span className="text-base uppercase tracking-widest font-sans text-[#2A2A2A]/50 italic ml-4">
+                      <div key={i} className="flex flex-wrap items-baseline gap-x-3 gap-y-0.5">
+                        <span className="text-3xl sm:text-4xl font-serif text-[#2A2A2A] font-playfair leading-tight">
+                          {amount.trim()}
+                        </span>
+                        <span className="text-sm sm:text-base uppercase tracking-widest font-sans text-[#2A2A2A]/50 italic whitespace-nowrap">
                           / {unit ? translatedUnit : t.girl.perHour.replace("/", "").trim()}
                         </span>
-                      </p>
+                      </div>
                     );
                   })}
                 </div>
