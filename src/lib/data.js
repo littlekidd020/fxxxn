@@ -18,7 +18,7 @@ export const girls = [
       en: "Brand new arrival! Australian fly-in 🪂 local university student 👩‍🎓 — Xiao Miaomiao! Popular fashion influencer with 100k+ followers 🤩. Stunning face, petite doll-like body, porcelain white skin, and 100% verified natural C+ breasts. 99% real match to photos! Unbelievably sweet and youthful vibe! Instant recommendation!",
       cn: "🆕人澳洲🦘空降🪂在读女大👩‍🎓小缪缪小萝莉！高颜值在读👩‍🎓穿搭小网红某平台粉丝10多万、拥有纯天然C+杯🥛罩🤩皮肤白嫩细腻，完美绝佳身材，年轻到让你有种犯罪感！⚠️⚠️（本人与图片相似度99%）⚠️⚠️你还在等什么？闭眼冲！闭眼冲！🤩🤩✌️🌿🎉🎉😍"
     },
-    price: "$700 / 1h · $3200-$3500 / 包夜 · $5000 / 一天",
+    price: "$700 / 1h · $3200-$3500 / 8-10小时 · $5000 / 一天",
     services: {
       en: [
         "Bareback BJ",
