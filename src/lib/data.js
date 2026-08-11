@@ -71,7 +71,7 @@ export const girls = [
       en: "Brand new arrival! Fly-in from China 🪂, local university student part-timer 👩‍🎓 — Jianyi! Exceptionally beautiful, resembling Yang Mi, with 100% natural verified D+ cup breasts 🤩. Silky smooth porcelain skin with flawless 360-degree beauty. 170cm height with long legs, perfect hourglass curves! Highly recommended! Don't hesitate!",
       cn: "🆕人国内空降🪂本地在读新学生👩‍🎓简一兼职！超高颜值酷似杨幂，拥有纯天然D+杯🥛罩🤩皮肤白嫩细腻，360度无死角的美，身高170大长腿，前凸后翘，完美绝佳身材！你还在等什么？闭眼冲！闭眼冲！🤩🤩✌️🌿🎉🎉😍"
     },
-    price: "$600 / 1h · $550 / 45min · $500 / 30min · $3200-$3500 / 包夜 · $5000 / 一天",
+    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3200-$3500 / 包夜 · $5000 / 一天",
     services: {
       en: [
         "Bareback BJ",
@@ -284,7 +284,7 @@ export const girls = [
   {
     id: 13,
     name: { en: "Youzicha", cn: "柚子茶" },
-    status: "available",
+    status: "hidden",
     verified: true,
     location: "CBD",
     stats: {
