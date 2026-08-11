@@ -151,7 +151,9 @@ export const girls = [
         "胸推"
       ]
     },
-    gallery: []
+    gallery: [
+      "/images/girls/gaoduanmanghe/IMG_2099.JPG"
+    ]
   },
   {
     id: 10,
