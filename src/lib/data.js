@@ -124,8 +124,8 @@ export const girls = [
       cup: "D",
       nationality: "Chinese"
     },
-    image: "/images/girls/gaoduanmanghe/IMG_2099.JPG",
-    video: "/images/girls/gaoduanmanghe/video.mp4",
+    image: "/images/girls/gaoduanmanghe/photo_2026-08-11_21-50-58.jpg",
+    video: "/images/girls/gaoduanmanghe/IMG_3557.MP4",
     description: {
       en: "Brand new arrival! Born in 2007, local top-tier university student 👩‍🎓. Premium High-End Mystery Box! Cute anime face with real D-cup breasts and a manga-proportions figure. Big sparkling eyes, porcelain smooth white skin, and slender legs — incredible contrast vibe. Instant recommendation! What are you waiting for?",
       cn: "🎉🎉上🆕07年本地名校在读新学生👩‍🎓童颜巨乳 魔鬼漫画身材 一双水汪汪🥺大眼睛👁️皮肤白嫩嫩 🥢🦵 即视反差感 闭眼冲 话不多说你还在等什么？😍😱😱😱🌿🎉🛬"
@@ -152,7 +152,7 @@ export const girls = [
       ]
     },
     gallery: [
-      "/images/girls/gaoduanmanghe/IMG_2100.JPG"
+      "/images/girls/gaoduanmanghe/photo_2026-08-11_21-51-04.jpg"
     ]
   },
   {
