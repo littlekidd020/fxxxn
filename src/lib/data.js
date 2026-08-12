@@ -1,5 +1,52 @@
 export const girls = [
   {
+    id: 21,
+    name: { en: "Neva", cn: "Neva" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 22,
+      height: "170cm",
+      weight: "42kg",
+      cup: "C",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/neva/IMG_3911.JPG",
+    video: "/images/girls/neva/copy_9D110FAE-3D75-4683-8DFD-CADBF9F7BBE7.mov",
+    description: {
+      en: "Brand new arrival from China! 170cm professional model Neva, a southern beauty on her very first adventure 💦. High face value with natural C-cup breasts, slim body with curves in all the right places. Porcelain smooth skin and a perfect model figure. What are you waiting for? Rush in with your eyes closed! 🤩",
+      cn: "最🆕国内空降🪂在职170模特Neva 南方姑娘 初次下💦 初次下💦 高颜值 拥有纯天然 纯天然C杯🥛罩🤩 体格偏瘦但🐻有肉 😍皮肤白嫩细腻 完美绝佳模特身材 🎉🤩😍"
+    },
+    price: "$550 / 1h · $500 / 45min · $450 / 30min · $3000-$3300 / 包夜 · $4800 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Shower together",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "69",
+        "舌吻",
+        "陪浴",
+        "胸推"
+      ]
+    },
+    gallery: [
+      "/images/girls/neva/IMG_3912.JPG",
+      "/images/girls/neva/IMG_3913.JPG",
+      "/images/girls/neva/IMG_3914.JPG",
+      "/images/girls/neva/IMG_3915.JPG",
+      "/images/girls/neva/IMG_3916.JPG",
+      "/images/girls/neva/IMG_3917.JPG",
+      "/images/girls/neva/IMG_3918.JPG",
+      "/images/girls/neva/IMG_3919.JPG"
+    ]
+  },
+  {
     id: 20,
     name: { en: "Xiao Miaomiao", cn: "小缪缪" },
     status: "available",
