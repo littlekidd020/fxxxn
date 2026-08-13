@@ -203,6 +203,54 @@ export const girls = [
     ]
   },
   {
+    id: 22,
+    name: { en: "Saina", cn: "塞娜" },
+    status: "available",
+    verified: false,
+    location: "CBD",
+    stats: {
+      age: 25,
+      height: "165cm",
+      weight: "45kg",
+      cup: "D",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/saina/IMG_3932.JPG",
+    description: {
+      en: "Saina from Xinjiang — exotic beauty with striking features and natural D-cup breasts. Slim 45kg frame with alluring curves. Smooth, fair skin and a captivating presence. What are you waiting for? 🤩",
+      cn: "新疆美女塞娜 异域风情高颜值 拥有纯天然D杯🥛罩🤩 体重45kg身材曼妙 皮肤白嫩细腻 🎉🤩😍"
+    },
+    price: "$400 / 1h",
+    services: {
+      en: [
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Shower together",
+        "Stockings",
+        "Uniform/Cosplay",
+        "Breast Slide",
+        "2nd Round"
+      ],
+      cn: [
+        "无套口",
+        "69",
+        "舌吻",
+        "洗澡",
+        "丝袜",
+        "制服",
+        "胸推",
+        "第二次"
+      ]
+    },
+    gallery: [
+      "/images/girls/saina/1148.jpg",
+      "/images/girls/saina/1187.jpg",
+      "/images/girls/saina/1188.jpg",
+      "/images/girls/saina/1191.jpg"
+    ]
+  },
+  {
     id: 10,
     name: { en: "Nao", cn: "奈绪" },
     status: "available",
