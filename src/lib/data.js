@@ -528,7 +528,7 @@ export const girls = [
   {
     id: 15,
     name: { en: "Hoshino Coco", cn: "星野子子" },
-    status: "available",
+    status: "unavailable",
     verified: true,
     location: "CBD",
     stats: {
@@ -584,7 +584,7 @@ export const girls = [
   {
     id: 14,
     name: { en: "Fini", cn: "菲妮" },
-    status: "available",
+    status: "unavailable",
     verified: true,
     location: "CBD",
     stats: {
