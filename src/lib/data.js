@@ -529,6 +529,62 @@ export const girls = [
     id: 15,
     name: { en: "Hoshino Coco", cn: "星野子子" },
     status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "160cm",
+      weight: "44kg",
+      cup: "C+",
+      nationality: "Japanese"
+    },
+    image: "/images/girls/coco/featured.jpg",
+    video: "/images/girls/coco/video.mp4",
+    description: {
+      en: "Brand new arrival from Japan 🇯🇵! Introducing Hoshino Coco (星野子子), a sweet, adorable, and youthful 24-year-old Japanese beauty with captivating big eyes and a bright, enthusiastic personality. Located in Auckland CBD, she knows exactly how to make every guest feel completely relaxed and happy with her warm, attentive service. Standing 160cm and 44kg with a voluptuous model figure, natural C+ cup bust, and flawless white tender skin! Extremely cooperative (100% compliance) with premium skills including Bareback BJ, Shower together, Full body Nuru/slide, 69, French Kissing, Fingering/rimming, Stockings, Water play, Massage, and up to 2 rounds. Don't miss out on this sweet Japanese treasure 💕\n\nSchedule: Available Daily",
+      cn: "🆕日本🇯🇵空降刚落地 星野子子 甜甜可爱😍 年轻漂亮🤩大眼睛 性格比较开朗热情，能用贴心的服务让每一位见面的朋友都感到放松和开心！身材前凸后翘，皮肤白皮嫩芽😘😘\n～身高：160cm 体重：44kg 🐻：C+真 年龄：24\n～服务包括：🈚🍑口、🌧️🛁、全身漫游、69、舌吻、指hua、丝袜、水中销、按摩、第2️⃣次。\n配合度💯 欢迎在市区预约品鉴💕\n\n⚠️兼职时间：全天可约"
+    },
+    price: "$360 / 1h · $280 / 30min · $2500-$2800 / 包夜",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Full body Nuru/slide",
+        "69",
+        "French Kissing",
+        "Fingering / Rim",
+        "Stockings",
+        "Water play",
+        "Massage",
+        "2 rounds"
+      ],
+      cn: [
+        "无套口",
+        "洗澡",
+        "全身漫游",
+        "69",
+        "舌吻",
+        "指划",
+        "丝袜",
+        "水中销",
+        "按摩",
+        "第2次"
+      ]
+    },
+    gallery: [
+      "/images/girls/coco/img_2380.jpg",
+      "/images/girls/coco/img_2381.jpg",
+      "/images/girls/coco/img_2386.jpg",
+      "/images/girls/coco/img_2387.jpg",
+      "/images/girls/coco/img_2388.jpg",
+      "/images/girls/coco/img_2526.jpg",
+      "/images/girls/coco/img_2528.jpg"
+    ]
+  },
+  {
+    id: 12,
+    name: { en: "Leyao", cn: "乐瑶" },
+    status: "available",
     verified: false,
     location: "CBD",
     stats: {
