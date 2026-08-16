@@ -17,7 +17,7 @@ export default function ContactBanner() {
     <motion.div 
        initial={{ y: 50, opacity: 0 }}
        animate={{ y: 0, opacity: 1 }}
-        className={`relative z-20 w-full bg-emerald text-white overflow-hidden shadow-md border-t border-emerald-light/30 border-b border-emerald/50 mt-auto ${shouldHideOnMobile ? 'hidden md:block' : 'block'}`}
+        className={`relative z-10 w-full bg-emerald text-white overflow-hidden shadow-md border-t border-emerald-light/30 border-b border-emerald/50 mt-auto ${shouldHideOnMobile ? 'hidden md:block' : 'block'}`}
     >
       {/* Inner Content */}
       <div className="w-full max-w-7xl mx-auto px-4 py-4 md:py-0 flex flex-col md:flex-row items-center justify-between gap-4 md:gap-3 md:h-[70px]">
