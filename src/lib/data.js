@@ -582,6 +582,53 @@ export const girls = [
     ]
   },
   {
+    id: 14,
+    name: { en: "Fini", cn: "菲妮" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 23,
+      height: "160cm",
+      weight: "40kg",
+      cup: "C",
+      nationality: "Japanese"
+    },
+    image: "/images/girls/fini/IMG_2350.JPG",
+    video: "/images/girls/fini/video.mp4",
+    description: {
+      en: "Brand new arrival! Introducing Fini 🇯🇵, a 23-year-old Japanese sweetie located in Auckland CBD. Standing 160cm with a petite 40kg frame and a natural C-cup bust, she brings authentic Japanese gentleness and charm. Extremely attentive and girlfriend-like, offering Shower together, Deep French Kissing, Bareback BJ, 69, and up to 2 rounds per session! Book now for an unforgettable experience 💕\n\nSchedule: Available Daily",
+      cn: "🆕人初登场！市区宝藏女孩菲妮 (Fini) 🇯🇵 23岁日本小仙女，160cm娇小身材，40kg轻盈体态，搭配饱满纯天然C杯。性格温柔甜美，典型日系风情，极具代入感。服务耐心细致：洗澡、舌吻、无套口、69，且可做2次！期待在市区与您浪漫相约💕\n\n⚠️兼职时间：全天可约"
+    },
+    price: "$360 / 1h · $320 / 45min · $280 / 30min · $2500-$2800 / 包夜",
+    services: {
+      en: [
+        "Shower together",
+        "Deep French Kissing",
+        "Bareback BJ",
+        "69",
+        "2 rounds",
+        "Extra: CIM (in mouth) +$50",
+        "Extra: Photo/Video recording (no face) +$200"
+      ],
+      cn: [
+        "洗澡",
+        "舌吻",
+        "无套口",
+        "69",
+        "做2次",
+        "额外：口爆 (+$50)",
+        "额外：拍照/拍摄 (不露脸 +$200)"
+      ]
+    },
+    gallery: [
+      "/images/girls/fini/fini_01.jpg",
+      "/images/girls/fini/IMG_2337.JPG",
+      "/images/girls/fini/IMG_2339.JPG",
+      "/images/girls/fini/IMG_2349.JPG"
+    ]
+  },
+  {
     id: 12,
     name: { en: "Leyao", cn: "乐瑶" },
     status: "available",
