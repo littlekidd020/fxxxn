@@ -108,6 +108,15 @@ const ConciergePage = () => {
                 <span className="text-[13px] md:text-lg uppercase tracking-[0.2em] font-black font-sans text-center">BX20220927 / Soulful990</span>
               </div>
               <a 
+                href="https://t.me/NZHB_Today90"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center gap-3 py-4 bg-noir-soft border border-zen text-[#2A2A2A] rounded-xl hover:bg-zen hover:text-emerald transition-all transform hover:scale-105 col-span-1 sm:col-span-2"
+              >
+                <span className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans">Telegram频道</span>
+                <span className="text-[13px] md:text-lg uppercase tracking-[0.2em] font-black font-sans text-center">NZHB_Today90</span>
+              </a>
+              <a 
                 href="tel:0221620017"
                 className="flex items-center justify-center gap-3 py-4 bg-noir-soft border border-zen text-[#2A2A2A] rounded-xl hover:bg-zen hover:text-emerald transition-all transform hover:scale-105"
               >

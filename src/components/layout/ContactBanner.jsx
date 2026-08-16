@@ -53,6 +53,10 @@ export default function ContactBanner() {
                   <span>BX20220927 / Soulful990</span>
                 </div>
               </div>
+              <a href="https://t.me/NZHB_Today90" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-white/80 transition-colors text-[13px] md:text-base font-black tracking-widest drop-shadow-md">
+                <span className="opacity-70 text-[9px] md:text-xs font-bold font-sans uppercase tracking-[0.2em]">Telegram频道</span>
+                <span>NZHB_Today90</span>
+              </a>
           </div>
         </div>
 
