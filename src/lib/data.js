@@ -12,7 +12,7 @@ export const girls = [
       cup: "C",
       nationality: "Chinese"
     },
-    image: "/images/girls/xiaozhi/IMG_4026.JPG",
+    image: "/images/girls/xiaozhi/IMG_4028.JPG",
     video: "/images/girls/xiaozhi/copy_5931C98A-E762-43E7-900E-B4DD422C3CBB.mov",
     description: {
       en: "Brand new! Born 2007 🐣, university girl from China here in AKL for a short 10-day study trip! Ultra high face value, devilish figure, 100% natural with flawless 360-degree beauty. First time ever 💦! Soft, sweet, and angelic fairy 🧚‍♀️ — she's the first love you always dreamed of! Photos are verified ✅! What are you waiting for? Limited time only! 🎉😍",
@@ -50,8 +50,8 @@ export const girls = [
       ]
     },
     gallery: [
+      "/images/girls/xiaozhi/IMG_4026.JPG",
       "/images/girls/xiaozhi/IMG_4027.JPG",
-      "/images/girls/xiaozhi/IMG_4028.JPG",
       "/images/girls/xiaozhi/IMG_4031.JPG",
       "/images/girls/xiaozhi/IMG_4032.JPG",
       "/images/girls/xiaozhi/IMG_4038.JPG"
