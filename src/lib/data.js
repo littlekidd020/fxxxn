@@ -12,7 +12,7 @@ export const girls = [
       cup: "D",
       nationality: "Chinese"
     },
-    image: "/images/girls/umi/IMG_4299.JPG",
+    image: "/images/girls/umi/IMG_4317.JPG",
     video: "/images/girls/umi/video.mov",
     description: {
       en: "New arrival from Australia 🦘! Umi is a university student born in 2005 and visiting Auckland for a short stay. She has a striking, curvy figure, fair delicate skin, a sweet voice, high emotional intelligence, and a fitness-toned waist and abs. Standing 166cm and weighing 42kg with a D-cup bust, she brings a confident, elegant style. Limited stay—book while available!",
@@ -46,13 +46,13 @@ export const girls = [
       cn: ["第二次 +$100"]
     },
     gallery: [
+      "/images/girls/umi/IMG_4319.JPG",
+      "/images/girls/umi/IMG_4299.JPG",
       "/images/girls/umi/IMG_4270.JPG",
       "/images/girls/umi/IMG_4276.JPG",
       "/images/girls/umi/IMG_4301.JPG",
       "/images/girls/umi/IMG_4303.JPG",
       "/images/girls/umi/IMG_4304.JPG",
-      "/images/girls/umi/IMG_4317.JPG",
-      "/images/girls/umi/IMG_4319.JPG",
       "/images/girls/umi/IMG_4328.JPG",
       "/images/girls/umi/IMG_4257.JPG"
     ]
