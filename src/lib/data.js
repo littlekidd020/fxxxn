@@ -1,5 +1,63 @@
 export const girls = [
   {
+    id: 24,
+    name: { en: "Umi", cn: "Umi" },
+    status: "available",
+    verified: false,
+    location: "CBD",
+    stats: {
+      age: 21,
+      height: "166cm",
+      weight: "42kg",
+      cup: "D",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/umi/IMG_4299.JPG",
+    video: "/images/girls/umi/video.mov",
+    description: {
+      en: "New arrival from Australia 🦘! Umi is a university student born in 2005 and visiting Auckland for a short stay. She has a striking, curvy figure, fair delicate skin, a sweet voice, high emotional intelligence, and a fitness-toned waist and abs. Standing 166cm and weighing 42kg with a D-cup bust, she brings a confident, elegant style. Limited stay—book while available!",
+      cn: "🆕人澳洲🦘空降🪂 05女大👩‍🎓 Umi😱😱😱🎉🎉 高颜值、魔鬼身材、前凸后翘，气质御姐风。皮肤白嫩细腻，声音甜美，情商高智商高，健身系的小蛮腰马甲线🤩😱😱😍🥰 短期！短期！短期！还在等什么？闭眼冲🤩🤩🎉🎉🌿"
+    },
+    price: "$600 / 1h · $550 / 45min · $500 / 30min · $3000-$3300 / 8-10h",
+    services: {
+      en: [
+        "Shower together",
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Massage",
+        "GFE",
+        "Stockings",
+        "Lingerie"
+      ],
+      cn: [
+        "洗澡",
+        "无套口",
+        "69",
+        "舌吻",
+        "按摩",
+        "女友体验",
+        "丝袜",
+        "情趣内衣"
+      ]
+    },
+    extras: {
+      en: ["2nd round +$100"],
+      cn: ["第二次 +$100"]
+    },
+    gallery: [
+      "/images/girls/umi/IMG_4270.JPG",
+      "/images/girls/umi/IMG_4276.JPG",
+      "/images/girls/umi/IMG_4301.JPG",
+      "/images/girls/umi/IMG_4303.JPG",
+      "/images/girls/umi/IMG_4304.JPG",
+      "/images/girls/umi/IMG_4317.JPG",
+      "/images/girls/umi/IMG_4319.JPG",
+      "/images/girls/umi/IMG_4328.JPG",
+      "/images/girls/umi/IMG_4257.JPG"
+    ]
+  },
+  {
     id: 23,
     name: { en: "Xiaozhi", cn: "小稚" },
     status: "available",
