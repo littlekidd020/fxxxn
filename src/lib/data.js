@@ -240,8 +240,8 @@ export const girls = [
       cup: "C+",
       nationality: "Chinese"
     },
-    image: "/images/girls/neva/IMG_3911.JPG",
-    video: "/images/girls/neva/copy_9D110FAE-3D75-4683-8DFD-CADBF9F7BBE7.mov",
+    image: "/images/girls/xiaowanzi/IMG_4420.JPG",
+    video: "/images/girls/xiaowanzi/video.mov",
     description: {
       en: "The latest arrival from China! Xiaowanzi 🍡 is a 170cm professional model and southern beauty making her first debut 💦. She has a striking face, a slim model figure with curves in all the right places, verified natural C+ breasts, and smooth fair skin. What are you waiting for? Book with confidence! 🤩🎉😍",
       cn: "最🆕国内空降🪂在职170模特小丸子🍡南方姑娘 初次下💦 初次下💦 高颜值 拥有纯天然C+杯🥛罩🤩 体格偏瘦但🐻有肉 😍皮肤白嫩细腻 完美绝佳模特身材 🎉🤩😍 你还在等什么？闭眼冲 闭眼冲🤩🤩✌️🌿🎉🎉😍"
@@ -268,14 +268,17 @@ export const girls = [
       cn: ["第二次 +$100"]
     },
     gallery: [
-      "/images/girls/neva/IMG_3912.JPG",
-      "/images/girls/neva/IMG_3913.JPG",
-      "/images/girls/neva/IMG_3914.JPG",
-      "/images/girls/neva/IMG_3915.JPG",
-      "/images/girls/neva/IMG_3916.JPG",
-      "/images/girls/neva/IMG_3917.JPG",
-      "/images/girls/neva/IMG_3918.JPG",
-      "/images/girls/neva/IMG_3919.JPG"
+      "/images/girls/xiaowanzi/IMG_4421.JPG",
+      "/images/girls/xiaowanzi/IMG_4407.JPG",
+      "/images/girls/xiaowanzi/IMG_4408.JPG",
+      "/images/girls/xiaowanzi/IMG_4409.JPG",
+      "/images/girls/xiaowanzi/IMG_4410.JPG",
+      "/images/girls/xiaowanzi/IMG_4411.JPG",
+      "/images/girls/xiaowanzi/IMG_4412.JPG",
+      "/images/girls/xiaowanzi/IMG_4415.JPG",
+      "/images/girls/xiaowanzi/IMG_4419.JPG",
+      "/images/girls/xiaowanzi/IMG_4424.JPG",
+      "/images/girls/xiaowanzi/IMG_4425.JPG"
     ]
   },
   {
