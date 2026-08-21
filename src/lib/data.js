@@ -229,7 +229,7 @@ export const girls = [
   },
   {
     id: 21,
-    name: { en: "Neva", cn: "Neva" },
+    name: { en: "Xiaowanzi 🍡 (Model)", cn: "小丸子🍡（模特）" },
     status: "available",
     verified: true,
     location: "CBD",
@@ -237,31 +237,35 @@ export const girls = [
       age: 22,
       height: "170cm",
       weight: "42kg",
-      cup: "C",
+      cup: "C+",
       nationality: "Chinese"
     },
     image: "/images/girls/neva/IMG_3911.JPG",
     video: "/images/girls/neva/copy_9D110FAE-3D75-4683-8DFD-CADBF9F7BBE7.mov",
     description: {
-      en: "Brand new arrival from China! 170cm professional model Neva, a southern beauty on her very first adventure 💦. High face value with natural C-cup breasts, slim body with curves in all the right places. Porcelain smooth skin and a perfect model figure. What are you waiting for? Rush in with your eyes closed! 🤩",
-      cn: "最🆕国内空降🪂在职170模特Neva 南方姑娘 初次下💦 初次下💦 高颜值 拥有纯天然 纯天然C杯🥛罩🤩 体格偏瘦但🐻有肉 😍皮肤白嫩细腻 完美绝佳模特身材 🎉🤩😍"
+      en: "The latest arrival from China! Xiaowanzi 🍡 is a 170cm professional model and southern beauty making her first debut 💦. She has a striking face, a slim model figure with curves in all the right places, verified natural C+ breasts, and smooth fair skin. What are you waiting for? Book with confidence! 🤩🎉😍",
+      cn: "最🆕国内空降🪂在职170模特小丸子🍡南方姑娘 初次下💦 初次下💦 高颜值 拥有纯天然C+杯🥛罩🤩 体格偏瘦但🐻有肉 😍皮肤白嫩细腻 完美绝佳模特身材 🎉🤩😍 你还在等什么？闭眼冲 闭眼冲🤩🤩✌️🌿🎉🎉😍"
     },
-    price: "$550 / 1h · $500 / 45min · $450 / 30min · $3000-$3300 / 包夜 · $4800 / 一天",
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $2800-$3200 / 包夜 · $4500 / 一天",
     services: {
       en: [
         "Bareback BJ",
-        "69",
-        "Deep French Kissing",
         "Shower together",
+        "Deep French Kissing",
+        "69",
         "Breast Slide"
       ],
       cn: [
         "无套口",
-        "69",
-        "舌吻",
         "陪浴",
+        "舌吻",
+        "69",
         "胸推"
       ]
+    },
+    extras: {
+      en: ["2nd round +$100"],
+      cn: ["第二次 +$100"]
     },
     gallery: [
       "/images/girls/neva/IMG_3912.JPG",
