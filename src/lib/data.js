@@ -229,7 +229,7 @@ export const girls = [
   },
   {
     id: 21,
-    name: { en: "Xiaowanzi 🍡 (Model)", cn: "小丸子🍡（模特）" },
+    name: { en: "Xiaowanzi", cn: "小丸子" },
     status: "available",
     verified: true,
     location: "CBD",
