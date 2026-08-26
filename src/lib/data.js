@@ -54,7 +54,8 @@ export const girls = [
       "/images/girls/umi/IMG_4303.JPG",
       "/images/girls/umi/IMG_4304.JPG",
       "/images/girls/umi/IMG_4328.JPG",
-      "/images/girls/umi/IMG_4257.JPG"
+      "/images/girls/umi/IMG_4257.JPG",
+      "/images/girls/umi/umi-review.png"
     ]
   },
   {
