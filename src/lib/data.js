@@ -182,7 +182,7 @@ export const girls = [
       cup: "D+",
       nationality: "Chinese"
     },
-    image: "/images/girls/jianyi/IMG_3693.JPG",
+    image: "/images/girls/jianyi/2026-08-28-03.png",
     video: "/images/girls/jianyi/video.mp4",
     description: {
       en: "Brand new arrival! Fly-in from China 🪂, local university student part-timer 👩‍🎓 — Jianyi! Exceptionally beautiful, resembling Yang Mi, with 100% natural verified D+ cup breasts 🤩. Silky smooth porcelain skin with flawless 360-degree beauty. 170cm height with long legs, perfect hourglass curves! Highly recommended! Don't hesitate!",
@@ -214,9 +214,9 @@ export const girls = [
       ]
     },
     gallery: [
-      "/images/girls/jianyi/2026-08-28-03.png",
       "/images/girls/jianyi/2026-08-28-01.png",
       "/images/girls/jianyi/2026-08-28-02.png",
+      "/images/girls/jianyi/IMG_3693.JPG",
       "/images/girls/jianyi/IMG_3692.JPG",
       "/images/girls/jianyi/IMG_3695.JPG",
       "/images/girls/jianyi/IMG_3696.JPG",
