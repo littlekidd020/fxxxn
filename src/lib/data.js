@@ -214,18 +214,19 @@ export const girls = [
       ]
     },
     gallery: [
-      "/images/girls/jianyi/IMG_3691.JPG",
       "/images/girls/jianyi/IMG_3692.JPG",
-      "/images/girls/jianyi/IMG_3690.JPG",
       "/images/girls/jianyi/IMG_3695.JPG",
       "/images/girls/jianyi/IMG_3696.JPG",
       "/images/girls/jianyi/IMG_3698.JPG",
       "/images/girls/jianyi/IMG_3699.JPG",
-      "/images/girls/jianyi/IMG_3702.JPG",
       "/images/girls/jianyi/IMG_3735.JPG",
       "/images/girls/jianyi/IMG_3736.JPG",
       "/images/girls/jianyi/IMG_3737.JPG",
-      "/images/girls/jianyi/IMG_3739.JPG"
+      "/images/girls/jianyi/IMG_3739.JPG",
+      "/images/girls/jianyi/2026-08-28-01.png",
+      "/images/girls/jianyi/2026-08-28-02.png",
+      "/images/girls/jianyi/2026-08-28-03.png",
+      "/images/girls/jianyi/2026-08-28-04.png"
     ]
   },
   {
