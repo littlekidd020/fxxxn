@@ -495,6 +495,7 @@ export const girls = [
       ]
     },
     gallery: [
+      "/images/girls/manghe/2026-08-30-feedback.png",
       "/images/girls/manghe/IMG_2811.JPG",
       "/images/girls/manghe/IMG_2813.JPG"
     ]
