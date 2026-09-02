@@ -328,6 +328,7 @@ export const girls = [
       ]
     },
     gallery: [
+      "/images/girls/jianyi/2026-09-02-second.jpg",
       "/images/girls/jianyi/2026-08-28-01.png",
       "/images/girls/jianyi/2026-08-28-02.png",
       "/images/girls/jianyi/IMG_3693.JPG",
