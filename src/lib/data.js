@@ -1,5 +1,74 @@
 export const girls = [
   {
+    id: 26,
+    name: { en: "Ren", cn: "Ren（心结苒）" },
+    status: "available",
+    verified: false,
+    location: "CBD",
+    stats: {
+      age: 20,
+      height: "155cm",
+      weight: "50kg",
+      cup: "C",
+      nationality: "Japanese"
+    },
+    image: "/images/girls/ren/IMG_4873.JPG",
+    video: "/images/girls/ren/video.mp4",
+    description: {
+      en: "New arrival from Japan 🇯🇵! Ren (Xin Jie Ran) is a sweet, youthful 20-year-old with large expressive eyes and soft fair skin. She is 155cm tall, 50kg, body size 6, and has a natural C-cup bust. Warm, playful, and newly arrived in Auckland—highly recommended!",
+      cn: "🆕日本🇯🇵空降🪂🌸妹子Ren（心结苒），长相甜美、年轻可爱，一双水汪汪的漂亮大眼睛，皮肤白嫩嫩哒。快来品尝吧，闭眼冲冲冲！"
+    },
+    price: "$360 / 1h · $320 / 45min · $280 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
+    services: {
+      en: [
+        "GFE",
+        "Deep French Kissing",
+        "Bareback BJ",
+        "2 rounds in 60 mins",
+        "Oral on her",
+        "69",
+        "Nipple licking",
+        "Pussy slider",
+        "Shower together",
+        "CIM"
+      ],
+      cn: [
+        "女友体验",
+        "舌吻",
+        "无套口",
+        "60分钟做2次",
+        "舔阴",
+        "69",
+        "舔乳",
+        "阴部摩擦",
+        "一起洗澡",
+        "口爆"
+      ]
+    },
+    extras: {
+      en: [
+        "Photo/video recording without face +$200",
+        "Photo/video recording with face +$300",
+        "Other requests by arrangement"
+      ],
+      cn: [
+        "拍照/录像（不露脸）+$200",
+        "拍照/录像（露脸）+$300",
+        "其他要求可商议"
+      ]
+    },
+    gallery: [
+      "/images/girls/ren/IMG_4874.JPG",
+      "/images/girls/ren/IMG_4875.JPG",
+      "/images/girls/ren/IMG_4876.JPG",
+      "/images/girls/ren/IMG_4877.JPG",
+      "/images/girls/ren/IMG_4878.JPG",
+      "/images/girls/ren/IMG_4879.JPG",
+      "/images/girls/ren/IMG_4880.JPG",
+      "/images/girls/ren/IMG_4881.JPG"
+    ]
+  },
+  {
     id: 25,
     name: { en: "Nini", cn: "倪妮" },
     status: "available",
