@@ -4,7 +4,7 @@ export const girls = [
     name: { en: "Ren", cn: "Ren（心结苒）" },
     status: "available",
     verified: false,
-    location: "CBD",
+    location: "Central",
     stats: {
       age: 20,
       height: "155cm",
@@ -48,13 +48,11 @@ export const girls = [
     extras: {
       en: [
         "Photo/video recording without face +$200",
-        "Photo/video recording with face +$300",
-        "Other requests by arrangement"
+        "Photo/video recording with face +$300"
       ],
       cn: [
         "拍照/录像（不露脸）+$200",
-        "拍照/录像（露脸）+$300",
-        "其他要求可商议"
+        "拍照/录像（露脸）+$300"
       ]
     },
     gallery: [
