@@ -1,5 +1,50 @@
 export const girls = [
   {
+    id: 25,
+    name: { en: "Nini", cn: "倪妮" },
+    status: "available",
+    verified: false,
+    location: "CBD",
+    stats: {
+      age: "25+",
+      height: "169cm",
+      weight: "44kg",
+      cup: "C",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/nini/IMG_4891.JPG",
+    video: "/images/girls/nini/video.mp4",
+    description: {
+      en: "New arrival from China 🪂! Nini has just arrived in Auckland. She is 169cm tall with long legs, a chic short-haired mature style, completely natural features, warm wheat-toned skin, and excellent cooperation. A confident, striking beauty!",
+      cn: "🆕人国内空降🪂 169大长🦵倪妮，初次抵达AKL。短发御姐范儿，拥有纯天然五官，全身0️⃣科技🤩😍 皮肤小麦色🎉🤩 服务配合度💯，尤物🤩🤩✌️🌿🎉🎉😍"
+    },
+    price: "$360 / 1h · $300 / 45min · $260 / 30min · $2200-$2500 / 包夜 · $3200 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "2nd round included"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "舌吻",
+        "69",
+        "丝袜",
+        "包第二次"
+      ]
+    },
+    gallery: [
+      "/images/girls/nini/IMG_4889.JPG",
+      "/images/girls/nini/IMG_4890.JPG",
+      "/images/girls/nini/IMG_4892.JPG",
+      "/images/girls/nini/IMG_4888.JPG"
+    ]
+  },
+  {
     id: 24,
     name: { en: "Umi", cn: "Umi" },
     status: "available",
