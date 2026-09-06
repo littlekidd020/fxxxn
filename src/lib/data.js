@@ -102,6 +102,10 @@ export const girls = [
         "丝袜"
       ]
     },
+    extras: {
+      en: ["2nd round +$50"],
+      cn: ["第二次 +$50"]
+    },
     gallery: [
       "/images/girls/nini/IMG_4889.JPG",
       "/images/girls/nini/IMG_4890.JPG",
