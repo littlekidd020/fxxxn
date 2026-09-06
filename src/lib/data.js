@@ -173,64 +173,6 @@ export const girls = [
     ]
   },
   {
-    id: 23,
-    name: { en: "Xiaozhi", cn: "小稚" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 18,
-      height: "168cm",
-      weight: "43kg",
-      cup: "C",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/xiaozhi/IMG_4026.JPG",
-    video: "/images/girls/xiaozhi/copy_5931C98A-E762-43E7-900E-B4DD422C3CBB.mov",
-    description: {
-      en: "Brand new! Born 2007 🐣, university girl from China here in AKL for a short 10-day study trip! Ultra high face value, devilish figure, 100% natural with flawless 360-degree beauty. First time ever 💦! Soft, sweet, and angelic fairy 🧚‍♀️ — she's the first love you always dreamed of! Photos are verified ✅! What are you waiting for? Limited time only! 🎉😍",
-      cn: "🆕人国内07年女大👩‍🎓来AKL游学兼职1️⃣0️⃣天 短期10天😱😱😱🎉🎉 高颜值 魔鬼身材 0️⃣整容纯天然360度无死角的美 初次下💦初次下💦 粉粉嫩嫩软软糯糯的小仙女🧚‍♀️ 你的初恋她来了！照片是本人已验证✅😱🎉"
-    },
-    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3500 / 8-10小时 · $5000 / 一天",
-    services: {
-      en: [
-        "Shower together",
-        "Bareback BJ",
-        "69",
-        "Deep French Kissing",
-        "Massage",
-        "GFE",
-        "Stockings",
-        "Lingerie"
-      ],
-      cn: [
-        "洗澡",
-        "无套口",
-        "69",
-        "舌吻",
-        "按摩",
-        "女友体验",
-        "丝袜",
-        "内衣秀"
-      ]
-    },
-    extras: {
-      en: [
-        "2nd round +$100"
-      ],
-      cn: [
-        "第二次 +$100"
-      ]
-    },
-    gallery: [
-      "/images/girls/xiaozhi/IMG_4028.JPG",
-      "/images/girls/xiaozhi/IMG_4027.JPG",
-      "/images/girls/xiaozhi/IMG_4031.JPG",
-      "/images/girls/xiaozhi/IMG_4032.JPG",
-      "/images/girls/xiaozhi/IMG_4038.JPG"
-    ]
-  },
-  {
     id: 20,
     name: { en: "Xiao Miaomiao", cn: "小缪缪" },
     status: "available",
@@ -342,6 +284,64 @@ export const girls = [
       "/images/girls/jianyi/IMG_3735.JPG",
       "/images/girls/jianyi/IMG_3736.JPG",
       "/images/girls/jianyi/IMG_3739.JPG"
+    ]
+  },
+  {
+    id: 23,
+    name: { en: "Xiaozhi", cn: "小稚" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 18,
+      height: "168cm",
+      weight: "43kg",
+      cup: "C",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/xiaozhi/IMG_4026.JPG",
+    video: "/images/girls/xiaozhi/copy_5931C98A-E762-43E7-900E-B4DD422C3CBB.mov",
+    description: {
+      en: "Brand new! Born 2007 🐣, university girl from China here in AKL for a short 10-day study trip! Ultra high face value, devilish figure, 100% natural with flawless 360-degree beauty. First time ever 💦! Soft, sweet, and angelic fairy 🧚‍♀️ — she's the first love you always dreamed of! Photos are verified ✅! What are you waiting for? Limited time only! 🎉😍",
+      cn: "🆕人国内07年女大👩‍🎓来AKL游学兼职1️⃣0️⃣天 短期10天😱😱😱🎉🎉 高颜值 魔鬼身材 0️⃣整容纯天然360度无死角的美 初次下💦初次下💦 粉粉嫩嫩软软糯糯的小仙女🧚‍♀️ 你的初恋她来了！照片是本人已验证✅😱🎉"
+    },
+    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3500 / 8-10小时 · $5000 / 一天",
+    services: {
+      en: [
+        "Shower together",
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Massage",
+        "GFE",
+        "Stockings",
+        "Lingerie"
+      ],
+      cn: [
+        "洗澡",
+        "无套口",
+        "69",
+        "舌吻",
+        "按摩",
+        "女友体验",
+        "丝袜",
+        "内衣秀"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$100"
+      ],
+      cn: [
+        "第二次 +$100"
+      ]
+    },
+    gallery: [
+      "/images/girls/xiaozhi/IMG_4028.JPG",
+      "/images/girls/xiaozhi/IMG_4027.JPG",
+      "/images/girls/xiaozhi/IMG_4031.JPG",
+      "/images/girls/xiaozhi/IMG_4032.JPG",
+      "/images/girls/xiaozhi/IMG_4038.JPG"
     ]
   },
   {
