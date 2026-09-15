@@ -1,5 +1,53 @@
 export const girls = [
   {
+    id: 27,
+    name: { en: "Nuonuo", cn: "阮糯糯" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "166cm",
+      weight: "43kg",
+      cup: "C",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/nuonuo/IMG_5319.JPG",
+    video: "/images/girls/nuonuo/video.mov",
+    description: {
+      en: "Brand new arrival! 24-year-old local university student Nuonuo is here for a short-term part-time stay! Pure, sweet face with delicate features, slender legs, and natural curves. Warm, gentle, and highly cooperative — verified apartment photos with matching uniform. Limited stay, book while available!",
+      cn: "🆕人本地在读24岁女大👩‍🎓阮糯糯！短期兼职！高颜值甜美邻家妹，五官清秀温婉，身材纤细曼妙、拥有一双修长美腿🥢腿。性格温柔体贴，公寓实拍同款制服，配合度超高！短期兼职开放中，闭眼冲冲冲！🎉🤩😍"
+    },
+    price: "$400 / 1h · $350 / 45min · $300 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Uniform/Cosplay",
+        "Stockings"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "舌吻",
+        "69",
+        "制服诱惑",
+        "丝袜"
+      ]
+    },
+    extras: {
+      en: ["2nd round +$100"],
+      cn: ["第二次 +$100"]
+    },
+    gallery: [
+      "/images/girls/nuonuo/IMG_5328.JPG",
+      "/images/girls/nuonuo/IMG_5326.JPG",
+      "/images/girls/nuonuo/IMG_5327.JPG"
+    ]
+  },
+  {
     id: 26,
     name: { en: "Ren", cn: "Ren（心结苒）" },
     status: "available",
@@ -342,50 +390,6 @@ export const girls = [
     ]
   },
   {
-    id: 18,
-    name: { en: "High-End Blind Box", cn: "新高端盲盒" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 19,
-      height: "167cm",
-      weight: "45kg",
-      cup: "D",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/gaoduanmanghe/photo_2026-08-11_21-50-58.jpg",
-    video: "/images/girls/gaoduanmanghe/IMG_3557.MP4",
-    description: {
-      en: "Brand new arrival! Born in 2007, local top-tier university student 👩‍🎓. Premium High-End Mystery Box! Cute anime face with real D-cup breasts and a manga-proportions figure. Big sparkling eyes, porcelain smooth white skin, and slender legs — incredible contrast vibe. Instant recommendation! What are you waiting for?",
-      cn: "🎉🎉上🆕07年本地名校在读新学生👩‍🎓童颜巨乳 魔鬼漫画身材 一双水汪汪🥺大眼睛👁️皮肤白嫩嫩 🥢🦵 即视反差感 闭眼冲 话不多说你还在等什么？😍😱😱😱🌿🎉🛬"
-    },
-    price: "$800 / 1h · $3500 / 包夜 · $5000 / 一天",
-    services: {
-      en: [
-        "Bareback BJ",
-        "69",
-        "Deep French Kissing",
-        "Shower together",
-        "Stockings",
-        "Uniform/Cosplay",
-        "Breast Slide"
-      ],
-      cn: [
-        "无套口",
-        "69",
-        "舌吻",
-        "洗澡",
-        "丝袜",
-        "制服",
-        "胸推"
-      ]
-    },
-    gallery: [
-      "/images/girls/gaoduanmanghe/photo_2026-08-11_21-51-04.jpg"
-    ]
-  },
-  {
     id: 24,
     name: { en: "Umi", cn: "Umi" },
     status: "available",
@@ -442,6 +446,50 @@ export const girls = [
       "/images/girls/umi/IMG_4328.JPG",
       "/images/girls/umi/IMG_4257.JPG",
       "/images/girls/umi/umi-review.png"
+    ]
+  },
+  {
+    id: 18,
+    name: { en: "High-End Blind Box", cn: "新高端盲盒" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 19,
+      height: "167cm",
+      weight: "45kg",
+      cup: "D",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/gaoduanmanghe/photo_2026-08-11_21-50-58.jpg",
+    video: "/images/girls/gaoduanmanghe/IMG_3557.MP4",
+    description: {
+      en: "Brand new arrival! Born in 2007, local top-tier university student 👩‍🎓. Premium High-End Mystery Box! Cute anime face with real D-cup breasts and a manga-proportions figure. Big sparkling eyes, porcelain smooth white skin, and slender legs — incredible contrast vibe. Instant recommendation! What are you waiting for?",
+      cn: "🎉🎉上🆕07年本地名校在读新学生👩‍🎓童颜巨乳 魔鬼漫画身材 一双水汪汪🥺大眼睛👁️皮肤白嫩嫩 🥢🦵 即视反差感 闭眼冲 话不多说你还在等什么？😍😱😱😱🌿🎉🛬"
+    },
+    price: "$800 / 1h · $3500 / 包夜 · $5000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Shower together",
+        "Stockings",
+        "Uniform/Cosplay",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "69",
+        "舌吻",
+        "洗澡",
+        "丝袜",
+        "制服",
+        "胸推"
+      ]
+    },
+    gallery: [
+      "/images/girls/gaoduanmanghe/photo_2026-08-11_21-51-04.jpg"
     ]
   },
   {
