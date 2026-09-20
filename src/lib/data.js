@@ -50,7 +50,7 @@ export const girls = [
   },
   {
     id: 28,
-    name: { en: "Rae (formerly Zhouzhou)", cn: "Rae 蕾蕾（原名周周）" },
+    name: { en: "Rae", cn: "蕾蕾" },
     status: "available",
     verified: false,
     location: "CBD",
