@@ -49,23 +49,23 @@ export const girls = [
     ]
   },
   {
-    id: 27,
-    name: { en: "Nuonuo", cn: "阮糯糯" },
+    id: 28,
+    name: { en: "Rae (formerly Zhouzhou)", cn: "Rae 蕾蕾（原名周周）" },
     status: "available",
-    verified: true,
+    verified: false,
     location: "CBD",
     stats: {
       age: 24,
-      height: "166cm",
-      weight: "43kg",
-      cup: "C",
+      height: "168cm",
+      weight: "44kg",
+      cup: "D (Natural)",
       nationality: "Chinese"
     },
-    image: "/images/girls/nuonuo/IMG_5319.JPG",
-    video: "/images/girls/nuonuo/video.mov",
+    image: "/images/girls/rae/IMG_5571.JPG",
+    video: "/images/girls/rae/video.mp4",
     description: {
-      en: "Brand new arrival! 24-year-old local university student Nuonuo is here for a short-term part-time stay! Pure, sweet face with delicate features, slender legs, and natural curves. Warm, gentle, and highly cooperative — verified apartment photos with matching uniform. Limited stay, book while available!",
-      cn: "🆕人本地在读24岁女大👩‍🎓阮糯糯！短期兼职！高颜值甜美邻家妹，五官清秀温婉，身材纤细曼妙、拥有一双修长美腿🥢腿。性格温柔体贴，公寓实拍同款制服，配合度超高！短期兼职开放中，闭眼冲冲冲！🎉🤩😍"
+      en: "New return! Rae (formerly Zhouzhou) has flown in from Australia and is now independently based in the City. A 168cm long-legged, naturally featured girl-next-door with a slim, fair complexion. She enjoys fitness, skiing, and horse riding, and is known for attentive, highly cooperative service.",
+      cn: "🆕人澳洲🦘空降🪂168大长腿Rae蕾蕾回归（原名周周），现City私做。邻家妹妹，纯天然五官、全身0科技🤩，雪白粉嫩。健身系女生，喜欢滑雪骑马，王牌服务系，服务配合度💯！"
     },
     price: "$400 / 1h · $350 / 45min · $300 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
     services: {
@@ -74,26 +74,35 @@ export const girls = [
         "Shower together",
         "Deep French Kissing",
         "69",
-        "Uniform/Cosplay",
-        "Stockings"
+        "Stockings",
+        "Breast Slide"
       ],
       cn: [
         "无套口",
         "陪浴",
         "舌吻",
         "69",
-        "制服诱惑",
-        "丝袜"
+        "丝袜",
+        "胸推"
       ]
     },
     extras: {
-      en: ["2nd round +$100"],
-      cn: ["第二次 +$100"]
+      en: [
+        "2nd round +$50",
+        "Light M play +$100 and up"
+      ],
+      cn: [
+        "第二次 +$50",
+        "轻微M +$100起"
+      ]
     },
     gallery: [
-      "/images/girls/nuonuo/IMG_5328.JPG",
-      "/images/girls/nuonuo/IMG_5326.JPG",
-      "/images/girls/nuonuo/IMG_5327.JPG"
+      "/images/girls/rae/IMG_5572.JPG",
+      "/images/girls/rae/IMG_5574.JPG",
+      "/images/girls/rae/IMG_5575.JPG",
+      "/images/girls/rae/IMG_5576.JPG",
+      "/images/girls/rae/IMG_5577.JPG",
+      "/images/girls/rae/IMG_5627.JPG"
     ]
   },
   {
@@ -382,6 +391,54 @@ export const girls = [
       "/images/girls/xiaozhi/IMG_4031.JPG",
       "/images/girls/xiaozhi/IMG_4032.JPG",
       "/images/girls/xiaozhi/IMG_4038.JPG"
+    ]
+  },
+  {
+    id: 27,
+    name: { en: "Nuonuo", cn: "阮糯糯" },
+    status: "unavailable",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "166cm",
+      weight: "43kg",
+      cup: "C",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/nuonuo/IMG_5319.JPG",
+    video: "/images/girls/nuonuo/video.mov",
+    description: {
+      en: "Brand new arrival! 24-year-old local university student Nuonuo is here for a short-term part-time stay! Pure, sweet face with delicate features, slender legs, and natural curves. Warm, gentle, and highly cooperative — verified apartment photos with matching uniform. Limited stay, book while available!",
+      cn: "🆕人本地在读24岁女大👩‍🎓阮糯糯！短期兼职！高颜值甜美邻家妹，五官清秀温婉，身材纤细曼妙、拥有一双修长美腿🥢腿。性格温柔体贴，公寓实拍同款制服，配合度超高！短期兼职开放中，闭眼冲冲冲！🎉🤩😍"
+    },
+    price: "$400 / 1h · $350 / 45min · $300 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Uniform/Cosplay",
+        "Stockings"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "舌吻",
+        "69",
+        "制服诱惑",
+        "丝袜"
+      ]
+    },
+    extras: {
+      en: ["2nd round +$100"],
+      cn: ["第二次 +$100"]
+    },
+    gallery: [
+      "/images/girls/nuonuo/IMG_5328.JPG",
+      "/images/girls/nuonuo/IMG_5326.JPG",
+      "/images/girls/nuonuo/IMG_5327.JPG"
     ]
   },
   {
