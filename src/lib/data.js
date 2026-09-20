@@ -1,5 +1,54 @@
 export const girls = [
   {
+    id: 29,
+    name: { en: "Susu", cn: "素素" },
+    status: "available",
+    verified: false,
+    location: "CBD",
+    stats: {
+      age: "24+",
+      height: "170cm",
+      weight: "49kg",
+      cup: "D",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/susu-29/IMG_5601.JPG",
+    video: "/images/girls/susu-29/video.mp4",
+    description: {
+      en: "Newest arrival from China 🪂! Susu has just arrived in Auckland for a short 10-day stay. Standing 170cm tall with long legs, she has a sweet girl-next-door look, completely natural features, fair skin, a gentle and considerate personality, and a soft, sweet voice. Genuinely new and still learning, with excellent cooperation.",
+      cn: "最🆕国内空降🪂 170大长🦵素素初次抵达AKL⚠️ 初下💦初下💦初下💦 邻家妹妹，纯天然五官，全身0️⃣科技🤩😍 皮肤雪白，性格温柔体贴，声音甜甜糯糯🎉🤩 真实初下💦，服务待调教😱😱 配合度💯 🤩🤩✌️🌿🎉🎉😍（短期10天）"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $2800-$3000 / 8-10h · $4200 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "舌吻",
+        "69",
+        "丝袜",
+        "胸推"
+      ]
+    },
+    extras: {
+      en: ["2nd round +$50"],
+      cn: ["第二次 +$50"]
+    },
+    gallery: [
+      "/images/girls/susu-29/IMG_5602.JPG",
+      "/images/girls/susu-29/IMG_5611.JPG",
+      "/images/girls/susu-29/IMG_5612.JPG",
+      "/images/girls/susu-29/IMG_5658.JPG"
+    ]
+  },
+  {
     id: 27,
     name: { en: "Nuonuo", cn: "阮糯糯" },
     status: "available",
