@@ -61,7 +61,7 @@ export const girls = [
       cup: "D (Natural)",
       nationality: "Chinese"
     },
-    image: "/images/girls/rae/IMG_5571.JPG",
+    image: "/images/girls/rae/IMG_5576.JPG",
     video: "/images/girls/rae/video.mp4",
     description: {
       en: "New return! Rae (formerly Zhouzhou) has flown in from Australia and is now independently based in the City. A 168cm long-legged, naturally featured girl-next-door with a slim, fair complexion. She enjoys fitness, skiing, and horse riding, and is known for attentive, highly cooperative service.",
@@ -97,10 +97,10 @@ export const girls = [
       ]
     },
     gallery: [
+      "/images/girls/rae/IMG_5571.JPG",
       "/images/girls/rae/IMG_5572.JPG",
       "/images/girls/rae/IMG_5574.JPG",
       "/images/girls/rae/IMG_5575.JPG",
-      "/images/girls/rae/IMG_5576.JPG",
       "/images/girls/rae/IMG_5577.JPG",
       "/images/girls/rae/IMG_5627.JPG"
     ]
