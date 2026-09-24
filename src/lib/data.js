@@ -1,5 +1,49 @@
 export const girls = [
   {
+    id: 18,
+    name: { en: "High-End Blind Box", cn: "新高端盲盒" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 19,
+      height: "167cm",
+      weight: "45kg",
+      cup: "D",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/gaoduanmanghe/photo_2026-08-11_21-50-58.jpg",
+    video: "/images/girls/gaoduanmanghe/IMG_3557.MP4",
+    description: {
+      en: "Brand new arrival! Born in 2007, local top-tier university student 👩‍🎓. Premium High-End Mystery Box! Cute anime face with real D-cup breasts and a manga-proportions figure. Big sparkling eyes, porcelain smooth white skin, and slender legs — incredible contrast vibe. Instant recommendation! What are you waiting for?",
+      cn: "🎉🎉上🆕07年本地名校在读新学生👩‍🎓童颜巨乳 魔鬼漫画身材 一双水汪汪🥺大眼睛👁️皮肤白嫩嫩 🥢🦵 即视反差感 闭眼冲 话不多说你还在等什么？😍😱😱😱🌿🎉🛬"
+    },
+    price: "$800 / 1h · $3500 / 包夜 · $5000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "69",
+        "Deep French Kissing",
+        "Shower together",
+        "Stockings",
+        "Uniform/Cosplay",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "69",
+        "舌吻",
+        "洗澡",
+        "丝袜",
+        "制服",
+        "胸推"
+      ]
+    },
+    gallery: [
+      "/images/girls/gaoduanmanghe/photo_2026-08-11_21-51-04.jpg"
+    ]
+  },
+  {
     id: 29,
     name: { en: "Susu", cn: "素素" },
     status: "available",
@@ -46,63 +90,6 @@ export const girls = [
       "/images/girls/susu-29/IMG_5611.JPG",
       "/images/girls/susu-29/IMG_5612.JPG",
       "/images/girls/susu-29/IMG_5658.JPG"
-    ]
-  },
-  {
-    id: 28,
-    name: { en: "Rae", cn: "蕾蕾" },
-    status: "available",
-    verified: false,
-    location: "CBD",
-    stats: {
-      age: 24,
-      height: "168cm",
-      weight: "44kg",
-      cup: "D (Natural)",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/rae/IMG_5576.JPG",
-    video: "/images/girls/rae/video.mp4",
-    description: {
-      en: "New return! Rae (formerly Zhouzhou) has flown in from Australia and is now independently based in the City. A 168cm long-legged, naturally featured girl-next-door with a slim, fair complexion. She enjoys fitness, skiing, and horse riding, and is known for attentive, highly cooperative service.",
-      cn: "🆕人澳洲🦘空降🪂168大长腿Rae蕾蕾回归（原名周周），现City私做。邻家妹妹，纯天然五官、全身0科技🤩，雪白粉嫩。健身系女生，喜欢滑雪骑马，王牌服务系，服务配合度💯！"
-    },
-    price: "$400 / 1h · $350 / 45min · $300 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
-    services: {
-      en: [
-        "Bareback BJ",
-        "Shower together",
-        "Deep French Kissing",
-        "69",
-        "Stockings",
-        "Breast Slide"
-      ],
-      cn: [
-        "无套口",
-        "陪浴",
-        "舌吻",
-        "69",
-        "丝袜",
-        "胸推"
-      ]
-    },
-    extras: {
-      en: [
-        "2nd round +$50",
-        "Light M play +$100 and up"
-      ],
-      cn: [
-        "第二次 +$50",
-        "轻微M +$100起"
-      ]
-    },
-    gallery: [
-      "/images/girls/rae/IMG_5571.JPG",
-      "/images/girls/rae/IMG_5574.JPG",
-      "/images/girls/rae/IMG_5575.JPG",
-      "/images/girls/rae/IMG_5627.JPG",
-      "/images/girls/rae/IMG_5689.JPG",
-      "/images/girls/rae/IMG_5690.JPG"
     ]
   },
   {
@@ -442,6 +429,63 @@ export const girls = [
     ]
   },
   {
+    id: 28,
+    name: { en: "Rae", cn: "蕾蕾" },
+    status: "available",
+    verified: false,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "168cm",
+      weight: "44kg",
+      cup: "D (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/rae/IMG_5576.JPG",
+    video: "/images/girls/rae/video.mp4",
+    description: {
+      en: "New return! Rae (formerly Zhouzhou) has flown in from Australia and is now independently based in the City. A 168cm long-legged, naturally featured girl-next-door with a slim, fair complexion. She enjoys fitness, skiing, and horse riding, and is known for attentive, highly cooperative service.",
+      cn: "🆕人澳洲🦘空降🪂168大长腿Rae蕾蕾回归（原名周周），现City私做。邻家妹妹，纯天然五官、全身0科技🤩，雪白粉嫩。健身系女生，喜欢滑雪骑马，王牌服务系，服务配合度💯！"
+    },
+    price: "$400 / 1h · $350 / 45min · $300 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "舌吻",
+        "69",
+        "丝袜",
+        "胸推"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$50",
+        "Light M play +$100 and up"
+      ],
+      cn: [
+        "第二次 +$50",
+        "轻微M +$100起"
+      ]
+    },
+    gallery: [
+      "/images/girls/rae/IMG_5571.JPG",
+      "/images/girls/rae/IMG_5574.JPG",
+      "/images/girls/rae/IMG_5575.JPG",
+      "/images/girls/rae/IMG_5627.JPG",
+      "/images/girls/rae/IMG_5689.JPG",
+      "/images/girls/rae/IMG_5690.JPG"
+    ]
+  },
+  {
     id: 21,
     name: { en: "Xiaowanzi", cn: "小丸子" },
     status: "available",
@@ -552,50 +596,6 @@ export const girls = [
       "/images/girls/umi/IMG_4328.JPG",
       "/images/girls/umi/IMG_4257.JPG",
       "/images/girls/umi/umi-review.png"
-    ]
-  },
-  {
-    id: 18,
-    name: { en: "High-End Blind Box", cn: "新高端盲盒" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 19,
-      height: "167cm",
-      weight: "45kg",
-      cup: "D",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/gaoduanmanghe/photo_2026-08-11_21-50-58.jpg",
-    video: "/images/girls/gaoduanmanghe/IMG_3557.MP4",
-    description: {
-      en: "Brand new arrival! Born in 2007, local top-tier university student 👩‍🎓. Premium High-End Mystery Box! Cute anime face with real D-cup breasts and a manga-proportions figure. Big sparkling eyes, porcelain smooth white skin, and slender legs — incredible contrast vibe. Instant recommendation! What are you waiting for?",
-      cn: "🎉🎉上🆕07年本地名校在读新学生👩‍🎓童颜巨乳 魔鬼漫画身材 一双水汪汪🥺大眼睛👁️皮肤白嫩嫩 🥢🦵 即视反差感 闭眼冲 话不多说你还在等什么？😍😱😱😱🌿🎉🛬"
-    },
-    price: "$800 / 1h · $3500 / 包夜 · $5000 / 一天",
-    services: {
-      en: [
-        "Bareback BJ",
-        "69",
-        "Deep French Kissing",
-        "Shower together",
-        "Stockings",
-        "Uniform/Cosplay",
-        "Breast Slide"
-      ],
-      cn: [
-        "无套口",
-        "69",
-        "舌吻",
-        "洗澡",
-        "丝袜",
-        "制服",
-        "胸推"
-      ]
-    },
-    gallery: [
-      "/images/girls/gaoduanmanghe/photo_2026-08-11_21-51-04.jpg"
     ]
   },
   {
@@ -970,7 +970,7 @@ export const girls = [
   {
     id: 12,
     name: { en: "Leyao", cn: "乐瑶" },
-    status: "available",
+    status: "unavailable",
     verified: false,
     location: "CBD",
     stats: {
