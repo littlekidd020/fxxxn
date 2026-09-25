@@ -44,6 +44,50 @@ export const girls = [
     ]
   },
   {
+    id: 30,
+    name: { en: "KC", cn: "KC" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 25,
+      height: "160cm",
+      weight: "44kg",
+      cup: "D (Natural)",
+      nationality: "Taiwanese"
+    },
+    image: "/images/girls/kc/IMG_5779.JPG",
+    video: "/images/girls/kc/video.mov",
+    description: {
+      en: "Brand new arrival from Taiwan! KC is a 25-year-old petite beauty making her debut in Auckland CBD. Standing 160cm and 44kg with natural D-cup curves, she brings authentic Taiwanese warmth, delicate features, and a bright, enchanting smile. Gentle, attentive, and highly engaging for a premium companion experience.",
+      cn: "🆕人台湾空降🪂甜美女生KC初次登场奥克兰City！身高160cm、体重44kg娇小身材，拥有纯天然D杯饱满曲线。五官清秀甜美，笑眼迷人，软糯台湾腔超嗲超甜。性格温柔贴心，服务主动配合度极高，代入感十足，快来体验吧！"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $2800 / 包夜 · $4000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "舌吻",
+        "69",
+        "丝袜",
+        "胸推"
+      ]
+    },
+    gallery: [
+      "/images/girls/kc/IMG_5780.JPG",
+      "/images/girls/kc/IMG_5781.JPG",
+      "/images/girls/kc/IMG_5782.JPG"
+    ]
+  },
+  {
     id: 29,
     name: { en: "Susu", cn: "素素" },
     status: "available",
