@@ -59,26 +59,40 @@ export const girls = [
     image: "/images/girls/kc/IMG_5779.JPG",
     video: "/images/girls/kc/video.mov",
     description: {
-      en: "Brand new arrival from Taiwan! KC is a 25-year-old petite beauty making her debut in Auckland CBD. Standing 160cm and 44kg with natural D-cup curves, she brings authentic Taiwanese warmth, delicate features, and a bright, enchanting smile. Gentle, attentive, and highly engaging for a premium companion experience.",
-      cn: "🆕人台湾空降🪂甜美女生KC初次登场奥克兰City！身高160cm、体重44kg娇小身材，拥有纯天然D杯饱满曲线。五官清秀甜美，笑眼迷人，软糯台湾腔超嗲超甜。性格温柔贴心，服务主动配合度极高，代入感十足，快来体验吧！"
+      en: "Brand new arrival from Taiwan! KC is a 25-year-old Taiwanese beauty who loves outdoor sports and features a healthy wheat-toned complexion. Standing 160cm and 44kg with natural D-cup curves, she is sweet, passionate, and attentive, bringing exceptional warmth and energy.",
+      cn: "🆕人台湾妹子KC登场奥克兰City！喜欢户外运动，拥有健康小麦色肌肤。身高160cm、体重44kg，纯天然D杯饱满曲线。五官甜美，配合度超高，代入感十足，快来预约体验！"
     },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min · $2800 / 包夜 · $4000 / 一天",
+    price: "$400 / 1h · $350 / 45min · $300 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
     services: {
       en: [
-        "Bareback BJ",
         "Shower together",
+        "Water BJ",
         "Deep French Kissing",
+        "Breast Slide",
         "69",
-        "Stockings",
-        "Breast Slide"
+        "Bareback BJ",
+        "Black Stockings",
+        "1 Shot"
       ],
       cn: [
-        "无套口",
         "陪浴",
-        "舌吻",
+        "水中箫",
+        "蛇吻",
+        "胸推",
         "69",
-        "丝袜",
-        "胸推"
+        "无套口",
+        "黑丝",
+        "做1次"
+      ]
+    },
+    extras: {
+      en: [
+        "CIM (in mouth) +$50",
+        "2nd round +$100"
+      ],
+      cn: [
+        "口爆 +$50",
+        "第二次 +$100"
       ]
     },
     gallery: [
