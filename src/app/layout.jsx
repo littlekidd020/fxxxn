@@ -1,4 +1,4 @@
-import { Inter, Playfair_Display, Noto_Sans_SC, Noto_Serif_SC } from "next/font/google";
+import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 
 export const runtime = "edge";
@@ -10,18 +10,6 @@ import AgeGate from "../components/common/AgeGate";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfair" });
-const notoSansCN = Noto_Sans_SC({ 
-  subsets: ["latin"], 
-  weight: ["400", "700", "900"],
-  variable: "--font-noto-sans-cn",
-  display: 'swap',
-});
-const notoSerifCN = Noto_Serif_SC({ 
-  subsets: ["latin"], 
-  weight: ["400", "700", "900"],
-  variable: "--font-noto-serif-cn",
-  display: 'swap',
-});
 
 export const metadata = {
   title: "Fxxxn | High-End Service",
@@ -33,7 +21,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body suppressHydrationWarning className={`${inter.variable} ${playfair.variable} ${notoSansCN.variable} ${notoSerifCN.variable} font-sans antialiased bg-noir text-[#2A2A2A]`}>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700;900&family=Noto+Serif+SC:wght@400;700;900&display=swap" rel="stylesheet" />
+      </head>
+      <body suppressHydrationWarning className={`${inter.variable} ${playfair.variable} font-sans antialiased bg-noir text-[#2A2A2A]`}>
         <LanguageProvider>
           <AgeGate>
             <Navbar />

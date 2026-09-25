@@ -33,6 +33,10 @@ async function getFiles(dir) {
 }
 
 async function optimize() {
+  if (process.env.CF_PAGES || process.env.CI) {
+    console.log('Skipping media optimization in CI environment (media already committed).');
+    return;
+  }
   const force = process.argv.includes('--force');
   const files = await getFiles(PUBLIC_DIR);
   const manifest = await getManifest();
