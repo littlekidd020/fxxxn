@@ -45,6 +45,64 @@ export const girls = [
     ]
   },
   {
+    id: 19,
+    name: { en: "Jianyi", cn: "简一" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 20,
+      height: "168cm",
+      weight: "47kg",
+      cup: "D+ (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/jianyi/IMG_5889.JPG",
+    video: "/images/girls/jianyi/video.mov",
+    description: {
+      en: "Brand new arrival! Fly-in from China 🪂, genuine local university student part-timer 👩‍🎓 — Jianyi (born 2006)! Exceptionally high-value beauty with 100% natural verified D+ cup curves and a stunning hourglass figure 🤩. Silky smooth porcelain skin, 168cm with slender long legs. Sweet, gentle, and providing an authentic girlfriend experience. Highly recommended! Don't hesitate!",
+      cn: "🆕06年国内空降🪂本地真实在读女大学生👩‍🎓简一兼职！超高颜值，拥有纯天然保真D+杯魔鬼身材🤩皮肤白嫩细腻，360度无死角的美，身高168大长腿，前凸后翘，五官精致气质绝佳！性格温柔贴心，服务细致到位犹如初恋小女友。你还在等什么？闭眼冲！闭眼冲！🤩🤩✌️🌿🎉🎉😍"
+    },
+    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3200-$3500 / 包夜 · $5000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "舌吻",
+        "69",
+        "胸推"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$100"
+      ],
+      cn: [
+        "第二次 +$100"
+      ]
+    },
+    gallery: [
+      "/images/girls/jianyi/IMG_5892.JPG",
+      "/images/girls/jianyi/IMG_5875.JPG",
+      "/images/girls/jianyi/IMG_5896.JPG",
+      "/images/girls/jianyi/IMG_5894.JPG",
+      "/images/girls/jianyi/IMG_5898.JPG",
+      "/images/girls/jianyi/IMG_5893.JPG",
+      "/images/girls/jianyi/IMG_5895.JPG",
+      "/images/girls/jianyi/IMG_5897.JPG",
+      "/images/girls/jianyi/IMG_5900.JPG",
+      "/images/girls/jianyi/IMG_5906.JPG",
+      "/images/girls/jianyi/IMG_5907.JPG"
+    ]
+  },
+  {
     id: 30,
     name: { en: "KC", cn: "KC" },
     status: "available",
