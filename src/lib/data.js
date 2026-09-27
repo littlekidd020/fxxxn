@@ -51,8 +51,8 @@ export const girls = [
     verified: true,
     location: "CBD",
     stats: {
-      age: 20,
-      height: "168cm",
+      age: 21,
+      height: "171cm",
       weight: "47kg",
       cup: "D+ (Natural)",
       nationality: "Chinese"
@@ -60,10 +60,10 @@ export const girls = [
     image: "/images/girls/jianyi/IMG_5889.JPG",
     video: "/images/girls/jianyi/video.mov",
     description: {
-      en: "Brand new arrival! Fly-in from China 🪂, genuine local university student part-timer 👩‍🎓 — Jianyi (born 2006)! Exceptionally high-value beauty with 100% natural verified D+ cup curves and a stunning hourglass figure 🤩. Silky smooth porcelain skin, 168cm with slender long legs. Sweet, gentle, and providing an authentic girlfriend experience. Highly recommended! Don't hesitate!",
-      cn: "🆕06年国内空降🪂本地真实在读女大学生👩‍🎓简一兼职！超高颜值，拥有纯天然保真D+杯魔鬼身材🤩皮肤白嫩细腻，360度无死角的美，身高168大长腿，前凸后翘，五官精致气质绝佳！性格温柔贴心，服务细致到位犹如初恋小女友。你还在等什么？闭眼冲！闭眼冲！🤩🤩✌️🌿🎉🎉😍"
+      en: "Brand new arrival! Fly-in from China 🪂, local university student part-timer 👩‍🎓 — Jianyi! Exceptionally beautiful, resembling Yang Mi, with 100% natural verified D+ cup breasts 🤩. Silky smooth porcelain skin with flawless 360-degree beauty. 171cm height with long legs, perfect hourglass curves! Highly recommended! Don't hesitate!\n\n⚠️ Working hours: Mon-Fri 3pm-11pm, Weekends all day ⚠️",
+      cn: "🆕人国内空降🪂本地在读新学生👩‍🎓简一兼职！超高颜值酷似杨幂，拥有纯天然D杯🥛罩🤩皮肤白嫩细腻，360度无死角的美，身高171大长腿，完美绝佳身材！你还在等什么？闭眼冲！闭眼冲！🤩🤩✌️🌿🎉🎉😍\n\n⚠️兼职搬砖🧱时间：周一至周五 3pm-11pm，周末全天⚠️"
     },
-    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3200-$3500 / 包夜 · $5000 / 一天",
+    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3500 / 10h (包夜) · $5000 / 一天",
     services: {
       en: [
         "Bareback BJ",
@@ -75,7 +75,7 @@ export const girls = [
       cn: [
         "无套口",
         "陪浴",
-        "舌吻",
+        "蛇吻",
         "69",
         "胸推"
       ]
