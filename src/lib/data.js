@@ -63,7 +63,7 @@ export const girls = [
       en: "Brand new arrival from Taiwan! KC is a 25-year-old Taiwanese beauty who loves outdoor sports and features a healthy wheat-toned complexion. Standing 160cm and 44kg with natural D-cup curves, she is sweet, passionate, and attentive, bringing exceptional warmth and energy.",
       cn: "🆕人台湾妹子KC登场奥克兰City！喜欢户外运动，拥有健康小麦色肌肤。身高160cm、体重44kg，纯天然D杯饱满曲线。五官甜美，配合度超高，代入感十足，快来预约体验！"
     },
-    price: "$400 / 1h · $350 / 45min · $300 / 30min · $2200 / 包夜 · $3500 / 一天",
+    price: "$360 / 1h · $320 / 45min · $280 / 30min · $2200 / 包夜 · $3500 / 一天",
     services: {
       en: [
         "Shower together",
@@ -149,67 +149,6 @@ export const girls = [
       "/images/girls/susu-29/IMG_5611.JPG",
       "/images/girls/susu-29/IMG_5612.JPG",
       "/images/girls/susu-29/IMG_5658.JPG"
-    ]
-  },
-  {
-    id: 19,
-    name: { en: "Jianyi", cn: "简一" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 21,
-      height: "170cm",
-      weight: "47kg",
-      cup: "D+",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/jianyi/2026-09-02-cover.jpg",
-    video: "/images/girls/jianyi/video.mp4",
-    description: {
-      en: "Brand new arrival! Fly-in from China 🪂, local university student part-timer 👩‍🎓 — Jianyi! Exceptionally beautiful, resembling Yang Mi, with 100% natural verified D+ cup breasts 🤩. Silky smooth porcelain skin with flawless 360-degree beauty. 170cm height with long legs, perfect hourglass curves! Highly recommended! Don't hesitate!",
-      cn: "🆕人国内空降🪂本地在读新学生👩‍🎓简一兼职！超高颜值酷似杨幂，拥有纯天然D+杯🥛罩🤩皮肤白嫩细腻，360度无死角的美，身高170大长腿，前凸后翘，完美绝佳身材！你还在等什么？闭眼冲！闭眼冲！🤩🤩✌️🌿🎉🎉😍"
-    },
-    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3200-$3500 / 包夜 · $5000 / 一天",
-    services: {
-      en: [
-        "Bareback BJ",
-        "Shower together",
-        "Deep French Kissing",
-        "69",
-        "Breast Slide"
-      ],
-      cn: [
-        "无套口",
-        "陪浴",
-        "舌吻",
-        "69",
-        "胸推"
-      ]
-    },
-    extras: {
-      en: [
-        "2nd round +$100"
-      ],
-      cn: [
-        "第二次 +$100"
-      ]
-    },
-    gallery: [
-      "/images/girls/jianyi/2026-09-02-second.jpg",
-      "/images/girls/jianyi/2026-08-28-01.png",
-      "/images/girls/jianyi/2026-08-28-02.png",
-      "/images/girls/jianyi/IMG_3693.JPG",
-      "/images/girls/jianyi/IMG_3692.JPG",
-      "/images/girls/jianyi/IMG_3695.JPG",
-      "/images/girls/jianyi/IMG_3696.JPG",
-      "/images/girls/jianyi/IMG_3698.JPG",
-      "/images/girls/jianyi/IMG_3699.JPG",
-      "/images/girls/jianyi/IMG_3737.JPG",
-      "/images/girls/jianyi/2026-08-28-04.png",
-      "/images/girls/jianyi/IMG_3735.JPG",
-      "/images/girls/jianyi/IMG_3736.JPG",
-      "/images/girls/jianyi/IMG_3739.JPG"
     ]
   },
   {
