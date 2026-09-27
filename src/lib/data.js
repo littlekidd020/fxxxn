@@ -63,7 +63,7 @@ export const girls = [
       en: "Brand new arrival from Taiwan! KC is a 25-year-old Taiwanese beauty who loves outdoor sports and features a healthy wheat-toned complexion. Standing 160cm and 44kg with natural D-cup curves, she is sweet, passionate, and attentive, bringing exceptional warmth and energy.",
       cn: "🆕人台湾妹子KC登场奥克兰City！喜欢户外运动，拥有健康小麦色肌肤。身高160cm、体重44kg，纯天然D杯饱满曲线。五官甜美，配合度超高，代入感十足，快来预约体验！"
     },
-    price: "$400 / 1h · $350 / 45min · $300 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
+    price: "$400 / 1h · $350 / 45min · $300 / 30min · $2200 / 包夜 · $3500 / 一天",
     services: {
       en: [
         "Shower together",
