@@ -1,5 +1,55 @@
 export const girls = [
   {
+    id: 32,
+    name: { en: "Xiaoyuanyuan", cn: "小元元" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 20,
+      height: "171cm",
+      weight: "48kg",
+      cup: "D+ (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/xiaoyuanyuan/IMG_6091.JPG",
+    video: "/images/girls/xiaoyuanyuan/video.mov",
+    description: {
+      en: "Brand new arrival! Local University of Auckland student 👩‍🎓 — Xiaoyuanyuan holiday part-time! Standing 171cm tall with 100% all-natural verified D+ cup breasts 🐻 (guaranteed authentic). Gorgeous doll-like visuals, 100% natural beauty with zero cosmetic surgery! Exclusive custom resource from Foxi Fairy ✨. Slender long legs, delicate skin, sweet college girl charm — top recommendation, don't miss out! 🤩🎉",
+      cn: "🆕人本地奥大女大学生👩‍🎓小元元假期短期兼职！身高171高挑身材，纯天然大🐻D+（保真），颜值在线，全身0科技纯天然美女！佛系小仙女独家定制高端资源✨ 肤白貌美大长腿，清纯与火辣完美结合，超高配合度，假期短期限定兼职，抓紧时间闭眼冲！🤩🎉🎉"
+    },
+    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3500 / 8-10h (包夜) · $5000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "舌吻",
+        "69",
+        "胸推"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$100"
+      ],
+      cn: [
+        "第二次 +$100"
+      ]
+    },
+    gallery: [
+      "/images/girls/xiaoyuanyuan/IMG_6090.JPG",
+      "/images/girls/xiaoyuanyuan/IMG_6100.JPG",
+      "/images/girls/xiaoyuanyuan/IMG_6107.JPG"
+    ]
+  },
+  {
     id: 31,
     name: { en: "Qinger", cn: "晴儿" },
     status: "available",
