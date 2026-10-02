@@ -6,33 +6,37 @@ export const girls = [
     verified: true,
     location: "CBD",
     stats: {
-      age: 20,
+      age: 23,
       height: "171cm",
-      weight: "48kg",
+      weight: "49kg",
       cup: "D+ (Natural)",
       nationality: "Chinese"
     },
-    image: "/images/girls/xiaoyuanyuan/IMG_6091.JPG",
+    image: "/images/girls/xiaoyuanyuan/IMG_6099.JPG",
     video: "/images/girls/xiaoyuanyuan/video.mov",
     description: {
-      en: "Brand new arrival! Local University of Auckland student 👩‍🎓 — Xiaoyuanyuan holiday part-time! Standing 171cm tall with 100% all-natural verified D+ cup breasts 🐻 (guaranteed authentic). Gorgeous doll-like visuals, 100% natural beauty with zero cosmetic surgery! Exclusive custom resource from Foxi Fairy ✨. Slender long legs, delicate skin, sweet college girl charm — top recommendation, don't miss out! 🤩🎉",
-      cn: "🆕人本地奥大女大学生👩‍🎓小元元假期短期兼职！身高171高挑身材，纯天然大🐻D+（保真），颜值在线，全身0科技纯天然美女！佛系小仙女独家定制高端资源✨ 肤白貌美大长腿，清纯与火辣完美结合，超高配合度，假期短期限定兼职，抓紧时间闭眼冲！🤩🎉🎉"
+      en: "Brand new arrival! Local University of Auckland student 👩‍🎓 — Xiaoyuanyuan holiday part-time! Standing 171cm tall with slender long legs and 100% natural features with zero cosmetic surgery. Natural verified D+ cup breasts 🐻 (guaranteed authentic). Snow-white delicate skin, doll-like beauty, sweet gentle voice, and 100% service cooperation! Limited short-term holiday availability, don't miss out! 🤩🎉",
+      cn: "🆕人本地奥大女大学生👩‍🎓小元元假期短期兼职！171大长腿，纯天然五官，全身0科技纯天然尤物！纯天然大🐻D+（保真），皮肤雪白粉嫩，颜值在线，声音柔柔糯糯，服务配合度💯！假期短期限定兼职，不要错过哦！🤩🎉🎉"
     },
-    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3500 / 8-10h (包夜) · $5000 / 一天",
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3000-$3200 / 8-10h (包夜) · $4500 / 一天",
     services: {
       en: [
         "Bareback BJ",
         "Shower together",
         "Deep French Kissing",
         "69",
-        "Breast Slide"
+        "Stockings",
+        "Breast Slide",
+        "Massage"
       ],
       cn: [
         "无套口",
         "陪浴",
         "舌吻",
         "69",
-        "胸推"
+        "丝袜",
+        "胸推",
+        "按摩"
       ]
     },
     extras: {
@@ -44,6 +48,7 @@ export const girls = [
       ]
     },
     gallery: [
+      "/images/girls/xiaoyuanyuan/IMG_6091.JPG",
       "/images/girls/xiaoyuanyuan/IMG_6090.JPG",
       "/images/girls/xiaoyuanyuan/IMG_6100.JPG",
       "/images/girls/xiaoyuanyuan/IMG_6107.JPG"
