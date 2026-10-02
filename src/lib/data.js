@@ -45,6 +45,51 @@ export const girls = [
     ]
   },
   {
+    id: 31,
+    name: { en: "Xiaoqing", cn: "小晴儿" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: "24+",
+      height: "167cm",
+      weight: "42kg",
+      cup: "C (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/xiaoqing/IMG_6036.JPG",
+    video: "/images/girls/xiaoqing/video.mov",
+    description: {
+      en: "Brand new arrival! Fly-in from the UK 🪂, Xiaoqing makes her stunning debut in Auckland CBD! Standing 167cm and 42kg with a slender, model-like figure and natural C-cup curves. With her sweet anime-like facial features, large sparkling eyes, fair delicate skin, and an enchanting, gentle personality. Exceptional cooperation and companionship — don't miss out!",
+      cn: "🆕人英国UK空降🪂小晴儿初次登场奥克兰City！超高颜值，清纯甜美大眼睛，167cm高挑纤细模特身材，体重仅42kg，拥有纯天然小C杯饱满胸型。皮肤雪白细腻，性格温柔体贴，气质优雅迷人。配合度超高，代入感十足，快来预约体验！"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $2800 / 包夜 · $4000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "舌吻",
+        "69",
+        "丝袜",
+        "胸推"
+      ]
+    },
+    gallery: [
+      "/images/girls/xiaoqing/IMG_6040.JPG",
+      "/images/girls/xiaoqing/IMG_6037.JPG",
+      "/images/girls/xiaoqing/IMG_6038.JPG",
+      "/images/girls/xiaoqing/IMG_6041.JPG"
+    ]
+  },
+  {
     id: 19,
     name: { en: "Jianyi", cn: "简一" },
     status: "available",
