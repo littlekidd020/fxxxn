@@ -46,24 +46,24 @@ export const girls = [
   },
   {
     id: 31,
-    name: { en: "Xiaoqing", cn: "小晴儿" },
+    name: { en: "Qinger", cn: "晴儿" },
     status: "available",
     verified: true,
     location: "CBD",
     stats: {
       age: "24+",
       height: "167cm",
-      weight: "42kg",
-      cup: "C (Natural)",
+      weight: "49kg",
+      cup: "D",
       nationality: "Chinese"
     },
     image: "/images/girls/xiaoqing/IMG_6036.JPG",
     video: "/images/girls/xiaoqing/video.mov",
     description: {
-      en: "Brand new arrival! Fly-in from the UK 🪂, Xiaoqing makes her stunning debut in Auckland CBD! Standing 167cm and 42kg with a slender, model-like figure and natural C-cup curves. With her sweet anime-like facial features, large sparkling eyes, fair delicate skin, and an enchanting, gentle personality. Exceptional cooperation and companionship — don't miss out!",
-      cn: "🆕人英国UK空降🪂小晴儿初次登场奥克兰City！超高颜值，清纯甜美大眼睛，167cm高挑纤细模特身材，体重仅42kg，拥有纯天然小C杯饱满胸型。皮肤雪白细腻，性格温柔体贴，气质优雅迷人。配合度超高，代入感十足，快来预约体验！"
+      en: "Newest UK fly-in 🪂! 167cm student 👩‍🎓 British-chic fairy Qinger makes her first arrival in Auckland! Slender waist with enticing curves and a full D-cup figure. Gentle, caring, and sweet-voiced with refined elegance and 100% cooperation! Available for a short stay only.\n\n📍 Address: 64 Federal St",
+      cn: "最🆕UK空降🪂 167在读学生👩‍🎓 英伦风小仙女晴儿初次抵达AKL！小蛮腰偏瘦但有肉，拥有D杯饱满身材。性格温柔体贴，声音甜甜糯糯🎉🤩 气质小姐姐，配合度💯 🤩🤩✌️🌿🎉🎉😍（短期停留）\n\n📍 地址：64 Federal St"
     },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min · $2800 / 包夜 · $4000 / 一天",
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $2800-$3000 / 8-10h · $4200 / 一天",
     services: {
       en: [
         "Bareback BJ",
@@ -80,6 +80,14 @@ export const girls = [
         "69",
         "丝袜",
         "胸推"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$50"
+      ],
+      cn: [
+        "第二次 +$50"
       ]
     },
     gallery: [
