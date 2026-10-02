@@ -271,7 +271,7 @@ export const girls = [
   {
     id: 29,
     name: { en: "Susu", cn: "素素" },
-    status: "available",
+    status: "unavailable",
     verified: false,
     location: "CBD",
     stats: {
@@ -436,7 +436,7 @@ export const girls = [
   {
     id: 20,
     name: { en: "Xiao Miaomiao", cn: "小缪缪" },
-    status: "available",
+    status: "unavailable",
     verified: true,
     location: "CBD",
     stats: {
@@ -489,7 +489,7 @@ export const girls = [
   {
     id: 23,
     name: { en: "Xiaozhi", cn: "小稚" },
-    status: "available",
+    status: "unavailable",
     verified: true,
     location: "CBD",
     stats: {
@@ -652,7 +652,7 @@ export const girls = [
   {
     id: 21,
     name: { en: "Xiaowanzi", cn: "小丸子" },
-    status: "available",
+    status: "unavailable",
     verified: true,
     location: "CBD",
     stats: {
@@ -830,7 +830,7 @@ export const girls = [
   {
     id: 22,
     name: { en: "Saina", cn: "塞娜" },
-    status: "available",
+    status: "unavailable",
     verified: false,
     location: "CBD",
     stats: {
@@ -983,7 +983,7 @@ export const girls = [
   {
     id: 17,
     name: { en: "Wenye", cn: "温野" },
-    status: "available",
+    status: "unavailable",
     verified: true,
     location: "CBD",
     stats: {
@@ -1452,7 +1452,7 @@ export const girls = [
   {
     id: 4,
     name: { en: "Susu", cn: "苏苏" },
-    status: "available",
+    status: "unavailable",
     verified: true,
     location: "CBD",
     stats: {
