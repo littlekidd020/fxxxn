@@ -1,7 +1,7 @@
 export const girls = [
   {
     id: 32,
-    name: { en: "Xiaoyuanyuan", cn: "小元元" },
+    name: { en: "Xiaoyuanyuan", cn: "小元元（奥大学生兼职）" },
     status: "available",
     verified: true,
     location: "CBD",
@@ -16,7 +16,7 @@ export const girls = [
     video: "/images/girls/xiaoyuanyuan/video.mov",
     description: {
       en: "New arrival! Local University of Auckland student Xiaoyuanyuan is available for a short-term holiday part-time stay. She is 171cm tall with long legs, completely natural features, guaranteed natural D+ curves, fair delicate skin, a slightly fuller figure, and a soft sweet voice. This is her first time and she is highly cooperative. Photos are a true 1:1 representation; she is unable to show her face, thank you for understanding. Limited availability—don't miss out!",
-      cn: "上🆕本地奥大女大学生👩‍🎓小元元假期短期兼职！171大长腿，初下💦初下💦初下💦，纯天然五官、全身0科技🤩😍，皮肤雪白粉嫩，颜值在线，微胖一点点，属于丰满类型，声音柔柔糯糯🎉🤩，服务配合度💯，尤物🤩🤩✌️🌿🎉🎉😍。短期不要错过哦😱😱😱。图片1:1，不方便露脸请见谅。"
+      cn: "上🆕本地奥大女大学生👩‍🎓小元元假期短期兼职171大长🦵初下💦初下💦初下💦纯天然五官全身0️⃣科技🤩 😍皮肤雪白粉嫩 颜值在线 微胖一点点属于丰满类型的 声音柔柔糯糯🎉🤩😱😱服务配合度💯 尤物🤩🤩✌️🌿🎉🎉😍短期不要错过哦😱😱😱\n\n图片1:1不方便露脸请见谅"
     },
     price: "$500 / 1h · $450 / 45min · $400 / 30min · $3000-$3200 / 包夜 · $4500 / 一天",
     services: {
@@ -32,7 +32,7 @@ export const girls = [
       cn: [
         "无套口",
         "陪浴",
-        "舌吻",
+        "蛇吻",
         "69",
         "丝袜",
         "胸推",
