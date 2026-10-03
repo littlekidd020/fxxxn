@@ -15,10 +15,10 @@ export const girls = [
     image: "/images/girls/xiaoyuanyuan/IMG_6099.JPG",
     video: "/images/girls/xiaoyuanyuan/video.mov",
     description: {
-      en: "Brand new arrival! Local University of Auckland student 👩‍🎓 — Xiaoyuanyuan holiday part-time! Standing 171cm tall with slender long legs and 100% natural features with zero cosmetic surgery. Natural verified D+ cup breasts 🐻 (guaranteed authentic). Snow-white delicate skin, doll-like beauty, sweet gentle voice, and 100% service cooperation! Limited short-term holiday availability, don't miss out! 🤩🎉",
-      cn: "🆕人本地奥大女大学生👩‍🎓小元元假期短期兼职！171大长腿，纯天然五官，全身0科技纯天然尤物！纯天然大🐻D+（保真），皮肤雪白粉嫩，颜值在线，声音柔柔糯糯，服务配合度💯！假期短期限定兼职，不要错过哦！🤩🎉🎉"
+      en: "New arrival! Local University of Auckland student Xiaoyuanyuan is available for a short-term holiday part-time stay. She is 171cm tall with long legs, completely natural features, guaranteed natural D+ curves, fair delicate skin, a slightly fuller figure, and a soft sweet voice. This is her first time and she is highly cooperative. Photos are a true 1:1 representation; she is unable to show her face, thank you for understanding. Limited availability—don't miss out!",
+      cn: "上🆕本地奥大女大学生👩‍🎓小元元假期短期兼职！171大长腿，初下💦初下💦初下💦，纯天然五官、全身0科技🤩😍，皮肤雪白粉嫩，颜值在线，微胖一点点，属于丰满类型，声音柔柔糯糯🎉🤩，服务配合度💯，尤物🤩🤩✌️🌿🎉🎉😍。短期不要错过哦😱😱😱。图片1:1，不方便露脸请见谅。"
     },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min",
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3000-$3200 / 包夜 · $4500 / 一天",
     services: {
       en: [
         "Bareback BJ",
