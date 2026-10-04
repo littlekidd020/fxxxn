@@ -7,7 +7,7 @@ export const girls = [
     location: "CBD",
     stats: {
       age: 24,
-      height: "165cm",
+      height: "164cm",
       weight: "44kg",
       cup: "C+ (Natural)",
       nationality: "Chinese"
@@ -15,10 +15,10 @@ export const girls = [
     image: "/images/girls/yuwei/IMG_6137.JPG",
     video: "/images/girls/yuwei/video.mov",
     description: {
-      en: "Brand new fly-in arrival 🪂! Next-door sweetheart Yuwei features gorgeous looks and a stunning hourglass figure. Slender model frame with long legs, delicate fair skin, and a soft, sweet voice. Boasts 100% natural verified C+ curves, top-tier attentive service, and 100% cooperation. Short-term stay only—don't miss out!\n\n📍 Address: 64 Federal St",
-      cn: "最🆕澳洲空降🪂 邻家妹妹气质款🤩 雨薇高颜值魔鬼身材！苗条身材颜值在线😍 皮肤雪白粉嫩，柔柔软软糯糯的声音爱不释手。细细大长腿，身材偏瘦但拥有纯天然真C+杯饱满酥胸，服务天花板，配合度💯 尤物短期停留不要错过！\n\n📍 地址：64 Federal St"
+      en: "Fresh Australian fly-in arrival 🪂! Just landed ✈️! Next-door sweetheart Yuwei features gorgeous looks and a stunning hourglass figure. Slender model frame with long legs, delicate fair skin, and a soft, sweet voice. Boasts 100% natural authentic C+ curves, top-tier service, and wholesome charm. Short-term stay only—don't miss out!\n\n📍 Address: 64 Federal St",
+      cn: "〜最🆕澳洲🦘空降🪂刚落地✈️🛬 邻家妹妹气质款 🤩 苗条身材 颜值在线 皮肤白嫩 柔柔软软糯的声音爱不释手 细细的长腿 绝b衣服架子身材偏瘦 但拥有纯天然真🐻C🥛杯粉ru头 纯良家的服务版😱😱🌿🌿🌿🎉🎉🎉\n\n📍 地址：64 Federal St"
     },
-    price: "$360 / 1h · $300 / 30min",
+    price: "$360 / 1h · $300 / 30min · $2500-$3000 / 包夜 · $4000 / 一天",
     services: {
       en: [
         "Bareback BJ",
