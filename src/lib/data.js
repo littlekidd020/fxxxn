@@ -1,5 +1,68 @@
 export const girls = [
   {
+    id: 34,
+    name: { en: "Cici & Xiaoxun", cn: "Cici & 小寻" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: "25+",
+      height: "156 / 164cm",
+      weight: "44kg & 47kg",
+      cup: "C & C (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/cici_xiaoxun/IMG_6513.JPG",
+    video: "/images/girls/cici_xiaoxun/video.mov",
+    description: {
+      en: "Brand new fly-in arrival! 🪂 Duo sisters blooming together 👭🌷🌷 Elder sister Cici & younger sister Xiaoxun! Fair silky skin with captivating hourglass curves. Cici is the petite, sweet and caring girl-next-door type with a soft, gentle voice; Xiaoxun is an elegant and confident beauty. Unbeatable duo chemistry and 100% cooperation 💯, seamless synchronization! Extremely limited short-term stay—don't miss out!",
+      cn: "最🆕空降🪂双✈️姐妹👭花🌷🌷姐姐👧Cici妹妹🧍‍♀️小寻，白嫩皮肤前凸后翘！Cici小萝莉款，性格温柔体贴，声音甜甜糯糯🎉🤩，反差邻家妹妹；小寻气质御姐范，俩人双✈️配合度💯默契，🉑互摸调情😜🤩🤩✌️🌿🎉🎉😍 短期短期短期，切勿错过！"
+    },
+    price: "$700 / 1h (双人) · $360 / 1h (单人) · $320 / 45min (单人) · $280 / 30min (单人) · $2500 / 8-10小时 · $3500 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide",
+        "Includes 2nd round"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "胸推",
+        "包第二次"
+      ]
+    },
+    extras: {
+      en: [
+        "Cum in mouth +$50",
+        "Rimming (Dragon) +$50",
+        "Sister Cici submissive/M play from $100"
+      ],
+      cn: [
+        "口爆 +$50",
+        "毒龙 +$50",
+        "姐姐Cici偏M调教 $100起"
+      ]
+    },
+    gallery: [
+      "/images/girls/cici_xiaoxun/IMG_6510.JPG",
+      "/images/girls/cici_xiaoxun/IMG_6512.JPG",
+      "/images/girls/cici_xiaoxun/IMG_6511.JPG",
+      "/images/girls/cici_xiaoxun/IMG_6506.JPG",
+      "/images/girls/cici_xiaoxun/IMG_6507.JPG",
+      "/images/girls/cici_xiaoxun/IMG_6509.JPG",
+      "/images/girls/cici_xiaoxun/IMG_6380.JPG",
+      "/images/girls/cici_xiaoxun/IMG_6376.JPG"
+    ]
+  },
+  {
     id: 33,
     name: { en: "Yuwei", cn: "雨薇" },
     status: "available",
