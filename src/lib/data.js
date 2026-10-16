@@ -1,12 +1,12 @@
 export const girls = [
   {
     id: 35,
-    name: { en: "Daeun", cn: "多恩" },
+    name: { en: "Daeun", cn: "多恩（다은 Daeun）" },
     status: "available",
     verified: true,
     location: "CBD",
     stats: {
-      age: 23,
+      age: 22,
       height: "166cm",
       weight: "45kg",
       cup: "C (Natural)",
@@ -15,10 +15,10 @@ export const girls = [
     image: "/images/girls/daeun/IMG_6608.JPG",
     video: "/images/girls/daeun/video.mov",
     description: {
-      en: "Brand new fly-in arrival from Korea 🇰🇷! Introducing Daeun (다은), making her first Auckland appearance! Sweet, high-value visual goddess 😱🤩🎉 Apartment authentic shots, all-natural authentic C cup, 166cm slender figure with long legs, and fair silky skin. Gentle, captivating, and highly cooperative. Extremely limited short-term stay—don't miss out!",
-      cn: "最🆕韩国🇰🇷空降🪂 多恩 (다은 Daeun) 韩妹初次登场AKL！高颜值甜妹😱😱😱🤩🎉 公寓实拍，纯天然真C杯，身高166大长腿，皮肤白嫩，声音软糯，清纯初恋脸搭配魔鬼身材！超高颜值，配合度极佳，极品韩妹短期空降，切勿错过！"
+      en: "Brand new fly-in arrival from Korea 🇰🇷! Top visual Korean beauty Daeun (다은 Daeun), university student 👩‍🎓 who studied abroad in China 🇨🇳; speaks basic Chinese and fluent barrier-free English 👍! First time in Auckland 🛬. Silky fair skin, gentle and caring nature with a sweet, soft voice 🎉🤩. 100% natural authentic C cup, stunning hourglass curves! Highly cooperative with 100% compliance 💯. Limited short-term stay—don't miss out!",
+      cn: "最🆕韩国🇰🇷🪂高颜值韩妹多恩（다은 Daeun）在读学生👩‍🎓曾游学China🇨🇳会一点中文，英文无障碍沟通👍 初次抵达🛬AKL，白嫩嫩皮肤，性格温柔体贴，声音甜甜糯糯🎉🤩 天然真🐻🥛魔鬼身材前凸后翘，🉑✈️服务配合度💯🤩🤩✌️🌿🎉🎉😍 短期 短期 短期"
     },
-    price: "$360 / 1h · $320 / 45min · $280 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
+    price: "$650 / 1h · $600 / 45min · $550 / 30min · $3500-$3800 / 包夜 · $5000 / 一天",
     services: {
       en: [
         "Bareback BJ",
@@ -26,7 +26,9 @@ export const girls = [
         "Deep French Kissing",
         "69",
         "Stockings",
-        "Breast Slide"
+        "Breast Slide",
+        "Uniform/Cosplay",
+        "Massage"
       ],
       cn: [
         "无套口",
@@ -34,17 +36,21 @@ export const girls = [
         "蛇吻",
         "69",
         "丝袜",
-        "胸推"
+        "胸推",
+        "制服诱惑",
+        "按摩"
       ]
     },
     extras: {
       en: [
-        "2nd round +$50",
-        "Cum in mouth +$50"
+        "Cum in mouth +$50",
+        "Rimming (Dragon) +$50",
+        "2nd round +$50"
       ],
       cn: [
-        "第二次 +$50",
-        "口爆 +$50"
+        "口爆 +$50",
+        "毒龙 +$50",
+        "第二次 +$50"
       ]
     },
     gallery: [
