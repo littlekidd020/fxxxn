@@ -1,5 +1,63 @@
 export const girls = [
   {
+    id: 35,
+    name: { en: "Daeun", cn: "多恩" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 23,
+      height: "166cm",
+      weight: "45kg",
+      cup: "C (Natural)",
+      nationality: "Korean"
+    },
+    image: "/images/girls/daeun/IMG_6608.JPG",
+    video: "/images/girls/daeun/video.mov",
+    description: {
+      en: "Brand new fly-in arrival from Korea 🇰🇷! Introducing Daeun (다은), making her first Auckland appearance! Sweet, high-value visual goddess 😱🤩🎉 Apartment authentic shots, all-natural authentic C cup, 166cm slender figure with long legs, and fair silky skin. Gentle, captivating, and highly cooperative. Extremely limited short-term stay—don't miss out!",
+      cn: "最🆕韩国🇰🇷空降🪂 多恩 (다은 Daeun) 韩妹初次登场AKL！高颜值甜妹😱😱😱🤩🎉 公寓实拍，纯天然真C杯，身高166大长腿，皮肤白嫩，声音软糯，清纯初恋脸搭配魔鬼身材！超高颜值，配合度极佳，极品韩妹短期空降，切勿错过！"
+    },
+    price: "$360 / 1h · $320 / 45min · $280 / 30min · $2500-$2800 / 包夜 · $3800 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "胸推"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$50",
+        "Cum in mouth +$50"
+      ],
+      cn: [
+        "第二次 +$50",
+        "口爆 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/daeun/IMG_6617.JPG",
+      "/images/girls/daeun/IMG_6618.JPG",
+      "/images/girls/daeun/IMG_6620.JPG",
+      "/images/girls/daeun/IMG_6624.JPG",
+      "/images/girls/daeun/IMG_6625.JPG",
+      "/images/girls/daeun/IMG_6539.JPG",
+      "/images/girls/daeun/IMG_6541.JPG"
+    ]
+  },
+  {
     id: 34,
     name: { en: "Cici & Xiaoxun", cn: "Cici & 小寻" },
     status: "available",
