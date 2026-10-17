@@ -55,8 +55,6 @@ export const girls = [
     },
     gallery: [
       "/images/girls/daeun/IMG_6618.JPG",
-      "/images/girls/daeun/IMG_6620.JPG",
-      "/images/girls/daeun/IMG_6624.JPG",
       "/images/girls/daeun/IMG_6625.JPG",
       "/images/girls/daeun/IMG_6539.JPG",
       "/images/girls/daeun/IMG_6541.JPG"
