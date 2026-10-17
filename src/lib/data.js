@@ -12,7 +12,7 @@ export const girls = [
       cup: "C (Natural)",
       nationality: "Korean"
     },
-    image: "/images/girls/daeun/IMG_6617.JPG",
+    image: "/images/girls/daeun/IMG_6687.JPG",
     video: "/images/girls/daeun/video.mov",
     description: {
       en: "Brand new fly-in arrival from Korea 🇰🇷! Top visual Korean beauty Daeun (다은 Daeun), university student 👩‍🎓 who studied abroad in China 🇨🇳; speaks basic Chinese and fluent barrier-free English 👍! First time in Auckland 🛬. Silky fair skin, gentle and caring nature with a sweet, soft voice 🎉🤩. 100% natural authentic C cup, stunning hourglass curves! Highly cooperative with 100% compliance 💯. Limited short-term stay—don't miss out!",
@@ -54,13 +54,13 @@ export const girls = [
       ]
     },
     gallery: [
+      "/images/girls/daeun/IMG_6688.JPG",
+      "/images/girls/daeun/IMG_6689.JPG",
+      "/images/girls/daeun/IMG_6617.JPG",
       "/images/girls/daeun/IMG_6618.JPG",
       "/images/girls/daeun/IMG_6625.JPG",
       "/images/girls/daeun/IMG_6539.JPG",
-      "/images/girls/daeun/IMG_6541.JPG",
-      "/images/girls/daeun/IMG_6687.JPG",
-      "/images/girls/daeun/IMG_6688.JPG",
-      "/images/girls/daeun/IMG_6689.JPG"
+      "/images/girls/daeun/IMG_6541.JPG"
     ]
   },
   {
