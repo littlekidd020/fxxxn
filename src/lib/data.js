@@ -57,7 +57,10 @@ export const girls = [
       "/images/girls/daeun/IMG_6618.JPG",
       "/images/girls/daeun/IMG_6625.JPG",
       "/images/girls/daeun/IMG_6539.JPG",
-      "/images/girls/daeun/IMG_6541.JPG"
+      "/images/girls/daeun/IMG_6541.JPG",
+      "/images/girls/daeun/IMG_6687.JPG",
+      "/images/girls/daeun/IMG_6688.JPG",
+      "/images/girls/daeun/IMG_6689.JPG"
     ]
   },
   {
