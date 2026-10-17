@@ -124,15 +124,17 @@ const GirlProfileOverlay = ({ model, onClose, onNext, onPrev }) => {
             <StatItem icon={Heart} label={t.girl.breast} value={model.stats.cup} />
           </div>
 
-          <div className="space-y-4">
-            <h4 className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans flex items-center gap-2">
-              <Play size={10} fill="#9C7C3C" /> {t.grid.verification}
-            </h4>
-            <TrustVideo 
-              src={model.video || "https://joy1.videvo.net/videvo_files/video/premium/getty_14/1080p/201211_076_Woman_In_Silk_Robe_1_1080p.mp4"} 
-              poster={model.image} 
-            />
-          </div>
+          {model.video && (
+            <div className="space-y-4">
+              <h4 className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans flex items-center gap-2">
+                <Play size={10} fill="#9C7C3C" /> {t.grid.verification}
+              </h4>
+              <TrustVideo 
+                src={model.video} 
+                poster={model.image} 
+              />
+            </div>
+          )}
 
           <div className="space-y-4">
             <h4 className="text-[10px] uppercase tracking-widest text-emerald font-bold font-sans flex items-center gap-2">

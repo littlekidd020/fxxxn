@@ -13,7 +13,6 @@ export const girls = [
       nationality: "Korean"
     },
     image: "/images/girls/daeun/IMG_6687.JPG",
-    video: "/images/girls/daeun/video.mov",
     description: {
       en: "Brand new fly-in arrival from Korea 🇰🇷! Top visual Korean beauty Daeun (다은 Daeun), university student 👩‍🎓 who studied abroad in China 🇨🇳; speaks basic Chinese and fluent barrier-free English 👍! First time in Auckland 🛬. Silky fair skin, gentle and caring nature with a sweet, soft voice 🎉🤩. 100% natural authentic C cup, stunning hourglass curves! Highly cooperative with 100% compliance 💯. Limited short-term stay—don't miss out!",
       cn: "最🆕韩国🇰🇷🪂高颜值韩妹多恩（다은 Daeun）在读学生👩‍🎓曾游学China🇨🇳会一点中文，英文无障碍沟通👍 初次抵达🛬AKL，白嫩嫩皮肤，性格温柔体贴，声音甜甜糯糯🎉🤩 天然真🐻🥛魔鬼身材前凸后翘，🉑✈️服务配合度💯🤩🤩✌️🌿🎉🎉😍 短期 短期 短期"
