@@ -8,45 +8,45 @@ export const girls = [
     stats: {
       age: 20,
       height: "171cm",
-      weight: "49kg",
+      weight: "50kg",
       cup: "D+ (Natural)",
       nationality: "Thailand"
     },
     image: "/images/girls/faye/IMG_7007.JPG",
     video: "/images/girls/faye/video.mov",
     description: {
-      en: "Brand new arrival! Faye (语橙), local ABC Thai beauty and university student 👩‍🎓 doing exclusive daytime part-time! Born in 2006 (verified authentic passport). Gorgeous visuals, 171cm tall model figure with captivating curves, 100% natural authentic D+ bust (physically verified), 49kg, and sexy sun-kissed skin. Skilled in authentic traditional Thai massage 👍, sweet, gentle and considerate with top-tier cooperation 💯! Limited daytime schedule—advance booking recommended!",
-      cn: "最🆕本地ABC泰国🇹🇭妹子Faye（语橙）！真实06年女大学生👩‍🎓白天短期兼职，超高颜值，171高挑模特身材，纯天然真实D+大胸🥛（保真已验已核实），健康性感小麦色肌肤，前凸后翘魔鬼身材！正宗专业泰式Thai Massage手法一流👍，性格温柔体贴，服务配合度极佳💯！短期兼职名额有限，切勿错过！"
+      en: "Local ABC Thai student 👩‍🎓 born locally! Sexy sun-kissed wheat 🌾 complexion, sweet and pure charm, gentle and attentive with exceptional cooperation 💯. Professionally trained in traditional Thai massage with superb technique 👍. 171cm model figure with natural authentic D+ curves! (Note: Safe service with protection only).",
+      cn: "本地出生🐣ABC泰裔本地学生👩‍🎓！泰妹皮肤小麦🌾色，清纯系高颜值小女生，乖巧听话，配合度极高💯！专门学过泰式按摩，技师手法杠杠的👍！高挑171模特身材，保真纯天然D➕美胸！【注：安全服务，全程保护】"
     },
     price: "$340 / 1h · $260 / 30min · $160 / 1h (Half)",
     services: {
       en: [
         "Thai Massage",
-        "Shower together",
-        "French Kissing (Light)",
+        "Sensual Fingertip Slide",
+        "Body Glide",
+        "Kissing",
         "BJ (With Protection)",
         "69",
         "Stockings",
-        "Body Glide",
-        "Breast Slide"
+        "Includes 2nd round"
       ],
       cn: [
         "泰式按摩",
-        "陪浴",
-        "浅吻",
+        "指划",
+        "全身漫游",
+        "Kiss",
         "带套口",
         "69",
         "丝袜",
-        "全身漫游",
-        "胸推"
+        "第二次"
       ]
     },
     extras: {
       en: [
-        "2nd round (1h booking only)"
+        "Note: Safe service with protection only"
       ],
       cn: [
-        "第二次（限1小时预约）"
+        "安全服务：全程保护（禁无套）"
       ]
     },
     gallery: [
