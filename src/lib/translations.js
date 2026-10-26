@@ -64,6 +64,7 @@ export const translations = {
         "Japanese-Chinese": "日裔华籍",
         "Vietnamese": "越南",
         "Thailand": "泰国",
+        "Thai": "泰国",
         "Taiwanese": "台湾"
       },
       locations: {
@@ -193,6 +194,7 @@ export const translations = {
         "Japanese-Chinese": "Japanese-Chinese",
         "Vietnamese": "Vietnamese",
         "Thailand": "Thailand",
+        "Thai": "Thai",
         "Taiwanese": "Taiwanese"
       },
       locations: {

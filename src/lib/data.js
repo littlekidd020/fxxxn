@@ -1,5 +1,65 @@
 export const girls = [
   {
+    id: 36,
+    name: { en: "Faye", cn: "Faye（语橙）" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 20,
+      height: "171cm",
+      weight: "49kg",
+      cup: "D+ (Natural)",
+      nationality: "Thailand"
+    },
+    image: "/images/girls/faye/IMG_7007.JPG",
+    video: "/images/girls/faye/video.mov",
+    description: {
+      en: "Brand new arrival! Faye (语橙), local ABC Thai beauty and university student 👩‍🎓 doing exclusive daytime part-time! Born in 2006 (verified authentic passport). Gorgeous visuals, 171cm tall model figure with captivating curves, 100% natural authentic D+ bust (physically verified), 49kg, and sexy sun-kissed skin. Skilled in authentic traditional Thai massage 👍, sweet, gentle and considerate with top-tier cooperation 💯! Limited daytime schedule—advance booking recommended!",
+      cn: "最🆕本地ABC泰国🇹🇭妹子Faye（语橙）！真实06年女大学生👩‍🎓白天短期兼职，超高颜值，171高挑模特身材，纯天然真实D+大胸🥛（保真已验已核实），健康性感小麦色肌肤，前凸后翘魔鬼身材！正宗专业泰式Thai Massage手法一流👍，性格温柔体贴，服务配合度极佳💯！短期兼职名额有限，切勿错过！"
+    },
+    price: "$340 / 1h · $260 / 30min · $160 / 1h (Half)",
+    services: {
+      en: [
+        "Thai Massage",
+        "Shower together",
+        "French Kissing (Light)",
+        "BJ (With Protection)",
+        "69",
+        "Stockings",
+        "Body Glide",
+        "Breast Slide"
+      ],
+      cn: [
+        "泰式按摩",
+        "陪浴",
+        "浅吻",
+        "带套口",
+        "69",
+        "丝袜",
+        "全身漫游",
+        "胸推"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round (1h booking only)"
+      ],
+      cn: [
+        "第二次（限1小时预约）"
+      ]
+    },
+    gallery: [
+      "/images/girls/faye/IMG_7015.JPG",
+      "/images/girls/faye/IMG_7018.JPG",
+      "/images/girls/faye/IMG_7021.JPG",
+      "/images/girls/faye/IMG_7006.JPG",
+      "/images/girls/faye/IMG_7014.JPG",
+      "/images/girls/faye/IMG_6966.JPG",
+      "/images/girls/faye/IMG_6962.JPG"
+    ]
+  },
+  {
     id: 35,
     name: { en: "Daeun", cn: "多恩（다은 Daeun）" },
     status: "available",
