@@ -8,45 +8,45 @@ export const girls = [
     stats: {
       age: 24,
       height: "165cm",
-      weight: "46kg",
-      cup: "B (Natural)",
+      weight: "45kg",
+      cup: "B-C",
       nationality: "Korean"
     },
     image: "/images/girls/zhixin/IMG_7225.JPG",
     video: "/images/girls/zhixin/video.mov",
     description: {
-      en: "Brand new fly-in arrival from Korea 🇰🇷! Introducing Zhixin, born in 2002, making her Auckland debut! Sweet, youthful Korean beauty with a pure first-love charm. 165cm slender and shapely figure, natural B cup, silky fair skin, schoolgirl uniform vibe, and gentle, highly cooperative personality. Limited short-term stay—don't miss out!",
-      cn: "最🆕韩国🇰🇷空降🪂 智欣！02年清纯系韩妹初次登场AKL！纯真甜美初恋脸，165高挑苗条魔鬼身材，天然真实B杯，白嫩肌肤，学生风制服诱惑，气质甜美乖巧，服务配合度极佳！极品韩妹短期空降，切勿错过！"
+      en: "Brand new Korean arrival! Zhixin (02') is a youthful and stunning Korean beauty with an elegant presence. Silky, porcelain-fair skin and pure, delicate facial features. Slender and youthful silhouette with graceful, captivating curves. Sweet, refreshing charm infused with subtle sensuality—authentic Korean allure that makes hearts flutter!",
+      cn: "最🆕韩国🇰🇷空降🪂 智欣！年轻漂亮的韩国气质美女，02年，白皙细腻的肌肤，清纯精致的五官，身材白幼纤细，曲线柔美迷人！清新甜美中透着一丝性感妩媚，举手投足间尽显韩女魅力，令人怦然心动！"
     },
-    price: "$350 / 1h · $300 / 45min · $260 / 30min · $2500 / 包夜 · $3800 / 一天",
+    price: "$350 / 1h · $280 / 30min · $2500 / 包夜 · $3500 / 一天",
     services: {
       en: [
-        "Bareback BJ",
+        "BJ (With Protection)",
         "Shower together",
-        "Deep French Kissing",
-        "69",
-        "Stockings",
-        "Breast Slide",
-        "Uniform/Cosplay"
+        "Kissing",
+        "Black Stockings",
+        "1 Shot"
       ],
       cn: [
-        "无套口",
+        "带套口",
         "陪浴",
-        "蛇吻",
-        "69",
-        "丝袜",
-        "胸推",
-        "制服诱惑"
+        "亲亲",
+        "黑丝",
+        "爱1次"
       ]
     },
     extras: {
       en: [
-        "2nd round +$50",
-        "Cum in mouth +$50"
+        "Bareback BJ +$40",
+        "69 +$40",
+        "2nd round +$60",
+        "VIP Package (+$120): Bareback BJ + 69 + 2nd round"
       ],
       cn: [
-        "第二次 +$50",
-        "口爆 +$50"
+        "无套口 +$40",
+        "69 +$40",
+        "第二次 +$60",
+        "VIP套餐 (+$120)：无套口 + 69 + 第二次"
       ]
     },
     gallery: [
