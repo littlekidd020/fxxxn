@@ -1,5 +1,61 @@
 export const girls = [
   {
+    id: 37,
+    name: { en: "Zhixin", cn: "智欣" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "165cm",
+      weight: "46kg",
+      cup: "B (Natural)",
+      nationality: "Korean"
+    },
+    image: "/images/girls/zhixin/IMG_7225.JPG",
+    video: "/images/girls/zhixin/video.mov",
+    description: {
+      en: "Brand new fly-in arrival from Korea 🇰🇷! Introducing Zhixin, born in 2002, making her Auckland debut! Sweet, youthful Korean beauty with a pure first-love charm. 165cm slender and shapely figure, natural B cup, silky fair skin, schoolgirl uniform vibe, and gentle, highly cooperative personality. Limited short-term stay—don't miss out!",
+      cn: "最🆕韩国🇰🇷空降🪂 智欣！02年清纯系韩妹初次登场AKL！纯真甜美初恋脸，165高挑苗条魔鬼身材，天然真实B杯，白嫩肌肤，学生风制服诱惑，气质甜美乖巧，服务配合度极佳！极品韩妹短期空降，切勿错过！"
+    },
+    price: "$350 / 1h · $300 / 45min · $260 / 30min · $2500 / 包夜 · $3800 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide",
+        "Uniform/Cosplay"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "胸推",
+        "制服诱惑"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$50",
+        "Cum in mouth +$50"
+      ],
+      cn: [
+        "第二次 +$50",
+        "口爆 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/zhixin/IMG_7226.JPG",
+      "/images/girls/zhixin/IMG_7227.JPG",
+      "/images/girls/zhixin/IMG_7228.JPG"
+    ]
+  },
+  {
     id: 36,
     name: { en: "Faye", cn: "Faye（语橙）" },
     status: "available",
