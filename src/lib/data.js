@@ -243,68 +243,6 @@ export const girls = [
     ]
   },
   {
-    id: 33,
-    name: { en: "Yuwei", cn: "雨薇" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 24,
-      height: "164cm",
-      weight: "44kg",
-      cup: "C+ (Natural)",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/yuwei/IMG_6137.JPG",
-    video: "/images/girls/yuwei/video.mov",
-    description: {
-      en: "Fresh Australian fly-in arrival 🪂! Just landed ✈️! Next-door sweetheart Yuwei features gorgeous looks and a stunning hourglass figure. Slender model frame with long legs, delicate fair skin, and a soft, sweet voice. Boasts 100% natural authentic C+ curves, top-tier service, and wholesome charm. Short-term stay only—don't miss out!",
-      cn: "〜最🆕澳洲🦘空降🪂刚落地✈️🛬 邻家妹妹气质款 🤩 苗条身材 颜值在线 皮肤白嫩 柔柔软软糯的声音爱不释手 细细的长腿 绝b衣服架子身材偏瘦 但拥有纯天然真🐻C🥛杯粉ru头 纯良家的服务版😱😱🌿🌿🌿🎉🎉🎉"
-    },
-    price: "$360 / 1h · $300 / 30min · $2500-$3000 / 包夜 · $4000 / 一天",
-    services: {
-      en: [
-        "Bareback BJ",
-        "Shower together",
-        "Deep French Kissing",
-        "69",
-        "Stockings",
-        "Fingertip Slide"
-      ],
-      cn: [
-        "无套口",
-        "陪浴",
-        "蛇吻",
-        "69",
-        "丝袜",
-        "指划"
-      ]
-    },
-    extras: {
-      en: [
-        "2nd round +$50",
-        "Cum in mouth +$50",
-        "Professional S/Dom +$50"
-      ],
-      cn: [
-        "第二次 +$50",
-        "口爆 +$50",
-        "专业S +$50"
-      ]
-    },
-    gallery: [
-      "/images/girls/yuwei/IMG_6138.JPG",
-      "/images/girls/yuwei/IMG_6135.JPG",
-      "/images/girls/yuwei/IMG_6139.JPG",
-      "/images/girls/yuwei/IMG_6140.JPG",
-      "/images/girls/yuwei/IMG_6151.JPG",
-      "/images/girls/yuwei/IMG_6158.JPG",
-      "/images/girls/yuwei/IMG_6141.JPG",
-      "/images/girls/yuwei/IMG_6142.JPG",
-      "/images/girls/yuwei/IMG_6143.JPG"
-    ]
-  },
-  {
     id: 32,
     name: { en: "Xiaoyuanyuan", cn: "小元元（奥大学生兼职）" },
     status: "available",
@@ -460,6 +398,68 @@ export const girls = [
     gallery: [
       "/images/girls/gaoduanmanghe/2026-09-25-02.png",
       "/images/girls/gaoduanmanghe/2026-09-25-03.png"
+    ]
+  },
+  {
+    id: 33,
+    name: { en: "Yuwei", cn: "雨薇" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "164cm",
+      weight: "44kg",
+      cup: "C+ (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/yuwei/IMG_6137.JPG",
+    video: "/images/girls/yuwei/video.mov",
+    description: {
+      en: "Fresh Australian fly-in arrival 🪂! Just landed ✈️! Next-door sweetheart Yuwei features gorgeous looks and a stunning hourglass figure. Slender model frame with long legs, delicate fair skin, and a soft, sweet voice. Boasts 100% natural authentic C+ curves, top-tier service, and wholesome charm. Short-term stay only—don't miss out!",
+      cn: "〜最🆕澳洲🦘空降🪂刚落地✈️🛬 邻家妹妹气质款 🤩 苗条身材 颜值在线 皮肤白嫩 柔柔软软糯的声音爱不释手 细细的长腿 绝b衣服架子身材偏瘦 但拥有纯天然真🐻C🥛杯粉ru头 纯良家的服务版😱😱🌿🌿🌿🎉🎉🎉"
+    },
+    price: "$360 / 1h · $300 / 30min · $2500-$3000 / 包夜 · $4000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Fingertip Slide"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "指划"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$50",
+        "Cum in mouth +$50",
+        "Professional S/Dom +$50"
+      ],
+      cn: [
+        "第二次 +$50",
+        "口爆 +$50",
+        "专业S +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/yuwei/IMG_6138.JPG",
+      "/images/girls/yuwei/IMG_6135.JPG",
+      "/images/girls/yuwei/IMG_6139.JPG",
+      "/images/girls/yuwei/IMG_6140.JPG",
+      "/images/girls/yuwei/IMG_6151.JPG",
+      "/images/girls/yuwei/IMG_6158.JPG",
+      "/images/girls/yuwei/IMG_6141.JPG",
+      "/images/girls/yuwei/IMG_6142.JPG",
+      "/images/girls/yuwei/IMG_6143.JPG"
     ]
   },
   {
