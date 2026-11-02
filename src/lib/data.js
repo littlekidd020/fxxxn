@@ -13,7 +13,7 @@ export const girls = [
       nationality: "Chinese"
     },
     image: "/images/girls/xiaoxigua/IMG_7231.JPG",
-    video: "/images/girls/xiaoxigua/video.mov",
+    video: "/images/girls/xiaoxigua/video.mp4",
     description: {
       en: "Brand new domestic fly-in arrival 🪂! Xiaoxigua (Watermelon) 🍉 with gorgeous looks and slender long legs 🦵! A tall northern Chinese beauty making her Auckland debut 🛬. Highlight ⚠️: Silky snow-white fair skin 🤩! Gentle, sweet, and considerate—a stunning royal sister with the charm of a sweet girl 🎉🤩. Fitness body with seductive hourglass curves. Duo/threesome available, 100% service cooperation 💯🤩🤩✌️🌿🎉🎉😍 Limited short-term stay!",
       cn: "最🆕国内🪂 小西瓜🍉！高颜值大长腿🦵北方姑娘初次抵达🛬AKL！重点⚠️白嫩嫩皮肤雪白的那种🤩！性格温柔体贴，北方御姐姑娘的反差甜妹子🎉🤩！健身系女生魔鬼身材前凸后翘，🉑双✈️服务配合度💯🤩🤩✌️🌿🎉🎉😍短期 短期 短期"
