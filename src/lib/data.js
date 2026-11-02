@@ -1,5 +1,65 @@
 export const girls = [
   {
+    id: 38,
+    name: { en: "Xiaoxigua", cn: "小西瓜" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 23,
+      height: "167cm",
+      weight: "46kg",
+      cup: "C (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/xiaoxigua/IMG_7231.JPG",
+    video: "/images/girls/xiaoxigua/video.mov",
+    description: {
+      en: "Brand new fly-in arrival from China 🪂! Introducing Xiaoxigua (Watermelon), a 23-year-old fitness goddess making her Auckland debut! Standing 167cm tall with long legs, 46kg toned and slender frame, natural authentic C-cup bust, and captivating hourglass curves. Silky fair skin, gorgeous features, vibrant charm, and top-tier service cooperation. Limited short-term stay—don't miss out!",
+      cn: "最🆕国内空降🪂 小西瓜🍉！23岁高颜值健身系女神初次登场AKL！拥有167cm高挑身材与性感大长腿，46kg苗条曼妙，保真纯天然C杯美胸，紧致健美的前凸后翘S曲线！皮肤白嫩细腻，五官精致迷人，甜美充满活力，服务配合度极佳！国内空降极品女神短期停留，切勿错过！"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $2800-$3200 / 包夜 · $4500 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide",
+        "Uniform/Cosplay",
+        "Massage"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "胸推",
+        "制服诱惑",
+        "按摩"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$50",
+        "Cum in mouth +$50"
+      ],
+      cn: [
+        "第二次 +$50",
+        "口爆 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/xiaoxigua/IMG_7235.JPG",
+      "/images/girls/xiaoxigua/IMG_7236.JPG",
+      "/images/girls/xiaoxigua/IMG_7237.JPG",
+      "/images/girls/xiaoxigua/IMG_7238.JPG",
+      "/images/girls/xiaoxigua/IMG_7243.JPG"
+    ]
+  },
+  {
     id: 37,
     name: { en: "Zhixin", cn: "智欣" },
     status: "available",
