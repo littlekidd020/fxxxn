@@ -403,7 +403,7 @@ export const girls = [
   {
     id: 33,
     name: { en: "Yuwei", cn: "雨薇" },
-    status: "available",
+    status: "unavailable",
     verified: true,
     location: "CBD",
     stats: {
