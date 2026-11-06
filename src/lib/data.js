@@ -296,7 +296,9 @@ export const girls = [
       "/images/girls/xiaoyuanyuan/IMG_6091.JPG",
       "/images/girls/xiaoyuanyuan/IMG_6090.JPG",
       "/images/girls/xiaoyuanyuan/IMG_6100.JPG",
-      "/images/girls/xiaoyuanyuan/IMG_6107.JPG"
+      "/images/girls/xiaoyuanyuan/IMG_6107.JPG",
+      "/images/girls/xiaoyuanyuan/IMG_7416.JPG",
+      "/images/girls/xiaoyuanyuan/IMG_7417.JPG"
     ]
   },
   {
