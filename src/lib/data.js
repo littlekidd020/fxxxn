@@ -258,8 +258,8 @@ export const girls = [
     image: "/images/girls/xiaoyuanyuan/IMG_6099.JPG",
     video: "/images/girls/xiaoyuanyuan/video.mov",
     description: {
-      en: "New arrival! Local University of Auckland student Xiaoyuanyuan is available for a short-term part-time stay. She is 171cm tall with long legs, completely natural features, guaranteed natural D+ curves, fair delicate skin, a slightly fuller curvy figure, and a soft sweet voice. Making her debut due to urgent study funding needs—hoping for lots of support from Auckland gentlemen! 100% service cooperation. Photos are a true 1:1 representation; she is unable to show her face, thank you for understanding.",
-      cn: "上🆕本地奥大女大学生👩‍🎓小元元短期兼职171大长🦵初下💦初下💦初下💦纯天然五官全身0️⃣科技🤩 😍皮肤雪白粉嫩 颜值在线 微胖一点点？属于丰man类型福气身材 声音柔柔糯糯🎉🤩😱😱服务配合度💯 尤物🤩🤩✌️🌿🎉🎉\n⚠️‼️因读书📚经费急缺下💦希望akl大哥们多多支持她🙏⚠️‼️\n图片1:1不方便露脸请见谅"
+      en: "New arrival! Local University of Auckland student Xiaoyuanyuan is available for a short-term part-time stay. She is 171cm tall with long legs, completely natural features, guaranteed natural D+ curves, fair delicate skin, a slightly fuller curvy figure, and a soft sweet voice. 100% service cooperation. Photos are a true 1:1 representation; she is unable to show her face, thank you for understanding.",
+      cn: "上🆕本地奥大女大学生👩‍🎓小元元短期兼职171大长🦵初下💦初下💦初下💦纯天然五官全身0️⃣科技🤩 😍皮肤雪白粉嫩 颜值在线 微胖一点点？属于丰man类型福气身材 声音柔柔糯糯🎉🤩😱😱服务配合度💯 尤物🤩🤩✌️🌿🎉🎉\n图片1:1不方便露脸请见谅"
     },
     price: "$360 / 1h · $300 / 30min · $3000 / 包夜 · $4000 / 一天",
     services: {
