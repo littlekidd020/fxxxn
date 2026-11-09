@@ -12,7 +12,7 @@ export const girls = [
       cup: "D+ (Natural)",
       nationality: "Chinese"
     },
-    image: "/images/girls/xiaoyuanyuan/IMG_6100.JPG",
+    image: "/images/girls/xiaoyuanyuan/IMG_6107.JPG",
     video: "/images/girls/xiaoyuanyuan/video.mov",
     description: {
       en: "New arrival! Local University of Auckland student Xiaoyuanyuan is available for a short-term part-time stay. She is 171cm tall with long legs, completely natural features, guaranteed natural D+ curves, fair delicate skin, a slightly fuller curvy figure, and a soft sweet voice. 100% service cooperation. Photos are a true 1:1 representation; she is unable to show her face, thank you for understanding.",
@@ -50,7 +50,7 @@ export const girls = [
       ]
     },
     gallery: [
-      "/images/girls/xiaoyuanyuan/IMG_6107.JPG",
+      "/images/girls/xiaoyuanyuan/IMG_6100.JPG",
       "/images/girls/xiaoyuanyuan/IMG_6099.JPG",
       "/images/girls/xiaoyuanyuan/IMG_6091.JPG",
       "/images/girls/xiaoyuanyuan/IMG_6090.JPG",
