@@ -100,13 +100,13 @@ export const girls = [
         "Bareback BJ +$40",
         "69 +$40",
         "2nd round +$60",
-        "VIP Package (+$120): Bareback BJ + 69 + 2nd round"
+        "VIP Package (+$100): Bareback BJ + 69 + 2nd round"
       ],
       cn: [
         "无套口 +$40",
         "69 +$40",
         "第二次 +$60",
-        "VIP套餐 (+$120)：无套口 + 69 + 第二次"
+        "VIP套餐 (+$100)：无套口 + 69 + 第二次"
       ]
     },
     gallery: [
