@@ -1,65 +1,5 @@
 export const girls = [
   {
-    id: 38,
-    name: { en: "Xiaoxigua", cn: "小西瓜" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 24,
-      height: "167cm",
-      weight: "45kg",
-      cup: "B-C (Natural)",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/xiaoxigua/IMG_7231.JPG",
-    video: "/images/girls/xiaoxigua/video.mp4",
-    description: {
-      en: "Brand new domestic fly-in arrival 🪂! Xiaoxigua (Watermelon) 🍉 with gorgeous looks and slender long legs 🦵! A tall northern Chinese beauty making her Auckland debut 🛬. Highlight ⚠️: Silky snow-white fair skin 🤩! Gentle, sweet, and considerate—a stunning royal sister with the charm of a sweet girl 🎉🤩. Fitness body with seductive hourglass curves. Duo/threesome available, 100% service cooperation 💯🤩🤩✌️🌿🎉🎉😍 Limited short-term stay!",
-      cn: "最🆕国内🪂 小西瓜🍉！高颜值大长腿🦵北方姑娘初次抵达🛬AKL！重点⚠️白嫩嫩皮肤雪白的那种🤩！性格温柔体贴，北方御姐姑娘的反差甜妹子🎉🤩！健身系女生魔鬼身材前凸后翘，🉑双✈️服务配合度💯🤩🤩✌️🌿🎉🎉😍短期 短期 短期"
-    },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3500 / 包夜 · $4500 / 一天",
-    services: {
-      en: [
-        "Bareback BJ",
-        "Shower together",
-        "Deep French Kissing",
-        "69",
-        "Stockings",
-        "Breast Slide",
-        "Uniform/Cosplay",
-        "Massage",
-        "Duo Available"
-      ],
-      cn: [
-        "无套口",
-        "陪浴",
-        "蛇吻",
-        "69",
-        "丝袜",
-        "胸推",
-        "制服诱惑",
-        "按摩",
-        "可双飞"
-      ]
-    },
-    extras: {
-      en: [
-        "2nd round +$100"
-      ],
-      cn: [
-        "第二次 +$100"
-      ]
-    },
-    gallery: [
-      "/images/girls/xiaoxigua/IMG_7235.JPG",
-      "/images/girls/xiaoxigua/IMG_7236.JPG",
-      "/images/girls/xiaoxigua/IMG_7237.JPG",
-      "/images/girls/xiaoxigua/IMG_7238.JPG",
-      "/images/girls/xiaoxigua/IMG_7243.JPG"
-    ]
-  },
-  {
     id: 37,
     name: { en: "Zhixin", cn: "智欣" },
     status: "available",
@@ -522,6 +462,66 @@ export const girls = [
       "/images/girls/kc/IMG_5780.JPG",
       "/images/girls/kc/IMG_5781.JPG",
       "/images/girls/kc/IMG_5782.JPG"
+    ]
+  },
+  {
+    id: 38,
+    name: { en: "Xiaoxigua", cn: "小西瓜" },
+    status: "unavailable",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "167cm",
+      weight: "45kg",
+      cup: "B-C (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/xiaoxigua/IMG_7231.JPG",
+    video: "/images/girls/xiaoxigua/video.mp4",
+    description: {
+      en: "Brand new domestic fly-in arrival 🪂! Xiaoxigua (Watermelon) 🍉 with gorgeous looks and slender long legs 🦵! A tall northern Chinese beauty making her Auckland debut 🛬. Highlight ⚠️: Silky snow-white fair skin 🤩! Gentle, sweet, and considerate—a stunning royal sister with the charm of a sweet girl 🎉🤩. Fitness body with seductive hourglass curves. Duo/threesome available, 100% service cooperation 💯🤩🤩✌️🌿🎉🎉😍 Limited short-term stay!",
+      cn: "最🆕国内🪂 小西瓜🍉！高颜值大长腿🦵北方姑娘初次抵达🛬AKL！重点⚠️白嫩嫩皮肤雪白的那种🤩！性格温柔体贴，北方御姐姑娘的反差甜妹子🎉🤩！健身系女生魔鬼身材前凸后翘，🉑双✈️服务配合度💯🤩🤩✌️🌿🎉🎉😍短期 短期 短期"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3500 / 包夜 · $4500 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide",
+        "Uniform/Cosplay",
+        "Massage",
+        "Duo Available"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "胸推",
+        "制服诱惑",
+        "按摩",
+        "可双飞"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$100"
+      ],
+      cn: [
+        "第二次 +$100"
+      ]
+    },
+    gallery: [
+      "/images/girls/xiaoxigua/IMG_7235.JPG",
+      "/images/girls/xiaoxigua/IMG_7236.JPG",
+      "/images/girls/xiaoxigua/IMG_7237.JPG",
+      "/images/girls/xiaoxigua/IMG_7238.JPG",
+      "/images/girls/xiaoxigua/IMG_7243.JPG"
     ]
   },
   {
