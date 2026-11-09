@@ -59,62 +59,6 @@ export const girls = [
     ]
   },
   {
-    id: 37,
-    name: { en: "Zhixin", cn: "智欣" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 24,
-      height: "165cm",
-      weight: "45kg",
-      cup: "B-C",
-      nationality: "Korean"
-    },
-    image: "/images/girls/zhixin/IMG_7225.JPG",
-    video: "/images/girls/zhixin/video.mov",
-    description: {
-      en: "Brand new Korean arrival! Zhixin (02') is a youthful and stunning Korean beauty with an elegant presence. Silky, porcelain-fair skin and pure, delicate facial features. Slender and youthful silhouette with graceful, captivating curves. Sweet, refreshing charm infused with subtle sensuality—authentic Korean allure that makes hearts flutter!",
-      cn: "最🆕韩国🇰🇷空降🪂 智欣！年轻漂亮的韩国气质美女，02年，白皙细腻的肌肤，清纯精致的五官，身材白幼纤细，曲线柔美迷人！清新甜美中透着一丝性感妩媚，举手投足间尽显韩女魅力，令人怦然心动！"
-    },
-    price: "$350 / 1h · $280 / 30min · $2500 / 包夜 · $3500 / 一天",
-    services: {
-      en: [
-        "BJ (With Protection)",
-        "Shower together",
-        "Kissing",
-        "Black Stockings",
-        "1 Shot"
-      ],
-      cn: [
-        "带套口",
-        "陪浴",
-        "亲亲",
-        "黑丝",
-        "爱1次"
-      ]
-    },
-    extras: {
-      en: [
-        "Bareback BJ +$40",
-        "69 +$40",
-        "2nd round +$60",
-        "VIP Package (+$100): Bareback BJ + 69 + 2nd round"
-      ],
-      cn: [
-        "无套口 +$40",
-        "69 +$40",
-        "第二次 +$60",
-        "VIP套餐 (+$100)：无套口 + 69 + 第二次"
-      ]
-    },
-    gallery: [
-      "/images/girls/zhixin/IMG_7226.JPG",
-      "/images/girls/zhixin/IMG_7227.JPG",
-      "/images/girls/zhixin/IMG_7228.JPG"
-    ]
-  },
-  {
     id: 36,
     name: { en: "Faye", cn: "Faye（语橙）" },
     status: "available",
@@ -172,6 +116,62 @@ export const girls = [
       "/images/girls/faye/IMG_7014.JPG",
       "/images/girls/faye/IMG_6966.JPG",
       "/images/girls/faye/IMG_6962.JPG"
+    ]
+  },
+  {
+    id: 37,
+    name: { en: "Zhixin", cn: "智欣" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "165cm",
+      weight: "45kg",
+      cup: "B-C",
+      nationality: "Korean"
+    },
+    image: "/images/girls/zhixin/IMG_7225.JPG",
+    video: "/images/girls/zhixin/video.mov",
+    description: {
+      en: "Brand new Korean arrival! Zhixin (02') is a youthful and stunning Korean beauty with an elegant presence. Silky, porcelain-fair skin and pure, delicate facial features. Slender and youthful silhouette with graceful, captivating curves. Sweet, refreshing charm infused with subtle sensuality—authentic Korean allure that makes hearts flutter!",
+      cn: "最🆕韩国🇰🇷空降🪂 智欣！年轻漂亮的韩国气质美女，02年，白皙细腻的肌肤，清纯精致的五官，身材白幼纤细，曲线柔美迷人！清新甜美中透着一丝性感妩媚，举手投足间尽显韩女魅力，令人怦然心动！"
+    },
+    price: "$350 / 1h · $280 / 30min · $2500 / 包夜 · $3500 / 一天",
+    services: {
+      en: [
+        "BJ (With Protection)",
+        "Shower together",
+        "Kissing",
+        "Black Stockings",
+        "1 Shot"
+      ],
+      cn: [
+        "带套口",
+        "陪浴",
+        "亲亲",
+        "黑丝",
+        "爱1次"
+      ]
+    },
+    extras: {
+      en: [
+        "Bareback BJ +$40",
+        "69 +$40",
+        "2nd round +$60",
+        "VIP Package (+$100): Bareback BJ + 69 + 2nd round"
+      ],
+      cn: [
+        "无套口 +$40",
+        "69 +$40",
+        "第二次 +$60",
+        "VIP套餐 (+$100)：无套口 + 69 + 第二次"
+      ]
+    },
+    gallery: [
+      "/images/girls/zhixin/IMG_7226.JPG",
+      "/images/girls/zhixin/IMG_7227.JPG",
+      "/images/girls/zhixin/IMG_7228.JPG"
     ]
   },
   {
