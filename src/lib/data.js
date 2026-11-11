@@ -8,17 +8,17 @@ export const girls = [
     stats: {
       age: 19,
       height: "163cm",
-      weight: "43kg",
+      weight: "42kg",
       cup: "B-C (Natural)",
       nationality: "Chinese"
     },
     image: "/images/girls/kemengmeng/IMG_7591.JPG",
     video: "/images/girls/kemengmeng/video.mov",
     description: {
-      en: "Brand new UK student fly-in arrival 🪂! Introducing 19-year-old (07') Kemengmeng 👩‍🎓 making her Auckland debut! A pure, petite, and slender 'white-young-slim' sweet lolita type 👧 standing 163cm with natural authentic B-C cup curves. Silky porcelain-fair skin, delicate doll-like features, and a soft, sweet demeanor. Rave customer reviews praising her great service and tight, youthful feel 👍! Limited short-term stay—don't miss out!",
-      cn: "最🆕英国🇬🇧UK在读留学生👩‍🎓空降🪂 可萌萌！07年19岁真正在读女大初次登场AKL！163cm极品白幼瘦小萝莉👧，保真纯天然B-C杯美胸，肌肤白皙粉嫩，五官精致甜美，青春气息扑面而来！客户好评反馈服务好、紧致度拉满👍！极品07年UK留子短期停留，闭眼冲切勿错过！"
+      en: "Brand new fly-in arrival 🪂! Kemengmeng is a UK 🇬🇧 university student 👩‍🎓 with a British-chic, gorgeous sweet lolita 'white-young-slim' look! Fluent in English with barrier-free communication. A Southern Chinese sweetheart making her first arrival 🛬 and debut in Auckland! Highlight: porcelain-fair silky skin, gentle and caring personality, a fresh budding flower waiting to bloom 😜! Super sweet and youthful 🎉😍🤩 Natural B-C cup, duo/threesome available 🉑双✈️, 100% service cooperation 💯🤩🤩✌️🌿🎉🎉😍 Limited short-term stay!\n⚠️ 1:1 true to photos ⚠️",
+      cn: "最🆕国内🪂可萌萌英国🇬🇧在读留学生👩‍🎓 英伦风高颜值小萝莉白幼瘦款 英文无障碍流利沟通 南方妹子初次抵达🛬AKL 初次登场 重点白嫩 性格温柔体贴 待开苞的花蕾😜甜甜甜妹子哇🎉年轻 年轻😍🤩B➕ 🉑双✈️服务配合度💯🤩🤩✌️🌿🎉🎉😍短期 短期 短期\n⚠️图片1:1⚠️"
     },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min · $2800-$3000 / 包夜 · $4200 / 一天",
+    price: "$800 / 1h · $4000 / 包夜 · $5000 / 一天",
     services: {
       en: [
         "Bareback BJ",
@@ -26,7 +26,11 @@ export const girls = [
         "Deep French Kissing",
         "69",
         "Stockings",
-        "Breast Slide"
+        "Breast Slide",
+        "Uniform/Cosplay",
+        "Massage",
+        "Includes 2nd round",
+        "Duo Available"
       ],
       cn: [
         "无套口",
@@ -34,18 +38,16 @@ export const girls = [
         "蛇吻",
         "69",
         "丝袜",
-        "胸推"
+        "胸推",
+        "制服诱惑",
+        "按摩",
+        "包第二次",
+        "可双飞"
       ]
     },
     extras: {
-      en: [
-        "2nd round +$50",
-        "Cum in mouth +$50"
-      ],
-      cn: [
-        "第二次 +$50",
-        "口爆 +$50"
-      ]
+      en: [],
+      cn: []
     },
     gallery: [
       "/images/girls/kemengmeng/IMG_7590.JPG",
