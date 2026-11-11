@@ -12,7 +12,7 @@ export const girls = [
       cup: "B-C (Natural)",
       nationality: "Chinese"
     },
-    image: "/images/girls/kemengmeng/IMG_7591.JPG",
+    image: "/images/girls/kemengmeng/IMG_7593.JPG",
     video: "/images/girls/kemengmeng/video.mov",
     description: {
       en: "Brand new fly-in arrival 🪂! Kemengmeng is a UK 🇬🇧 university student 👩‍🎓 with a British-chic, gorgeous sweet lolita 'white-young-slim' look! Fluent in English with barrier-free communication. A Southern Chinese sweetheart making her first arrival 🛬 and debut in Auckland! Highlight: porcelain-fair silky skin, gentle and caring personality, a fresh budding flower waiting to bloom 😜! Super sweet and youthful 🎉😍🤩 Natural B-C cup, duo/threesome available 🉑双✈️, 100% service cooperation 💯🤩🤩✌️🌿🎉🎉😍 Limited short-term stay!\n⚠️ 1:1 true to photos ⚠️",
@@ -50,8 +50,8 @@ export const girls = [
       cn: []
     },
     gallery: [
+      "/images/girls/kemengmeng/IMG_7591.JPG",
       "/images/girls/kemengmeng/IMG_7590.JPG",
-      "/images/girls/kemengmeng/IMG_7593.JPG",
       "/images/girls/kemengmeng/IMG_7595.JPG",
       "/images/girls/kemengmeng/IMG_7600.JPG"
     ]
