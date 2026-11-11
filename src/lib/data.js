@@ -53,7 +53,8 @@ export const girls = [
       "/images/girls/kemengmeng/IMG_7591.JPG",
       "/images/girls/kemengmeng/IMG_7590.JPG",
       "/images/girls/kemengmeng/IMG_7595.JPG",
-      "/images/girls/kemengmeng/IMG_7600.JPG"
+      "/images/girls/kemengmeng/IMG_7600.JPG",
+      "/images/girls/kemengmeng/IMG_7608.JPG"
     ]
   },
   {
