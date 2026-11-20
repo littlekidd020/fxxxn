@@ -6,48 +6,44 @@ export const girls = [
     verified: true,
     location: "CBD",
     stats: {
-      age: 22,
-      height: "165cm",
-      weight: "45kg",
-      cup: "C+ (Natural)",
+      age: 23,
+      height: "166cm",
+      weight: "49kg",
+      cup: "D+ (Natural)",
       nationality: "Chinese"
     },
     image: "/images/girls/xiaotaotao/110.jpg",
     video: "/images/girls/xiaotaotao/video.mov",
     description: {
-      en: "Brand new arrival 🪂! Introducing sweet and elegant Xiaotaotao 🍑 making her Auckland CBD debut! Exquisite high-visual facial features, silky porcelain-fair skin, and a graceful, captivating figure with natural authentic C+ curves. Gentle, attentive, and full of pure-yet-alluring charm with 100% service cooperation 💯! Limited short-term stay—don't miss out!",
-      cn: "最🆕空降🪂 小桃桃🍑！高颜值名媛气质女神初次登场奥克兰CBD！五官精致甜美，肌肤白皙粉嫩，身材曲线柔美迷人，纯欲与优雅气质拉满！性格温柔体贴，服务配合度💯🤩🤩✌️🌿🎉🎉😍 短期停留，闭眼冲切勿错过！"
+      en: "Brand new Australian fly-in arrival 🪂! First time landing in Auckland 🛬 — Xiaotaotao 🍑 is here for a short-term 7-day part-time stay! 100% natural and verified authentic D+ curves 🥛 with completely natural, zero-cosmetic-surgery facial features and body 🤩😍! Smooth, delicate lightly sun-kissed skin, high-visual looks, and a curvy hourglass figure—a flexible fitness and yoga girl who can do full splits 👧! Voluptuous, sensual physique with a soft, sweet voice 🎉🤩 and 100% service cooperation 💯! ⚠️ Ultra-short stay: 5-day countdown! ⚠️",
+      cn: "🆕澳洲🦘空降🪂初次抵达🛬小桃桃🍑短期兼职7️⃣天，纯天然D➕罩🥛哇塞 五官全身0️⃣科技🤩 😍皮肤雪微微麦色嫩 颜值在线 前凸后翘健身系一字马瑜伽女孩👧丰满肉欲类福气身材一一 声音柔柔糯糯🎉🤩😱😱服务配合度💯 尤物🤩🤩✌️🌿🎉🎉⚠️超短期倒计时5️⃣天⚠️"
     },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3200 / 包夜 · $4200 / 一天",
+    price: "$700 / 1h · $600 / 45min · $500 / 30min · $3500 / 包夜 · $4500 / 一天",
     services: {
       en: [
-        "Shower together",
-        "Water BJ",
-        "Deep French Kissing",
-        "Breast Slide",
-        "69",
         "Bareback BJ",
-        "Black Stockings",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide",
+        "Massage",
         "Includes 2nd round"
       ],
       cn: [
-        "陪浴",
-        "水中箫",
-        "蛇吻",
-        "胸推",
-        "69",
         "无套口",
-        "黑丝",
-        "做2次"
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "胸推",
+        "按摩",
+        "包第二次"
       ]
     },
     extras: {
-      en: [
-        "Cum in mouth +$50"
-      ],
-      cn: [
-        "口爆 +$50"
-      ]
+      en: [],
+      cn: []
     },
     gallery: [
       "/images/girls/xiaotaotao/IMG_7844.JPG",
