@@ -107,61 +107,61 @@ export const girls = [
     ]
   },
   {
-    id: 39,
-    name: { en: "Kemengmeng", cn: "可萌萌" },
+    id: 19,
+    name: { en: "Jianyi", cn: "简一" },
     status: "available",
     verified: true,
     location: "CBD",
     stats: {
-      age: 19,
-      height: "163cm",
-      weight: "42kg",
-      cup: "B-C (Natural)",
+      age: 21,
+      height: "171cm",
+      weight: "47kg",
+      cup: "D+ (Natural)",
       nationality: "Chinese"
     },
-    image: "/images/girls/kemengmeng/IMG_7593.JPG",
-    video: "/images/girls/kemengmeng/video.mov",
+    image: "/images/girls/jianyi/IMG_5889.JPG",
+    video: "/images/girls/jianyi/video.mov",
     description: {
-      en: "Brand new fly-in arrival 🪂! Kemengmeng is a UK 🇬🇧 university student 👩‍🎓 with a British-chic, gorgeous sweet lolita 'white-young-slim' look! Fluent in English with barrier-free communication. A Southern Chinese sweetheart making her first arrival 🛬 and debut in Auckland! Highlight: porcelain-fair silky skin, gentle and caring personality, a fresh budding flower waiting to bloom 😜! Super sweet and youthful 🎉😍🤩 Natural B-C cup, duo/threesome available 🉑双✈️, 100% service cooperation 💯🤩🤩✌️🌿🎉🎉😍 Limited short-term stay!\n⚠️ 1:1 true to photos ⚠️",
-      cn: "最🆕国内🪂可萌萌英国🇬🇧在读留学生👩‍🎓 英伦风高颜值小萝莉白幼瘦款 英文无障碍流利沟通 南方妹子初次抵达🛬AKL 初次登场 重点白嫩 性格温柔体贴 待开苞的花蕾😜甜甜甜妹子哇🎉年轻 年轻😍🤩B➕ 🉑双✈️服务配合度💯🤩🤩✌️🌿🎉🎉😍短期 短期 短期\n⚠️图片1:1⚠️"
+      en: "Brand new arrival! Fly-in from China 🪂, local university student part-timer 👩‍🎓 — Jianyi! Exceptionally beautiful, resembling Yang Mi, with 100% natural verified D+ cup breasts 🤩. Silky smooth porcelain skin with flawless 360-degree beauty. 171cm height with long legs, perfect hourglass curves! Highly recommended! Don't hesitate!\n\n⚠️ Working hours: Mon-Fri 3pm-11pm, Weekends all day ⚠️",
+      cn: "🆕人国内空降🪂本地在读新学生👩‍🎓简一兼职！超高颜值酷似杨幂，拥有纯天然D杯🥛罩🤩皮肤白嫩细腻，360度无死角的美，身高171大长腿，完美绝佳身材！你还在等什么？闭眼冲！闭眼冲！🤩🤩✌️🌿🎉🎉😍\n\n⚠️兼职搬砖🧱时间：周一至周五 3pm-11pm，周末全天⚠️"
     },
-    price: "$800 / 1h · $4000 / 包夜 · $5000 / 一天",
+    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3500 / 10h (包夜) · $5000 / 一天",
     services: {
       en: [
         "Bareback BJ",
         "Shower together",
         "Deep French Kissing",
         "69",
-        "Stockings",
-        "Breast Slide",
-        "Uniform/Cosplay",
-        "Massage",
-        "Includes 2nd round",
-        "Duo Available"
+        "Breast Slide"
       ],
       cn: [
         "无套口",
         "陪浴",
         "蛇吻",
         "69",
-        "丝袜",
-        "胸推",
-        "制服诱惑",
-        "按摩",
-        "包第二次",
-        "可双飞"
+        "胸推"
       ]
     },
     extras: {
-      en: [],
-      cn: []
+      en: [
+        "2nd round +$100"
+      ],
+      cn: [
+        "第二次 +$100"
+      ]
     },
     gallery: [
-      "/images/girls/kemengmeng/IMG_7591.JPG",
-      "/images/girls/kemengmeng/IMG_7590.JPG",
-      "/images/girls/kemengmeng/IMG_7595.JPG",
-      "/images/girls/kemengmeng/IMG_7600.JPG",
-      "/images/girls/kemengmeng/IMG_7608.JPG"
+      "/images/girls/jianyi/IMG_5892.JPG",
+      "/images/girls/jianyi/IMG_5875.JPG",
+      "/images/girls/jianyi/IMG_5896.JPG",
+      "/images/girls/jianyi/IMG_5894.JPG",
+      "/images/girls/jianyi/IMG_5898.JPG",
+      "/images/girls/jianyi/IMG_5893.JPG",
+      "/images/girls/jianyi/IMG_5895.JPG",
+      "/images/girls/jianyi/IMG_5897.JPG",
+      "/images/girls/jianyi/IMG_5900.JPG",
+      "/images/girls/jianyi/IMG_5906.JPG",
+      "/images/girls/jianyi/IMG_5907.JPG"
     ]
   },
   {
@@ -224,61 +224,61 @@ export const girls = [
     ]
   },
   {
-    id: 19,
-    name: { en: "Jianyi", cn: "简一" },
+    id: 39,
+    name: { en: "Kemengmeng", cn: "可萌萌" },
     status: "available",
     verified: true,
     location: "CBD",
     stats: {
-      age: 21,
-      height: "171cm",
-      weight: "47kg",
-      cup: "D+ (Natural)",
+      age: 19,
+      height: "163cm",
+      weight: "42kg",
+      cup: "B-C (Natural)",
       nationality: "Chinese"
     },
-    image: "/images/girls/jianyi/IMG_5889.JPG",
-    video: "/images/girls/jianyi/video.mov",
+    image: "/images/girls/kemengmeng/IMG_7593.JPG",
+    video: "/images/girls/kemengmeng/video.mov",
     description: {
-      en: "Brand new arrival! Fly-in from China 🪂, local university student part-timer 👩‍🎓 — Jianyi! Exceptionally beautiful, resembling Yang Mi, with 100% natural verified D+ cup breasts 🤩. Silky smooth porcelain skin with flawless 360-degree beauty. 171cm height with long legs, perfect hourglass curves! Highly recommended! Don't hesitate!\n\n⚠️ Working hours: Mon-Fri 3pm-11pm, Weekends all day ⚠️",
-      cn: "🆕人国内空降🪂本地在读新学生👩‍🎓简一兼职！超高颜值酷似杨幂，拥有纯天然D杯🥛罩🤩皮肤白嫩细腻，360度无死角的美，身高171大长腿，完美绝佳身材！你还在等什么？闭眼冲！闭眼冲！🤩🤩✌️🌿🎉🎉😍\n\n⚠️兼职搬砖🧱时间：周一至周五 3pm-11pm，周末全天⚠️"
+      en: "Brand new fly-in arrival 🪂! Kemengmeng is a UK 🇬🇧 university student 👩‍🎓 with a British-chic, gorgeous sweet lolita 'white-young-slim' look! Fluent in English with barrier-free communication. A Southern Chinese sweetheart making her first arrival 🛬 and debut in Auckland! Highlight: porcelain-fair silky skin, gentle and caring personality, a fresh budding flower waiting to bloom 😜! Super sweet and youthful 🎉😍🤩 Natural B-C cup, duo/threesome available 🉑双✈️, 100% service cooperation 💯🤩🤩✌️🌿🎉🎉😍 Limited short-term stay!\n⚠️ 1:1 true to photos ⚠️",
+      cn: "最🆕国内🪂可萌萌英国🇬🇧在读留学生👩‍🎓 英伦风高颜值小萝莉白幼瘦款 英文无障碍流利沟通 南方妹子初次抵达🛬AKL 初次登场 重点白嫩 性格温柔体贴 待开苞的花蕾😜甜甜甜妹子哇🎉年轻 年轻😍🤩B➕ 🉑双✈️服务配合度💯🤩🤩✌️🌿🎉🎉😍短期 短期 短期\n⚠️图片1:1⚠️"
     },
-    price: "$700 / 1h · $650 / 45min · $600 / 30min · $3500 / 10h (包夜) · $5000 / 一天",
+    price: "$800 / 1h · $4000 / 包夜 · $5000 / 一天",
     services: {
       en: [
         "Bareback BJ",
         "Shower together",
         "Deep French Kissing",
         "69",
-        "Breast Slide"
+        "Stockings",
+        "Breast Slide",
+        "Uniform/Cosplay",
+        "Massage",
+        "Includes 2nd round",
+        "Duo Available"
       ],
       cn: [
         "无套口",
         "陪浴",
         "蛇吻",
         "69",
-        "胸推"
+        "丝袜",
+        "胸推",
+        "制服诱惑",
+        "按摩",
+        "包第二次",
+        "可双飞"
       ]
     },
     extras: {
-      en: [
-        "2nd round +$100"
-      ],
-      cn: [
-        "第二次 +$100"
-      ]
+      en: [],
+      cn: []
     },
     gallery: [
-      "/images/girls/jianyi/IMG_5892.JPG",
-      "/images/girls/jianyi/IMG_5875.JPG",
-      "/images/girls/jianyi/IMG_5896.JPG",
-      "/images/girls/jianyi/IMG_5894.JPG",
-      "/images/girls/jianyi/IMG_5898.JPG",
-      "/images/girls/jianyi/IMG_5893.JPG",
-      "/images/girls/jianyi/IMG_5895.JPG",
-      "/images/girls/jianyi/IMG_5897.JPG",
-      "/images/girls/jianyi/IMG_5900.JPG",
-      "/images/girls/jianyi/IMG_5906.JPG",
-      "/images/girls/jianyi/IMG_5907.JPG"
+      "/images/girls/kemengmeng/IMG_7591.JPG",
+      "/images/girls/kemengmeng/IMG_7590.JPG",
+      "/images/girls/kemengmeng/IMG_7595.JPG",
+      "/images/girls/kemengmeng/IMG_7600.JPG",
+      "/images/girls/kemengmeng/IMG_7608.JPG"
     ]
   },
   {
