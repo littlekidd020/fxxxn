@@ -1,5 +1,61 @@
 export const girls = [
   {
+    id: 41,
+    name: { en: "Xiaotaotao", cn: "小桃桃🍑" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 22,
+      height: "165cm",
+      weight: "45kg",
+      cup: "C+ (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/xiaotaotao/110.jpg",
+    video: "/images/girls/xiaotaotao/video.mov",
+    description: {
+      en: "Brand new arrival 🪂! Introducing sweet and elegant Xiaotaotao 🍑 making her Auckland CBD debut! Exquisite high-visual facial features, silky porcelain-fair skin, and a graceful, captivating figure with natural authentic C+ curves. Gentle, attentive, and full of pure-yet-alluring charm with 100% service cooperation 💯! Limited short-term stay—don't miss out!",
+      cn: "最🆕空降🪂 小桃桃🍑！高颜值名媛气质女神初次登场奥克兰CBD！五官精致甜美，肌肤白皙粉嫩，身材曲线柔美迷人，纯欲与优雅气质拉满！性格温柔体贴，服务配合度💯🤩🤩✌️🌿🎉🎉😍 短期停留，闭眼冲切勿错过！"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3200 / 包夜 · $4200 / 一天",
+    services: {
+      en: [
+        "Shower together",
+        "Water BJ",
+        "Deep French Kissing",
+        "Breast Slide",
+        "69",
+        "Bareback BJ",
+        "Black Stockings",
+        "Includes 2nd round"
+      ],
+      cn: [
+        "陪浴",
+        "水中箫",
+        "蛇吻",
+        "胸推",
+        "69",
+        "无套口",
+        "黑丝",
+        "做2次"
+      ]
+    },
+    extras: {
+      en: [
+        "Cum in mouth +$50"
+      ],
+      cn: [
+        "口爆 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/xiaotaotao/IMG_7844.JPG",
+      "/images/girls/xiaotaotao/IMG_7845.JPG",
+      "/images/girls/xiaotaotao/IMG_7843.JPG"
+    ]
+  },
+  {
     id: 40,
     name: { en: "Kai", cn: "Kai（短期7️⃣天）" },
     status: "available",
