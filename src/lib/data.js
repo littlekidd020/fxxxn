@@ -1,5 +1,62 @@
 export const girls = [
   {
+    id: 40,
+    name: { en: "Kai", cn: "Kai" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "165cm",
+      weight: "45kg",
+      cup: "C+ (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/kai/IMG_7967.JPG",
+    video: "/images/girls/kai/video.mov",
+    description: {
+      en: "Brand new Australian fly-in arrival 🪂! Introducing 24-year-old Kai 🦘 making her Auckland CBD debut! Standing 165cm and 45kg with a slender waist, long legs, and 100% natural authentic C+ curves. Delicate porcelain-fair skin, stunning high-visual facial features, and an irresistible mix of sweet elegance and alluring charm. 100% service cooperation 💯! Limited short-term stay—don't miss out!",
+      cn: "最🆕澳洲🦘空降🪂 Kai！24岁高颜值气质美女初次抵达🛬AKL！身高165cm、体重45kg，纤细蛮腰大长腿，拥有纯天然真🐻C+杯傲人曲线与蜜桃臀🍑！肌肤白皙细腻，五官精致迷人，甜美纯欲与性感魅力兼备，服务配合度💯🤩🤩✌️🌿🎉🎉😍 短期停留，闭眼冲切勿错过！"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3000 / 包夜 · $4200 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide",
+        "Uniform/Cosplay",
+        "Massage"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "胸推",
+        "制服诱惑",
+        "按摩"
+      ]
+    },
+    extras: {
+      en: [
+        "2nd round +$50",
+        "Cum in mouth +$50"
+      ],
+      cn: [
+        "第二次 +$50",
+        "口爆 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/kai/IMG_7968.JPG",
+      "/images/girls/kai/IMG_7969.JPG"
+    ]
+  },
+  {
     id: 39,
     name: { en: "Kemengmeng", cn: "可萌萌" },
     status: "available",
