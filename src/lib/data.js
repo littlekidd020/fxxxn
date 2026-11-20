@@ -1,7 +1,7 @@
 export const girls = [
   {
     id: 40,
-    name: { en: "Kai", cn: "Kai" },
+    name: { en: "Kai", cn: "Kai（短期7️⃣天）" },
     status: "available",
     verified: true,
     location: "CBD",
@@ -15,39 +15,37 @@ export const girls = [
     image: "/images/girls/kai/IMG_7967.JPG",
     video: "/images/girls/kai/video.mov",
     description: {
-      en: "Brand new Australian fly-in arrival 🪂! Introducing 24-year-old Kai 🦘 making her Auckland CBD debut! Standing 165cm and 45kg with a slender waist, long legs, and 100% natural authentic C+ curves. Delicate porcelain-fair skin, stunning high-visual facial features, and an irresistible mix of sweet elegance and alluring charm. 100% service cooperation 💯! Limited short-term stay—don't miss out!",
-      cn: "最🆕澳洲🦘空降🪂 Kai！24岁高颜值气质美女初次抵达🛬AKL！身高165cm、体重45kg，纤细蛮腰大长腿，拥有纯天然真🐻C+杯傲人曲线与蜜桃臀🍑！肌肤白皙细腻，五官精致迷人，甜美纯欲与性感魅力兼备，服务配合度💯🤩🤩✌️🌿🎉🎉😍 短期停留，闭眼冲切勿错过！"
+      en: "Brand new fly-in arrival Kai! Short-term 7-day stay only! Stunning high-visual looks with a devilishly hot hourglass figure. A fitness lover 🏋️‍♀️ with incredible body proportions and undeniable top-tier service 😝🎉🌹! standing 165cm and 45kg with 100% natural C+ curves. What are you waiting for? Final 5-day countdown—don't miss out!",
+      cn: "国内空降新人Kai短期7天颜值在线魔鬼身材 平时爱健身🏋️‍♀️身材比例非常哇塞 服务系毋庸置疑😝🎉🌹你还在等什么最后倒计时5天了😱"
     },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3000 / 包夜 · $4200 / 一天",
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3200 / 包夜 · $4200 / 一天",
     services: {
       en: [
-        "Bareback BJ",
         "Shower together",
+        "Water BJ",
         "Deep French Kissing",
-        "69",
-        "Stockings",
         "Breast Slide",
-        "Uniform/Cosplay",
-        "Massage"
+        "69",
+        "Bareback BJ",
+        "Black Stockings",
+        "Includes 2nd round"
       ],
       cn: [
-        "无套口",
         "陪浴",
+        "水中箫",
         "蛇吻",
-        "69",
-        "丝袜",
         "胸推",
-        "制服诱惑",
-        "按摩"
+        "69",
+        "无套口",
+        "黑丝",
+        "做2次"
       ]
     },
     extras: {
       en: [
-        "2nd round +$50",
         "Cum in mouth +$50"
       ],
       cn: [
-        "第二次 +$50",
         "口爆 +$50"
       ]
     },
