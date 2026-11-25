@@ -1,5 +1,63 @@
 export const girls = [
   {
+    id: 42,
+    name: { en: "Xiaobaichun", cn: "小白纯👩‍🎓" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 20,
+      height: "170cm",
+      weight: "46kg",
+      cup: "C+ (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/xiaobaichun/IMG_8090.JPG",
+    video: "/images/girls/xiaobaichun/video.mov",
+    description: {
+      en: "Brand new arrival 🪂! Introducing 20-year-old pure student newbie Xiaobaichun 👩‍🎓 making her Auckland CBD debut! Standing 170cm tall with slender long legs, 46kg slim figure, and 100% natural authentic C+ curves. Exquisite pure and sweet high-visual features, silky porcelain-fair skin, gentle and attentive personality with 100% service cooperation 💯🤩🤩✌️🌿🎉🎉😍 Limited short-term stay—don't miss out!",
+      cn: "最🆕人20岁小白纯👩‍🎓初次登场奥克兰CBD！身高170高挑大长腿，46kg苗条完美比例，拥有纯天然C+美胸🥛🤩 清纯甜美高颜值，皮肤白皙细腻，性格温柔乖巧体贴，青春气息与纯欲感拉满，服务配合度💯🤩🤩✌️🌿🎉🎉😍 短期兼职，闭眼冲切勿错过！"
+    },
+    price: "$900 / 1h · $1300 / 90min · $1500 / 2h · $3800 / 包夜 · $6000 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide",
+        "Massage",
+        "Includes 2nd round"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "胸推",
+        "按摩",
+        "包第二次"
+      ]
+    },
+    extras: {
+      en: [
+        "Cum in mouth +$50"
+      ],
+      cn: [
+        "口爆 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/xiaobaichun/IMG_8089.JPG",
+      "/images/girls/xiaobaichun/IMG_8114.JPG",
+      "/images/girls/xiaobaichun/IMG_8091.JPG",
+      "/images/girls/xiaobaichun/IMG_8116.JPG",
+      "/images/girls/xiaobaichun/IMG_8115.JPG"
+    ]
+  },
+  {
     id: 41,
     name: { en: "Xiaotaotao", cn: "小桃桃🍑" },
     status: "available",
