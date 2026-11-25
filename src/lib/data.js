@@ -13,7 +13,7 @@ export const girls = [
       nationality: "Chinese"
     },
     image: "/images/girls/xiaobaichun/IMG_8090.JPG",
-    video: "/images/girls/xiaobaichun/video.mov",
+    video: "/images/girls/xiaobaichun/video.mp4",
     description: {
       en: "Brand new Australian fly-in arrival 🦘🪂! Xiaobaichun is a 20-year-old media university student in Sydney 👩‍🎓 and part-time fashion model blogger! Ultra-high visual beauty with silky porcelain-fair skin, 100% natural zero-cosmetic-surgery face and body, effortlessly stunning even bare-faced. Soft, gentle, and attentive voice 👍 with an unforgettable wild contrast in bed—your dream first love with both top-tier looks and 100% service 💯😝🤩🤩🎉! Standing 170cm tall and 46kg, she loves travel, adventure, fine food, and skiing ⛷️. Ultra-short stay 😱😱😱 — 1:1 true to photos!",
       cn: "🆕人澳洲🦘空降🪂小白纯澳洲悉尼传媒在读女大👩‍🎓超高颜值 皮肤白嫩嫩 业余某平台穿搭模特博主 全身0️⃣科技纯天然 素颜抗打 声音温柔细腻细心贴心👍 绝b反差sao 你的初恋有颜值又有服务💯让你流连忘返😝🤩🤩🎉 理性消费😂不差💰的闭眼冲 短期 超短期😱😱😱\n兴趣爱好：旅游、冒险、吃美食、滑雪⛷️\n⚠️图片1:1⚠️"
