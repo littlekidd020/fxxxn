@@ -54,58 +54,6 @@ export const girls = [
     ]
   },
   {
-    id: 41,
-    name: { en: "Xiaotaotao", cn: "小桃桃🍑" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 23,
-      height: "166cm",
-      weight: "49kg",
-      cup: "D+ (Natural)",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/xiaotaotao/110.jpg",
-    video: "/images/girls/xiaotaotao/video.mov",
-    description: {
-      en: "Brand new Australian fly-in arrival 🪂! First time landing in Auckland 🛬 — Xiaotaotao 🍑 is here for a short-term 7-day part-time stay! 100% natural and verified authentic D+ curves 🥛 with completely natural, zero-cosmetic-surgery facial features and body 🤩😍! Smooth, delicate lightly sun-kissed skin, high-visual looks, and a curvy hourglass figure—a flexible fitness and yoga girl who can do full splits 👧! Voluptuous, sensual physique with a soft, sweet voice 🎉🤩 and 100% service cooperation 💯! ⚠️ Ultra-short stay: 5-day countdown! ⚠️",
-      cn: "🆕澳洲🦘空降🪂初次抵达🛬小桃桃🍑短期兼职7️⃣天，纯天然D➕罩🥛哇塞 五官全身0️⃣科技🤩 😍皮肤雪微微麦色嫩 颜值在线 前凸后翘健身系一字马瑜伽女孩👧丰满肉欲类福气身材一一 声音柔柔糯糯🎉🤩😱😱服务配合度💯 尤物🤩🤩✌️🌿🎉🎉⚠️超短期倒计时5️⃣天⚠️"
-    },
-    price: "$700 / 1h · $600 / 45min · $500 / 30min · $3500 / 包夜 · $4500 / 一天",
-    services: {
-      en: [
-        "Bareback BJ",
-        "Shower together",
-        "Deep French Kissing",
-        "69",
-        "Stockings",
-        "Breast Slide",
-        "Massage",
-        "Includes 2nd round"
-      ],
-      cn: [
-        "无套口",
-        "陪浴",
-        "蛇吻",
-        "69",
-        "丝袜",
-        "胸推",
-        "按摩",
-        "包第二次"
-      ]
-    },
-    extras: {
-      en: [],
-      cn: []
-    },
-    gallery: [
-      "/images/girls/xiaotaotao/IMG_7844.JPG",
-      "/images/girls/xiaotaotao/IMG_7845.JPG",
-      "/images/girls/xiaotaotao/IMG_7843.JPG"
-    ]
-  },
-  {
     id: 40,
     name: { en: "Kai", cn: "Kai（短期7️⃣天）" },
     status: "available",
@@ -393,6 +341,58 @@ export const girls = [
       "/images/girls/faye/IMG_7014.JPG",
       "/images/girls/faye/IMG_6966.JPG",
       "/images/girls/faye/IMG_6962.JPG"
+    ]
+  },
+  {
+    id: 41,
+    name: { en: "Xiaotaotao", cn: "小桃桃🍑" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 23,
+      height: "166cm",
+      weight: "49kg",
+      cup: "D+ (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/xiaotaotao/110.jpg",
+    video: "/images/girls/xiaotaotao/video.mov",
+    description: {
+      en: "Brand new Australian fly-in arrival 🪂! First time landing in Auckland 🛬 — Xiaotaotao 🍑 is here for a short-term 7-day part-time stay! 100% natural and verified authentic D+ curves 🥛 with completely natural, zero-cosmetic-surgery facial features and body 🤩😍! Smooth, delicate lightly sun-kissed skin, high-visual looks, and a curvy hourglass figure—a flexible fitness and yoga girl who can do full splits 👧! Voluptuous, sensual physique with a soft, sweet voice 🎉🤩 and 100% service cooperation 💯! ⚠️ Ultra-short stay: 5-day countdown! ⚠️",
+      cn: "🆕澳洲🦘空降🪂初次抵达🛬小桃桃🍑短期兼职7️⃣天，纯天然D➕罩🥛哇塞 五官全身0️⃣科技🤩 😍皮肤雪微微麦色嫩 颜值在线 前凸后翘健身系一字马瑜伽女孩👧丰满肉欲类福气身材一一 声音柔柔糯糯🎉🤩😱😱服务配合度💯 尤物🤩🤩✌️🌿🎉🎉⚠️超短期倒计时5️⃣天⚠️"
+    },
+    price: "$700 / 1h · $600 / 45min · $500 / 30min · $3500 / 包夜 · $4500 / 一天",
+    services: {
+      en: [
+        "Bareback BJ",
+        "Shower together",
+        "Deep French Kissing",
+        "69",
+        "Stockings",
+        "Breast Slide",
+        "Massage",
+        "Includes 2nd round"
+      ],
+      cn: [
+        "无套口",
+        "陪浴",
+        "蛇吻",
+        "69",
+        "丝袜",
+        "胸推",
+        "按摩",
+        "包第二次"
+      ]
+    },
+    extras: {
+      en: [],
+      cn: []
+    },
+    gallery: [
+      "/images/girls/xiaotaotao/IMG_7844.JPG",
+      "/images/girls/xiaotaotao/IMG_7845.JPG",
+      "/images/girls/xiaotaotao/IMG_7843.JPG"
     ]
   },
   {
