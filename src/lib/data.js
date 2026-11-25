@@ -9,45 +9,41 @@ export const girls = [
       age: 20,
       height: "170cm",
       weight: "46kg",
-      cup: "C+ (Natural)",
+      cup: "B-C (Natural)",
       nationality: "Chinese"
     },
     image: "/images/girls/xiaobaichun/IMG_8090.JPG",
     video: "/images/girls/xiaobaichun/video.mov",
     description: {
-      en: "Brand new arrival 🪂! Introducing 20-year-old pure student newbie Xiaobaichun 👩‍🎓 making her Auckland CBD debut! Standing 170cm tall with slender long legs, 46kg slim figure, and 100% natural authentic C+ curves. Exquisite pure and sweet high-visual features, silky porcelain-fair skin, gentle and attentive personality with 100% service cooperation 💯🤩🤩✌️🌿🎉🎉😍 Limited short-term stay—don't miss out!",
-      cn: "最🆕人20岁小白纯👩‍🎓初次登场奥克兰CBD！身高170高挑大长腿，46kg苗条完美比例，拥有纯天然C+美胸🥛🤩 清纯甜美高颜值，皮肤白皙细腻，性格温柔乖巧体贴，青春气息与纯欲感拉满，服务配合度💯🤩🤩✌️🌿🎉🎉😍 短期兼职，闭眼冲切勿错过！"
+      en: "Brand new Australian fly-in arrival 🦘🪂! Xiaobaichun is a 20-year-old media university student in Sydney 👩‍🎓 and part-time fashion model blogger! Ultra-high visual beauty with silky porcelain-fair skin, 100% natural zero-cosmetic-surgery face and body, effortlessly stunning even bare-faced. Soft, gentle, and attentive voice 👍 with an unforgettable wild contrast in bed—your dream first love with both top-tier looks and 100% service 💯😝🤩🤩🎉! Standing 170cm tall and 46kg, she loves travel, adventure, fine food, and skiing ⛷️. Ultra-short stay 😱😱😱 — 1:1 true to photos!",
+      cn: "🆕人澳洲🦘空降🪂小白纯澳洲悉尼传媒在读女大👩‍🎓超高颜值 皮肤白嫩嫩 业余某平台穿搭模特博主 全身0️⃣科技纯天然 素颜抗打 声音温柔细腻细心贴心👍 绝b反差sao 你的初恋有颜值又有服务💯让你流连忘返😝🤩🤩🎉 理性消费😂不差💰的闭眼冲 短期 超短期😱😱😱\n兴趣爱好：旅游、冒险、吃美食、滑雪⛷️\n⚠️图片1:1⚠️"
     },
-    price: "$900 / 1h · $1300 / 90min · $1500 / 2h · $3800 / 包夜 · $6000 / 一天",
+    price: "$900 / 1h · $1300 / 90min · $1500 / 2h · $3800-$4000 / 包夜 · $5500-$6000 / 一天",
     services: {
       en: [
-        "Bareback BJ",
         "Shower together",
+        "Bareback BJ",
+        "Uniform/Cosplay",
         "Deep French Kissing",
         "69",
         "Stockings",
-        "Breast Slide",
-        "Massage",
-        "Includes 2nd round"
+        "High Heels",
+        "Massage"
       ],
       cn: [
+        "共浴",
         "无套口",
-        "陪浴",
+        "制服",
         "蛇吻",
         "69",
         "丝袜",
-        "胸推",
-        "按摩",
-        "包第二次"
+        "高跟鞋",
+        "按摩"
       ]
     },
     extras: {
-      en: [
-        "Cum in mouth +$50"
-      ],
-      cn: [
-        "口爆 +$50"
-      ]
+      en: [],
+      cn: []
     },
     gallery: [
       "/images/girls/xiaobaichun/IMG_8089.JPG",
