@@ -54,61 +54,6 @@ export const girls = [
     ]
   },
   {
-    id: 40,
-    name: { en: "Kai", cn: "Kai（短期7️⃣天）" },
-    status: "available",
-    verified: true,
-    location: "CBD",
-    stats: {
-      age: 24,
-      height: "165cm",
-      weight: "45kg",
-      cup: "C+ (Natural)",
-      nationality: "Chinese"
-    },
-    image: "/images/girls/kai/IMG_7967.JPG",
-    video: "/images/girls/kai/video.mov",
-    description: {
-      en: "Brand new fly-in arrival Kai! Short-term 7-day stay only! Stunning high-visual looks with a devilishly hot hourglass figure. A fitness lover 🏋️‍♀️ with incredible body proportions and undeniable top-tier service 😝🎉🌹! standing 165cm and 45kg with 100% natural C+ curves. What are you waiting for? Final 5-day countdown—don't miss out!",
-      cn: "国内空降新人Kai短期7天颜值在线魔鬼身材 平时爱健身🏋️‍♀️身材比例非常哇塞 服务系毋庸置疑😝🎉🌹你还在等什么最后倒计时5天了😱"
-    },
-    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3200 / 包夜 · $4200 / 一天",
-    services: {
-      en: [
-        "Shower together",
-        "Water BJ",
-        "Deep French Kissing",
-        "Breast Slide",
-        "69",
-        "Bareback BJ",
-        "Black Stockings",
-        "Includes 2nd round"
-      ],
-      cn: [
-        "陪浴",
-        "水中箫",
-        "蛇吻",
-        "胸推",
-        "69",
-        "无套口",
-        "黑丝",
-        "做2次"
-      ]
-    },
-    extras: {
-      en: [
-        "Cum in mouth +$50"
-      ],
-      cn: [
-        "口爆 +$50"
-      ]
-    },
-    gallery: [
-      "/images/girls/kai/IMG_7968.JPG",
-      "/images/girls/kai/IMG_7969.JPG"
-    ]
-  },
-  {
     id: 19,
     name: { en: "Jianyi", cn: "简一" },
     status: "available",
@@ -341,6 +286,61 @@ export const girls = [
       "/images/girls/faye/IMG_7014.JPG",
       "/images/girls/faye/IMG_6966.JPG",
       "/images/girls/faye/IMG_6962.JPG"
+    ]
+  },
+  {
+    id: 40,
+    name: { en: "Kai", cn: "Kai（短期7️⃣天）" },
+    status: "available",
+    verified: true,
+    location: "CBD",
+    stats: {
+      age: 24,
+      height: "165cm",
+      weight: "45kg",
+      cup: "C+ (Natural)",
+      nationality: "Chinese"
+    },
+    image: "/images/girls/kai/IMG_7967.JPG",
+    video: "/images/girls/kai/video.mov",
+    description: {
+      en: "Brand new fly-in arrival Kai! Short-term 7-day stay only! Stunning high-visual looks with a devilishly hot hourglass figure. A fitness lover 🏋️‍♀️ with incredible body proportions and undeniable top-tier service 😝🎉🌹! standing 165cm and 45kg with 100% natural C+ curves. What are you waiting for? Final 5-day countdown—don't miss out!",
+      cn: "国内空降新人Kai短期7天颜值在线魔鬼身材 平时爱健身🏋️‍♀️身材比例非常哇塞 服务系毋庸置疑😝🎉🌹你还在等什么最后倒计时5天了😱"
+    },
+    price: "$500 / 1h · $450 / 45min · $400 / 30min · $3200 / 包夜 · $4200 / 一天",
+    services: {
+      en: [
+        "Shower together",
+        "Water BJ",
+        "Deep French Kissing",
+        "Breast Slide",
+        "69",
+        "Bareback BJ",
+        "Black Stockings",
+        "Includes 2nd round"
+      ],
+      cn: [
+        "陪浴",
+        "水中箫",
+        "蛇吻",
+        "胸推",
+        "69",
+        "无套口",
+        "黑丝",
+        "做2次"
+      ]
+    },
+    extras: {
+      en: [
+        "Cum in mouth +$50"
+      ],
+      cn: [
+        "口爆 +$50"
+      ]
+    },
+    gallery: [
+      "/images/girls/kai/IMG_7968.JPG",
+      "/images/girls/kai/IMG_7969.JPG"
     ]
   },
   {
