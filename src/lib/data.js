@@ -50,7 +50,9 @@ export const girls = [
       "/images/girls/xiaobaichun/IMG_8114.JPG",
       "/images/girls/xiaobaichun/IMG_8091.JPG",
       "/images/girls/xiaobaichun/IMG_8116.JPG",
-      "/images/girls/xiaobaichun/IMG_8115.JPG"
+      "/images/girls/xiaobaichun/IMG_8115.JPG",
+      "/images/girls/xiaobaichun/IMG_8105.JPG",
+      "/images/girls/xiaobaichun/IMG_8150.JPG"
     ]
   },
   {
